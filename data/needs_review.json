@@ -510,5 +510,133 @@
   "filing_url": "https://efdsearch.senate.gov/search/view/paper/4728c5fd-8bbd-43f7-a028-d17cfb8008dc/",
   "reason": "paper filing (scanned image), read it on the linked page",
   "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Nicole Malliotakis",
+  "filed_date": "2026-01-07",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221287.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Ro Khanna",
+  "filed_date": "2026-01-06",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221285.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Nicole Malliotakis",
+  "filed_date": "2025-12-19",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221276.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Harold Rogers",
+  "filed_date": "2025-12-11",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221270.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Michael T. McCaul",
+  "filed_date": "2025-12-09",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221263.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Ro Khanna",
+  "filed_date": "2025-12-08",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221264.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Charles J. \"Chuck\" Fleischmann",
+  "filed_date": "2025-11-14",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221237.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Adrian Smith",
+  "filed_date": "2025-11-14",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221238.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Michael T. McCaul",
+  "filed_date": "2025-11-10",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221228.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Tony Wied",
+  "filed_date": "2025-11-10",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221233.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Ro Khanna",
+  "filed_date": "2025-11-06",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221231.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Harold Rogers",
+  "filed_date": "2025-11-05",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221223.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Lisa C. McClain",
+  "filed_date": "2025-10-23",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221212.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Harold Rogers",
+  "filed_date": "2025-10-16",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/9115689.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Keith Self",
+  "filed_date": "2025-10-14",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/9115686.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Michael T. McCaul",
+  "filed_date": "2025-10-10",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/9115684.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
  }
 ]

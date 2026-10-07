@@ -1,11 +1,12 @@
 {
- "generated_at": "2026-10-07T08:24:44+00:00",
+ "generated_at": "2026-10-07T08:31:44+00:00",
  "window_days": 30,
  "note": "Trades whose filing became public in the window (filed_date). Member party, state and committee seats are in 'members', keyed by trade.member.",
  "members": {
   "Vince Fong": {
    "bioguide_id": "F000480",
    "chamber": "House",
+   "in_office": true,
    "party": "R",
    "state": "CA",
    "district": 20,
@@ -27,6 +28,7 @@
   "Lloyd Doggett": {
    "bioguide_id": "D000399",
    "chamber": "House",
+   "in_office": true,
    "party": "D",
    "state": "TX",
    "district": 37,
@@ -47,6 +49,7 @@
   "Michael A. Rulli": {
    "bioguide_id": "R000619",
    "chamber": "House",
+   "in_office": true,
    "party": "R",
    "state": "OH",
    "district": 6,
@@ -66,6 +69,7 @@
   "Nancy Pelosi": {
    "bioguide_id": "P000197",
    "chamber": "House",
+   "in_office": true,
    "party": "D",
    "state": "CA",
    "district": 11,
@@ -76,6 +80,7 @@
   "Donald S. Beyer, Jr.": {
    "bioguide_id": "B001292",
    "chamber": "House",
+   "in_office": true,
    "party": "D",
    "state": "VA",
    "district": 8,
@@ -92,6 +97,7 @@
   "David J. Taylor": {
    "bioguide_id": "T000490",
    "chamber": "House",
+   "in_office": true,
    "party": "R",
    "state": "OH",
    "district": 2,
@@ -111,6 +117,7 @@
   "Cleo Fields": {
    "bioguide_id": "F000110",
    "chamber": "House",
+   "in_office": true,
    "party": "D",
    "state": "LA",
    "district": 6,
@@ -127,6 +134,7 @@
   "Sheldon Whitehouse": {
    "bioguide_id": "W000802",
    "chamber": "Senate",
+   "in_office": true,
    "party": "D",
    "state": "RI",
    "district": null,
@@ -164,6 +172,7 @@
   "Suzan K. DelBene": {
    "bioguide_id": "D000617",
    "chamber": "House",
+   "in_office": true,
    "party": "D",
    "state": "WA",
    "district": 1,
@@ -180,6 +189,7 @@
   "Richard Blumenthal": {
    "bioguide_id": "B001277",
    "chamber": "Senate",
+   "in_office": true,
    "party": "D",
    "state": "CT",
    "district": null,
@@ -209,6 +219,7 @@
   "James C. Justice": {
    "bioguide_id": "J000312",
    "chamber": "Senate",
+   "in_office": true,
    "party": "R",
    "state": "WV",
    "district": null,
@@ -231,6 +242,7 @@
   "Max L. Miller": {
    "bioguide_id": "M001222",
    "chamber": "House",
+   "in_office": true,
    "party": "R",
    "state": "OH",
    "district": 7,
@@ -249,6 +261,7 @@
   "Kevin Hern": {
    "bioguide_id": "H001082",
    "chamber": "House",
+   "in_office": true,
    "party": "R",
    "state": "OK",
    "district": 1,
@@ -264,6 +277,7 @@
   "Pete Sessions": {
    "bioguide_id": "S000250",
    "chamber": "House",
+   "in_office": true,
    "party": "R",
    "state": "TX",
    "district": 17,
@@ -284,6 +298,7 @@
   "Sheri Biggs": {
    "bioguide_id": "B001325",
    "chamber": "House",
+   "in_office": true,
    "party": "R",
    "state": "SC",
    "district": 3,
@@ -305,6 +320,7 @@
   "Rick W. Allen": {
    "bioguide_id": "A000372",
    "chamber": "House",
+   "in_office": true,
    "party": "R",
    "state": "GA",
    "district": 12,
@@ -326,6 +342,7 @@
   "Mitch McConnell": {
    "bioguide_id": "M000355",
    "chamber": "Senate",
+   "in_office": true,
    "party": "R",
    "state": "KY",
    "district": null,
@@ -358,6 +375,7 @@
   "Scott H. Peters": {
    "bioguide_id": "P000608",
    "chamber": "House",
+   "in_office": true,
    "party": "D",
    "state": "CA",
    "district": 50,
@@ -375,6 +393,7 @@
   "Scott Franklin": {
    "bioguide_id": "F000472",
    "chamber": "House",
+   "in_office": true,
    "party": "R",
    "state": "FL",
    "district": 18,
@@ -396,6 +415,7 @@
   "Alan Armstrong": {
    "bioguide_id": "A000383",
    "chamber": "Senate",
+   "in_office": true,
    "party": "R",
    "state": "OK",
    "district": null,
@@ -412,6 +432,7 @@
   "Byron Donalds": {
    "bioguide_id": "D000032",
    "chamber": "House",
+   "in_office": true,
    "party": "R",
    "state": "FL",
    "district": 19,
@@ -430,6 +451,7 @@
   "August Pfluger": {
    "bioguide_id": "P000048",
    "chamber": "House",
+   "in_office": true,
    "party": "R",
    "state": "TX",
    "district": 11,
@@ -450,6 +472,7 @@
   "Josh Gottheimer": {
    "bioguide_id": "G000583",
    "chamber": "House",
+   "in_office": true,
    "party": "D",
    "state": "NJ",
    "district": 5,
@@ -471,6 +494,7 @@
   "Angus S. King, Jr.": {
    "bioguide_id": "K000383",
    "chamber": "Senate",
+   "in_office": true,
    "party": "I",
    "state": "ME",
    "district": null,
@@ -496,6 +520,7 @@
   "Thomas H. Kean, Jr.": {
    "bioguide_id": "K000398",
    "chamber": "House",
+   "in_office": true,
    "party": "R",
    "state": "NJ",
    "district": 7,
@@ -515,6 +540,7 @@
   "John W. Rose": {
    "bioguide_id": "R000612",
    "chamber": "House",
+   "in_office": true,
    "party": "R",
    "state": "TN",
    "district": 6,
@@ -537,6 +563,7 @@
   "John Boozman": {
    "bioguide_id": "B001236",
    "chamber": "Senate",
+   "in_office": true,
    "party": "R",
    "state": "AR",
    "district": null,
@@ -577,6 +604,7 @@
   "Gilbert Ray Cisneros, Jr.": {
    "bioguide_id": "C001123",
    "chamber": "House",
+   "in_office": true,
    "party": "D",
    "state": "CA",
    "district": 31,
@@ -597,6 +625,7 @@
   "April McClain Delaney": {
    "bioguide_id": "M001232",
    "chamber": "House",
+   "in_office": true,
    "party": "D",
    "state": "MD",
    "district": 6,
@@ -614,6 +643,7 @@
   "Maria Elvira Salazar": {
    "bioguide_id": "S000168",
    "chamber": "House",
+   "in_office": true,
    "party": "R",
    "state": "FL",
    "district": 27,
@@ -635,6 +665,7 @@
   "John Fetterman": {
    "bioguide_id": "F000479",
    "chamber": "Senate",
+   "in_office": true,
    "party": "D",
    "state": "PA",
    "district": null,
@@ -659,6 +690,7 @@
   "Cory A. Booker": {
    "bioguide_id": "B001288",
    "chamber": "Senate",
+   "in_office": true,
    "party": "D",
    "state": "NJ",
    "district": null,
@@ -689,6 +721,7 @@
   "Brandon Gill": {
    "bioguide_id": "G000603",
    "chamber": "House",
+   "in_office": true,
    "party": "R",
    "state": "TX",
    "district": 26,
@@ -710,6 +743,7 @@
   "Mike Kelly": {
    "bioguide_id": "K000376",
    "chamber": "House",
+   "in_office": true,
    "party": "R",
    "state": "PA",
    "district": 16,
