@@ -150,3 +150,47 @@ def test_senate_table():
     assert rows[1]["ticker"] is None and rows[1]["transaction"] == "sell_partial"
     assert rows[1]["description"] == "Matured" and rows[0]["description"] is None
     assert (rows[0]["amount_min"], rows[0]["amount_max"]) == (15001, 50000)
+
+
+# Real text (Filing ID 20033695 and 20034342): "Spouse/DC Over" with the amount on the next
+# line, extra spaces in the labels, and L:/D: lines under fund purchases.
+MATSUI = """P        T           R
+ID Owner Asset Transaction
+Type
+Date Notification
+Date
+Amount Cap.
+Gains >
+$200?
+SP U.S. Treasury Note due 2/28/2029
+[GS]
+P 12/15/2025 12/16/2025 Spouse/DC Over
+$1,000,000
+F      S     : New
+SP Allocate Alpha Fund II LP [OT] P 03/26/2026 03/31/2026 $1,001 - $15,000
+F      S     : New
+L       : US
+D          : Pooled Investment Fund
+SP Riverside CA Elec Util [GS] S 03/30/2026 03/31/2026 Spouse/DC Over
+$1,000,000
+F      S     : New
+C                 S
+"""
+
+
+def test_spouse_over_split_amount():
+    rows, problems = parse_ptr_text(MATSUI)
+    assert problems == []
+    assert [r["transaction"] for r in rows] == ["buy", "buy", "sell"]
+    assert rows[0]["asset"] == "U.S. Treasury Note due 2/28/2029"
+    assert rows[0]["amount_min"] == 1000001 and rows[0]["amount_max"] is None
+    assert rows[1]["description"] == "Pooled Investment Fund"
+    assert rows[2]["asset"] == "Riverside CA Elec Util" and rows[2]["amount_min"] == 1000001
+
+
+def test_mismatch_pairs_by_position():
+    # Second row's transaction line is unreadable: the first and third rows must stay correct.
+    text = PETERS.replace("SP U.S Treasury Bills [GS] P 03/31/2025", "SP Other Asset [GS] ? 03/31/2025")
+    rows, problems = parse_ptr_text(text)
+    assert problems
+    assert len(rows) == 1 and rows[0]["transaction"] == "sell_partial"

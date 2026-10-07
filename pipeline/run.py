@@ -22,12 +22,12 @@ from common import (BACKFILL_SINCE, DATA, MAX_ATTEMPTS, MAX_HOUSE_FILINGS_PER_RU
 from members import Members
 
 CSV_FIELDS = [
-    "filed_date", "transaction_date", "chamber", "member", "party", "state", "district",
+    "filed_date", "transaction_date", "chamber", "member", "in_office", "party", "state", "district",
     "owner", "transaction", "ticker", "asset", "asset_type", "amount_min", "amount_max",
     "amount_text", "disclosure_lag_days", "description", "committees", "subcommittees",
     "leadership_roles", "filing_url", "first_seen", "id",
 ]
-MEMBER_FIELDS = ("bioguide_id", "chamber", "party", "state", "district",
+MEMBER_FIELDS = ("bioguide_id", "chamber", "in_office", "party", "state", "district",
                  "committees", "subcommittees", "leadership_roles")
 
 
@@ -37,6 +37,7 @@ def build_trade(chamber, filing_key, i, row, who, filed, url, run_day):
         "chamber": chamber,
         "member": who.get("name"),
         "bioguide_id": who.get("bioguide_id"),
+        "in_office": who.get("in_office"),
         "party": who.get("party"),
         "state": who.get("state"),
         "district": who.get("district"),
@@ -217,13 +218,23 @@ def main():
     if members:
         by_id = members.people
         cutoff = (today() - dt.timedelta(days=RECENT_WINDOW_DAYS)).isoformat()
+        second_chance = {}
         for t in all_trades:
-            if (t.get("filed_date") or "") < cutoff:
-                continue
+            if not t.get("bioguide_id"):
+                key = (t["chamber"], t["member"])
+                if key not in second_chance:
+                    second_chance[key] = members.match_name(*key)
+                info = second_chance[key]
+                if info:
+                    t.update({k: info[k] for k in ("bioguide_id", "party", "state", "district",
+                                                   "committees", "subcommittees", "leadership_roles")})
+                    t["member"] = info["name"]
             info = by_id.get(t.get("bioguide_id"))
             if info:
-                for k in ("committees", "subcommittees", "leadership_roles", "party"):
-                    t[k] = info[k]
+                t["in_office"] = info["in_office"]
+                if (t.get("filed_date") or "") >= cutoff:
+                    for k in ("committees", "subcommittees", "leadership_roles", "party"):
+                        t[k] = info[k]
 
     write_outputs(all_trades, review, run_day)
     save_json("state.json", state)

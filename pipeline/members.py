@@ -7,7 +7,7 @@ updated when committee assignments change.
 
 import yaml
 
-from common import http, norm_name
+from common import BACKFILL_SINCE, http, norm_name
 
 RAW = "https://raw.githubusercontent.com/unitedstates/congress-legislators/main/"
 PARTY = {"Democrat": "D", "Republican": "R", "Independent": "I"}
@@ -18,6 +18,7 @@ class Members:
         self.people = {}          # bioguide -> info dict
         self.by_seat = {}         # (state, district) -> bioguide, House only
         self.senators = []        # bioguide list
+        self.former = []          # members who left office since BACKFILL_SINCE
 
     @classmethod
     def load(cls, s):
@@ -26,6 +27,10 @@ class Members:
         legislators = yaml.load(http(s, "GET", RAW + "legislators-current.yaml").text, Loader=loader)
         committees = yaml.load(http(s, "GET", RAW + "committees-current.yaml").text, Loader=loader)
         membership = yaml.load(http(s, "GET", RAW + "committee-membership-current.yaml").text, Loader=loader)
+        try:
+            historical = yaml.load(http(s, "GET", RAW + "legislators-historical.yaml").text, Loader=loader)
+        except Exception:  # noqa: BLE001 - former members are a nice-to-have
+            historical = []
 
         names = {}
         for c in committees:
@@ -33,7 +38,10 @@ class Members:
             for sub in c.get("subcommittees", []) or []:
                 names[c["thomas_id"] + sub["thomas_id"]] = f"{c['name']}: {sub['name']}"
 
-        for p in legislators:
+        recent_former = [p for p in historical
+                         if (p["terms"][-1].get("end") or "") >= BACKFILL_SINCE.isoformat()]
+        everyone = [(p, True) for p in legislators] + [(p, False) for p in recent_former]
+        for p, in_office in everyone:
             term = p["terms"][-1]
             bid = p["id"]["bioguide"]
             n = p["name"]
@@ -45,10 +53,13 @@ class Members:
                 "state": term.get("state"),
                 "district": term.get("district"),
                 "chamber": "Senate" if term["type"] == "sen" else "House",
+                "in_office": in_office,
                 "committees": [], "subcommittees": [], "leadership_roles": [],
             }
             m.people[bid] = info
-            if term["type"] == "rep":
+            if not in_office:
+                m.former.append(bid)
+            elif term["type"] == "rep":
                 m.by_seat[(term.get("state"), int(term.get("district") or 0))] = bid
             else:
                 m.senators.append(bid)
@@ -86,10 +97,22 @@ class Members:
             if bid and self._name_ok(self.people[bid], "", last):
                 return self.people[bid]
         same_state = [p for p in self.people.values() if p["chamber"] == "House" and p["state"] == state]
-        return self._pick(same_state, first, last)
+        return (self._pick([p for p in same_state if p["in_office"]], first, last)
+                or self._pick(same_state, first, last))
 
     def match_senate(self, first, last):
-        return self._pick([self.people[b] for b in self.senators], first, last)
+        return (self._pick([self.people[b] for b in self.senators], first, last)
+                or self._pick([self.people[b] for b in self.former
+                               if self.people[b]["chamber"] == "Senate"], first, last))
+
+    def match_name(self, chamber, full_name):
+        """Second chance for trades saved without a match: 'First Last' plus chamber."""
+        words = (full_name or "").split()
+        if len(words) < 2:
+            return None
+        pool = [p for p in self.people.values() if p["chamber"] == chamber]
+        return (self._pick([p for p in pool if p["in_office"]], words[0], words[-1])
+                or self._pick(pool, words[0], words[-1]))
 
     def _pick(self, pool, first, last):
         """Unique last-name match wins; if several share the last name, use the first name."""

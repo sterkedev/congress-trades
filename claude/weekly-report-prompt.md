@@ -20,10 +20,10 @@ Download them with a shell command (curl) into your working directory and analys
 a short Python script. Do not paste whole files into the conversation; they are large.
 
 `recent.json` has three parts: `members` (party, state, committees, subcommittees and
-leadership roles per member), `trades` and `needs_review` (filings the pipeline could not
+leadership roles per member; `in_office` is false for members who have left Congress), `trades` and `needs_review` (filings the pipeline could not
 read, usually scanned paper forms). Key trade fields: `member`, `chamber`, `owner`
 (Self/Spouse/Joint/Dependent child), `transaction` (buy, sell, sell_partial, exchange),
-`ticker`, `asset`, `asset_type`, `amount_min`/`amount_max` (disclosed range in USD),
+`ticker`, `asset`, `asset_type`, `amount_min`/`amount_max` (disclosed range in USD; `amount_max` is empty for "Over" amounts),
 `transaction_date`, `filed_date` (the day the public could see it), `disclosure_lag_days`,
 `description` (often holds option details like strike and expiry), `filing_url`.
 

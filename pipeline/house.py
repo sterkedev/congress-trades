@@ -122,7 +122,7 @@ TAG_RE = re.compile(r"\[(?P<atype>[A-Z]{2})\]")
 CORE_RE = re.compile(
     r"(?:^|(?<=\s))(?P<tx>S \(partial\)|P|S|E)\s+"
     r"(?P<tdate>\d{1,2}/\d{1,2}/\d{4})\s+(?P<ndate>\d{1,2}/\d{1,2}/\d{4})\s+"
-    r"(?P<amt>(?:Spouse/DC\s+)?Over\s+\$[\d,]+|\$[\d,]+(?:\s*-\s*(?:\$[\d,]+)?)?)"
+    r"(?P<amt>(?:Spouse/DC\s+)?Over(?:\s+\$[\d,]+)?|\$[\d,]+(?:\s*-\s*(?:\$[\d,]+)?)?)"
 )
 AMT_CONT_RE = re.compile(r"^\$[\d,]+$")
 OWNER_RE = re.compile(r"^(SP|JT|DC)(?:\s+|$)")
@@ -194,7 +194,7 @@ def parse_ptr_text(text):
     assets, cores, descs = [], [], {}
     buffer = []
 
-    for line, kind in zip(lines, kinds):
+    for ln, (line, kind) in enumerate(zip(lines, kinds)):
         if kind in ("stop", "label"):
             buffer = []
             continue
@@ -221,13 +221,13 @@ def parse_ptr_text(text):
                 else:
                     buffer.append(chunk)
             if ev == "tag":
-                assets.append(_make_asset(buffer, m.group("atype")))
+                assets.append({**_make_asset(buffer, m.group("atype")), "_pos": (ln, start)})
                 buffer = []
             else:
                 amt = m.group("amt").strip()
                 cores.append({"tx": m.group("tx"), "tdate": m.group("tdate"),
-                              "ndate": m.group("ndate"), "amt": amt,
-                              "open": amt.endswith("-")})
+                              "ndate": m.group("ndate"), "amt": amt, "_pos": (ln, start),
+                              "open": amt.endswith("-") or "$" not in amt})
             cursor = m.end()
         tail = line[cursor:].strip()
         if tail:
@@ -238,14 +238,18 @@ def parse_ptr_text(text):
                 buffer.append(tail)
 
     problems = []
-    if len(assets) != len(cores):
+    if len(assets) == len(cores):
+        pairs = list(zip(assets, cores))
+    else:
         problems.append(f"found {len(assets)} assets but {len(cores)} transactions")
+        pairs = _pair_by_position(assets, cores)
 
     rows = []
-    for i, (a, c) in enumerate(zip(assets, cores)):
+    for a, c in pairs:
+        i = cores.index(c)
         lo, hi = parse_amount(c["amt"])
         rows.append({
-            **a,
+            **{k: v for k, v in a.items() if k != "_pos"},
             "transaction": TX_TYPES.get(c["tx"], c["tx"]),
             "transaction_date": parse_us_date(c["tdate"]),
             "notification_date": parse_us_date(c["ndate"]),
@@ -255,6 +259,19 @@ def parse_ptr_text(text):
             "description": descs.get(i),
         })
     return rows, problems
+
+
+def _pair_by_position(assets, cores):
+    """When counts differ, pair each transaction with the closest unused asset before it."""
+    used, pairs = set(), []
+    for c in cores:
+        before = [i for i, a in enumerate(assets) if i not in used and a["_pos"] < c["_pos"]]
+        after = [i for i, a in enumerate(assets) if i not in used and a["_pos"] > c["_pos"]]
+        pick = before[-1] if before else (after[0] if after else None)
+        if pick is not None:
+            used.add(pick)
+            pairs.append((assets[pick], c))
+    return pairs
 
 
 def parse_pdf(pdf_bytes):
