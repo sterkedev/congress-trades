@@ -1,0 +1,28 @@
+{
+ "last_run": {
+  "run_at": "2026-10-07T08:19:20+00:00",
+  "errors": [],
+  "house": {
+   "filings": 400,
+   "trades": 3366,
+   "download_failures": 0,
+   "backlog": 526
+  },
+  "senate": {
+   "filings": 250,
+   "trades": 2298,
+   "download_failures": 0,
+   "backlog": 51
+  },
+  "status": "ok"
+ },
+ "history": [
+  {
+   "run_at": "2026-10-07T08:19:20+00:00",
+   "status": "ok",
+   "house_trades": 3366,
+   "senate_trades": 2298,
+   "errors": 0
+  }
+ ]
+}

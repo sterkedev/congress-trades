@@ -1,0 +1,550 @@
+[
+ {
+  "chamber": "House",
+  "member": "Harold Rogers",
+  "filed_date": "2026-09-23",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116342.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Diana Harshbarger",
+  "filed_date": "2026-09-11",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116331.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Ro Khanna",
+  "filed_date": "2026-09-04",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Tony Wied",
+  "filed_date": "2026-09-02",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116326.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Harold Rogers",
+  "filed_date": "2026-08-20",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116311.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Tony Wied",
+  "filed_date": "2026-08-18",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116308.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Scott H. Peters",
+  "filed_date": "2026-08-17",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035191.pdf",
+  "reason": "found 15 assets but 12 transactions",
+  "first_seen": "2026-10-07",
+  "text_sample": "P\u0000\u0000\u0000\u0000\u0000\u0000\u0000 T\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 R\u0000\u0000\u0000\u0000\u0000\nClerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515\nF\u0000\u0000\u0000\u0000 I\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\nName: Hon. Scott H. Peters\nStatus: Member\nState/District: CA50\nT\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\nID Owner Asset Transaction\nType\nDate Notification\nDate\nAmount Cap.\nGains >\n$200?\nSP Audax Senior Loan Fund ST LP [OT] P 07/29/2026 07/31/2026 Spouse/DC Over\n$1,000,000\nF\u0000\u0000\u0000\u0000\u0000 S\u0000\u0000\u0000\u0000\u0000: New\nL\u0000\u0000\u0000\u0000\u0000\u0000\u0000: US\nD\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000: Pooled Investment Fund\nSP Charlotte-Meckle HLTH [GS] S 07/22/2026 07/31/2026 $250,001 -\n$500,000\nF\u0000\u0000\u0000\u0000\u0000 S\u0000\u0000\u0000\u0000\u0000: New\nSP Los Angeles CA GO UTX [GS] S (partial) 07/24/2026 07/31/2026 $500,001 -\n$1,000,000\nF\u0000\u0000\u0000\u0000\u0000 S\u0000\u0000\u0000\u0000\u0000: New\nSP Los Angeles CA IMPT SCH [GS] S 07/24/2026 07/31/2026 $50,001 -\n$100,000\nF\u0000\u0000\u0000\u0000\u0000 S\u0000\u0000\u0000\u0000\u0000: New\nSP Los Angeles CA IMPTSch [GS] S 07/24/2026 07/31/2026 $500,001 -\n$1,000,000\nF\u0000\u0000\u0000\u0000\u0000 S\u0000\u0000\u0000\u0000\u0000: New\nSP Los Angeles Cnty CA TRANs [GS] P 07/01/2026 07/31/2026 $100,001 -\n$250,000\nF\u0000\u0000\u0000\u0000\u0000 S\u0000\u0000\u0000\u0000\u0000: New\nSP Pittsburgh, CA Successor Agency [GS] P 07/30/2026 07/31/2026 $50,001 -\n$100,000\nF\u0000\u0000\u0000\u0000\u0000 S\u0000\u0000\u0000\u0000\u0000: New\nFiling ID #20035191\nID Owner Asset Transaction\nType\nDate Notification\nDate\nAmount Cap.\nGains >\n$200?\nSP Smash Capital Fund II LP [OT] P 07/28/2026 07/31/2026 $50,001 -\n$100,000\nF\u0000\u0000\u0000\u0000\u0000 S\u0000\u0000\u0000\u0000\u0000: New\nL\u0000\u0000\u0000\u0000\u0000\u0000\u0000: US\nD\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000: Pooled Investment Fund\nSP U.S. Treasury Bill [GS] S (partial) 07/23/2026 07/31/2026 $50,001 -\n$100,000\nF\u0000\u0000\u0000\u0000\u0000 S\u0000\u0000\u0000\u0000\u0000: New\nSP U.S. Treasury Bill [GS] P 07/27/2026 07/31/2026 $50,001 -\n$100,000\nF\u0000\u0000\u0000\u0000\u0000 S\u0000\u0000\u0000\u0000\u0000: New\nSP U.S. T"
+ },
+ {
+  "chamber": "House",
+  "member": "Tracey Mann",
+  "filed_date": "2026-08-13",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116292.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Charles J. \"Chuck\" Fleischmann",
+  "filed_date": "2026-08-12",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116290.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Ro Khanna",
+  "filed_date": "2026-08-07",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116267.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Diana Harshbarger",
+  "filed_date": "2026-08-03",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116256.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Diana Harshbarger",
+  "filed_date": "2026-08-03",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116257.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Diana Harshbarger",
+  "filed_date": "2026-08-03",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116258.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Tony Wied",
+  "filed_date": "2026-07-24",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116260.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Tom Cole",
+  "filed_date": "2026-07-21",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116249.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Nicole Malliotakis",
+  "filed_date": "2026-07-14",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116217.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Harold Rogers",
+  "filed_date": "2026-07-14",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116218.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Charles J. \"Chuck\" Fleischmann",
+  "filed_date": "2026-07-08",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116212.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Michael T. McCaul",
+  "filed_date": "2026-07-08",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116211.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Ro Khanna",
+  "filed_date": "2026-07-06",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116206.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Keith Self",
+  "filed_date": "2026-06-30",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116197.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Michael T. McCaul",
+  "filed_date": "2026-06-10",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116141.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Harold Rogers",
+  "filed_date": "2026-06-10",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116146.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Ro Khanna",
+  "filed_date": "2026-06-09",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116142.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Diana Harshbarger",
+  "filed_date": "2026-06-04",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115901.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Scott H. Peters",
+  "filed_date": "2026-05-18",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034579.pdf",
+  "reason": "found 40 assets but 39 transactions",
+  "first_seen": "2026-10-07",
+  "text_sample": "P\u0000\u0000\u0000\u0000\u0000\u0000\u0000 T\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 R\u0000\u0000\u0000\u0000\u0000\nClerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515\nF\u0000\u0000\u0000\u0000 I\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\nName: Hon. Scott H. Peters\nStatus: Member\nState/District: CA50\nT\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\nID Owner Asset Transaction\nType\nDate Notification\nDate\nAmount Cap.\nGains >\n$200?\nSP Anaheim CA Hsg Elec Util [GS] S 04/02/2026 04/30/2026 $50,001 -\n$100,000\nF\u0000\u0000\u0000\u0000\u0000 S\u0000\u0000\u0000\u0000\u0000: New\nSP Audax Senior Loan Fund ST LP [OT] P 04/28/2026 04/30/2026 Spouse/DC Over\n$1,000,000\nF\u0000\u0000\u0000\u0000\u0000 S\u0000\u0000\u0000\u0000\u0000: New\nL\u0000\u0000\u0000\u0000\u0000\u0000\u0000: US\nD\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000: Pooled Investment Fund\nSP Austin TX WTR UTIL [GS] P 04/21/2026 04/30/2026 $50,001 -\n$100,000\nF\u0000\u0000\u0000\u0000\u0000 S\u0000\u0000\u0000\u0000\u0000: New\nSP Berks Cnty PA GO UTX [GS] P 04/28/2026 04/30/2026 $50,001 -\n$100,000\nF\u0000\u0000\u0000\u0000\u0000 S\u0000\u0000\u0000\u0000\u0000: New\nSP CA ST PUB W BLDG [GS] P 04/09/2026 04/30/2026 $50,001 -\n$100,000\nF\u0000\u0000\u0000\u0000\u0000 S\u0000\u0000\u0000\u0000\u0000: New\nSP CA ST PUB W BLDG [GS] P 04/09/2026 04/30/2026 $250,001 -\n$500,000\nF\u0000\u0000\u0000\u0000\u0000 S\u0000\u0000\u0000\u0000\u0000: New\nSP California Health SYS [GS] P 04/09/2026 04/30/2026 $50,001 -\n$100,000\nF\u0000\u0000\u0000\u0000\u0000 S\u0000\u0000\u0000\u0000\u0000: New\nFiling ID #20034579\nID Owner Asset Transaction\nType\nDate Notification\nDate\nAmount Cap.\nGains >\n$200?\nSP Chester Cnty PA SCH [GS] P 04/14/2026 04/30/2026 $50,001 -\n$100,000\nF\u0000\u0000\u0000\u0000\u0000 S\u0000\u0000\u0000\u0000\u0000: New\nSP Grapevine-Colleyville TX GO UTX\n[GS]\nP 04/09/2026 04/30/2026 $50,001 -\n$100,000\nF\u0000\u0000\u0000\u0000\u0000 S\u0000\u0000\u0000\u0000\u0000: New\nSP Illinois State GO UTX [GS] P 04/24/2026 04/30/2026 $500,001 -\n$1,000,000\nF\u0000\u0000\u0000\u0000\u0000 S\u0000\u0000\u0000\u0000\u0000: New\nSP Los Angeles CA GO UTX [GS] S 04/24/2026 04/30/2026 $50,001 -\n$100,000\nF\u0000\u0000\u0000\u0000\u0000 S\u0000\u0000\u0000\u0000\u0000: New\nSP Los "
+ },
+ {
+  "chamber": "House",
+  "member": "Charles J. \"Chuck\" Fleischmann",
+  "filed_date": "2026-05-12",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115821.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Ro Khanna",
+  "filed_date": "2026-05-11",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115822.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Harold Rogers",
+  "filed_date": "2026-05-08",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115808.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Diana Harshbarger",
+  "filed_date": "2026-05-06",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115809.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Diana Harshbarger",
+  "filed_date": "2026-05-06",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115811.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Diana Harshbarger",
+  "filed_date": "2026-05-06",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115812.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Diana Harshbarger",
+  "filed_date": "2026-05-06",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115813.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Diana Harshbarger",
+  "filed_date": "2026-05-06",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115814.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Diana Harshbarger",
+  "filed_date": "2026-05-06",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115815.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Tony Wied",
+  "filed_date": "2026-05-05",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115816.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Michael T. McCaul",
+  "filed_date": "2026-05-04",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115820.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Scott H. Peters",
+  "filed_date": "2026-04-29",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034342.pdf",
+  "reason": "found 10 assets but 8 transactions",
+  "first_seen": "2026-10-07",
+  "text_sample": "P\u0000\u0000\u0000\u0000\u0000\u0000\u0000 T\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 R\u0000\u0000\u0000\u0000\u0000\nClerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515\nF\u0000\u0000\u0000\u0000 I\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\nName: Hon. Scott H. Peters\nStatus: Member\nState/District: CA50\nT\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\nID Owner Asset Transaction\nType\nDate Notification\nDate\nAmount Cap.\nGains >\n$200?\nSP Allocate Alpha Fund II LP [OT] P 03/26/2026 03/31/2026 $1,001 - $15,000\nF\u0000\u0000\u0000\u0000\u0000 S\u0000\u0000\u0000\u0000\u0000: New\nL\u0000\u0000\u0000\u0000\u0000\u0000\u0000: US\nD\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000: Pooled Investment Fund\nSP Allocate Premier Access Fund [OT] P 03/25/2026 03/31/2026 $1,001 - $15,000\nF\u0000\u0000\u0000\u0000\u0000 S\u0000\u0000\u0000\u0000\u0000: New\nL\u0000\u0000\u0000\u0000\u0000\u0000\u0000: US\nD\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000: Pooled Investment Fund\nSP Inverted Capital I LP [OT] P 03/25/2026 03/31/2026 $50,001 -\n$100,000\nF\u0000\u0000\u0000\u0000\u0000 S\u0000\u0000\u0000\u0000\u0000: New\nL\u0000\u0000\u0000\u0000\u0000\u0000\u0000: US\nD\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000: Pooled Investment Fund\nSP Riverside CA Elec Util [GS] S 03/30/2026 03/31/2026 Spouse/DC Over\n$1,000,000\nF\u0000\u0000\u0000\u0000\u0000 S\u0000\u0000\u0000\u0000\u0000: New\nSP San Diego CA UNI GO UTX [GS] S 03/27/2026 03/31/2026 $250,001 -\n$500,000\nF\u0000\u0000\u0000\u0000\u0000 S\u0000\u0000\u0000\u0000\u0000: New\nSP U.S Treasury Bills [GS] S (partial) 03/24/2026 03/31/2026 $100,001 -\n$250,000\nF\u0000\u0000\u0000\u0000\u0000 S\u0000\u0000\u0000\u0000\u0000: New\nFiling ID #20034342\nID Owner Asset Transaction\nType\nDate Notification\nDate\nAmount Cap.\nGains >\n$200?\nSP U.S Treasury Bills [GS] P 03/30/2026 03/31/2026 $250,001 -\n$500,000\nF\u0000\u0000\u0000\u0000\u0000 S\u0000\u0000\u0000\u0000\u0000: New\nSP U.S Treasury Bills [GS] P 03/25/2026 03/31/2026 $500,001 -\n$1,000,000\nF\u0000\u0000\u0000\u0000\u0000 S\u0000\u0000\u0000\u0000\u0000: New\nSP U.S Treasury Bills [GS] P 03/30/2026 03/31/2026 $250,001 -\n$500,000\nF\u0000\u0000\u0000\u0000\u0000 S\u0000\u0000\u0000\u0000\u0000: New\nSP U.S. Treasury Notes [GS] S 03/24/2026 03/31/2026 Spouse/DC Over\n$1,000,000\nF\u0000\u0000\u0000\u0000\u0000 S"
+ },
+ {
+  "chamber": "House",
+  "member": "Harold Rogers",
+  "filed_date": "2026-04-21",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115762.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Michael T. McCaul",
+  "filed_date": "2026-04-08",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115728.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Ro Khanna",
+  "filed_date": "2026-04-07",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115726.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Charles J. \"Chuck\" Fleischmann",
+  "filed_date": "2026-03-20",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115704.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Harold Rogers",
+  "filed_date": "2026-03-20",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115711.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Michael T. McCaul",
+  "filed_date": "2026-03-10",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/8221359.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Ro Khanna",
+  "filed_date": "2026-03-09",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/8221358.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Tony Wied",
+  "filed_date": "2026-03-09",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/8221360.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Harold Rogers",
+  "filed_date": "2026-02-13",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/8221332.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Michael T. McCaul",
+  "filed_date": "2026-02-11",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/8221326.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Charles J. \"Chuck\" Fleischmann",
+  "filed_date": "2026-02-09",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/8221321.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Ro Khanna",
+  "filed_date": "2026-02-06",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/8221322.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Harold Rogers",
+  "filed_date": "2026-01-16",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221310.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Michael T. McCaul",
+  "filed_date": "2026-01-15",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221302.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Tony Wied",
+  "filed_date": "2026-01-09",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221297.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Doris O. Matsui",
+  "filed_date": "2026-01-09",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033695.pdf",
+  "reason": "found 4 assets but 0 transactions",
+  "first_seen": "2026-10-07",
+  "text_sample": "P\u0000\u0000\u0000\u0000\u0000\u0000\u0000 T\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 R\u0000\u0000\u0000\u0000\u0000\nClerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515\nF\u0000\u0000\u0000\u0000 I\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\nName: Hon. Doris O. Matsui\nStatus: Member\nState/District: CA07\nT\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\nID Owner Asset Transaction\nType\nDate Notification\nDate\nAmount Cap.\nGains >\n$200?\nSP U.S. Treasury Note due 2/28/2029\n[GS]\nP 12/15/2025 12/16/2025 Spouse/DC Over\n$1,000,000\nF\u0000\u0000\u0000\u0000\u0000 S\u0000\u0000\u0000\u0000\u0000: New\nSP U.S. Treasury Note due 2/28/2030\n[GS]\nP 12/15/2025 12/16/2025 Spouse/DC Over\n$1,000,000\nF\u0000\u0000\u0000\u0000\u0000 S\u0000\u0000\u0000\u0000\u0000: New\nSP U.S. Treasury Note due 8/31/2029\n[GS]\nP 12/15/2025 12/16/2025 Spouse/DC Over\n$1,000,000\nF\u0000\u0000\u0000\u0000\u0000 S\u0000\u0000\u0000\u0000\u0000: New\nSP U.S. Treasury Note due 8/31/2030\n[GS]\nP 12/15/2025 12/16/2025 Spouse/DC Over\n$1,000,000\nF\u0000\u0000\u0000\u0000\u0000 S\u0000\u0000\u0000\u0000\u0000: New\n* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.\nI\u0000\u0000\u0000\u0000\u0000\u0000 P\u0000\u0000\u0000\u0000\u0000 O\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\n Yes  No\nC\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \u0000\u0000\u0000 S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\n I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of\nmy knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.\nDigitally Signed: Hon. Doris O. Matsui , 01/09/2026\nFiling ID #20033695"
+ },
+ {
+  "chamber": "Senate",
+  "member": "Richard Blumenthal",
+  "filed_date": "2026-08-31",
+  "filing_url": "https://efdsearch.senate.gov/search/view/paper/929216d5-5dbd-429c-858c-1e9332924627/",
+  "reason": "paper filing (scanned image), read it on the linked page",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "Senate",
+  "member": "Richard Blumenthal",
+  "filed_date": "2026-08-21",
+  "filing_url": "https://efdsearch.senate.gov/search/view/paper/ec20cd93-6702-4a29-b3a6-983f4b17f365/",
+  "reason": "paper filing (scanned image), read it on the linked page",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "Senate",
+  "member": "Richard Blumenthal",
+  "filed_date": "2026-07-17",
+  "filing_url": "https://efdsearch.senate.gov/search/view/paper/3a4c5095-028a-4614-a692-836719da4e63/",
+  "reason": "paper filing (scanned image), read it on the linked page",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "Senate",
+  "member": "Richard Blumenthal",
+  "filed_date": "2026-06-08",
+  "filing_url": "https://efdsearch.senate.gov/search/view/paper/a0d25e8f-fe54-4328-a7ea-504da008742b/",
+  "reason": "paper filing (scanned image), read it on the linked page",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "Senate",
+  "member": "Richard Blumenthal",
+  "filed_date": "2026-05-19",
+  "filing_url": "https://efdsearch.senate.gov/search/view/paper/d02263c3-381d-4ee9-8d84-2c44d9baa59e/",
+  "reason": "paper filing (scanned image), read it on the linked page",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "Senate",
+  "member": "Richard Blumenthal",
+  "filed_date": "2026-04-08",
+  "filing_url": "https://efdsearch.senate.gov/search/view/paper/f028d2ce-4ab7-41a8-a67a-91675b6941d7/",
+  "reason": "paper filing (scanned image), read it on the linked page",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "Senate",
+  "member": "Richard Blumenthal",
+  "filed_date": "2026-03-13",
+  "filing_url": "https://efdsearch.senate.gov/search/view/paper/d337c392-e0aa-428e-be93-44a327b90d08/",
+  "reason": "paper filing (scanned image), read it on the linked page",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "Senate",
+  "member": "Richard Blumenthal",
+  "filed_date": "2026-02-12",
+  "filing_url": "https://efdsearch.senate.gov/search/view/paper/068274e1-4b7a-4453-a242-563dde4c10d8/",
+  "reason": "paper filing (scanned image), read it on the linked page",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "Senate",
+  "member": "Richard Blumenthal",
+  "filed_date": "2026-01-20",
+  "filing_url": "https://efdsearch.senate.gov/search/view/paper/f873aeb4-adbb-4934-a188-79416a2e4c76/",
+  "reason": "paper filing (scanned image), read it on the linked page",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "Senate",
+  "member": "Richard Blumenthal",
+  "filed_date": "2025-12-22",
+  "filing_url": "https://efdsearch.senate.gov/search/view/paper/13a0fc2a-bbbb-4c1b-b380-d315e198d2a3/",
+  "reason": "paper filing (scanned image), read it on the linked page",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "Senate",
+  "member": "Richard Blumenthal",
+  "filed_date": "2025-12-12",
+  "filing_url": "https://efdsearch.senate.gov/search/view/paper/16afdd38-c0ec-4e37-bc05-cbd82901b43f/",
+  "reason": "paper filing (scanned image), read it on the linked page",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "Senate",
+  "member": "Richard Blumenthal",
+  "filed_date": "2025-12-01",
+  "filing_url": "https://efdsearch.senate.gov/search/view/paper/19dc3e18-b10f-465d-8f37-117ab78a8d0b/",
+  "reason": "paper filing (scanned image), read it on the linked page",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "Senate",
+  "member": "Richard Blumenthal",
+  "filed_date": "2025-11-17",
+  "filing_url": "https://efdsearch.senate.gov/search/view/paper/e63995b3-352b-4cf8-ac61-ae05cfa7553b/",
+  "reason": "paper filing (scanned image), read it on the linked page",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "Senate",
+  "member": "Richard Blumenthal",
+  "filed_date": "2025-10-24",
+  "filing_url": "https://efdsearch.senate.gov/search/view/paper/4728c5fd-8bbd-43f7-a028-d17cfb8008dc/",
+  "reason": "paper filing (scanned image), read it on the linked page",
+  "first_seen": "2026-10-07"
+ }
+]
