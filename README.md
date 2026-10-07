@@ -52,8 +52,8 @@ day one speeds that up.
 
 **4. Set up the weekly Claude task**
 
-Open `claude/weekly-report-prompt.md`, replace `<GITHUB-USERNAME>` with your GitHub
-username, and use it as the prompt of a weekly scheduled task in Claude.
+Done: the weekly Claude scheduled task "Congress trades weekly report" runs on Mondays.
+Its prompt is kept in `claude/weekly-report-prompt.md`.
 
 ## What's in `data/`
 
