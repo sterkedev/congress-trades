@@ -1,8 +1,33 @@
 {
- "generated_at": "2026-10-07T08:31:44+00:00",
+ "generated_at": "2026-10-08T13:38:19+00:00",
  "window_days": 30,
  "note": "Trades whose filing became public in the window (filed_date). Member party, state and committee seats are in 'members', keyed by trade.member.",
  "members": {
+  "John Fetterman": {
+   "bioguide_id": "F000479",
+   "chamber": "Senate",
+   "in_office": true,
+   "party": "D",
+   "state": "PA",
+   "district": null,
+   "committees": [
+    "Senate Committee on Agriculture, Nutrition, and Forestry",
+    "Senate Committee on Commerce, Science, and Transportation",
+    "Senate Committee on Homeland Security and Governmental Affairs",
+    "Commission on Security and Cooperation in Europe"
+   ],
+   "subcommittees": [
+    "Senate Committee on Agriculture, Nutrition, and Forestry: Commodities, Derivatives, Risk Management, and Trade",
+    "Senate Committee on Agriculture, Nutrition, and Forestry: Food and Nutrition, Specialty Crops, Organics, and Research",
+    "Senate Committee on Commerce, Science, and Transportation: Aviation, Space, and Innovation",
+    "Senate Committee on Commerce, Science, and Transportation: Telecommunications and Media",
+    "Senate Committee on Homeland Security and Governmental Affairs: Permanent Subcommittee on Investigations",
+    "Senate Committee on Homeland Security and Governmental Affairs: Border Management, Federal Workforce, and Regulatory Affairs"
+   ],
+   "leadership_roles": [
+    "Ranking Member, Senate Committee on Homeland Security and Governmental Affairs: Border Management, Federal Workforce, and Regulatory Affairs"
+   ]
+  },
   "Vince Fong": {
    "bioguide_id": "F000480",
    "chamber": "House",
@@ -662,31 +687,6 @@
     "Chair, House Committee on Foreign Affairs: Western Hemisphere"
    ]
   },
-  "John Fetterman": {
-   "bioguide_id": "F000479",
-   "chamber": "Senate",
-   "in_office": true,
-   "party": "D",
-   "state": "PA",
-   "district": null,
-   "committees": [
-    "Senate Committee on Agriculture, Nutrition, and Forestry",
-    "Senate Committee on Commerce, Science, and Transportation",
-    "Senate Committee on Homeland Security and Governmental Affairs",
-    "Commission on Security and Cooperation in Europe"
-   ],
-   "subcommittees": [
-    "Senate Committee on Agriculture, Nutrition, and Forestry: Commodities, Derivatives, Risk Management, and Trade",
-    "Senate Committee on Agriculture, Nutrition, and Forestry: Food and Nutrition, Specialty Crops, Organics, and Research",
-    "Senate Committee on Commerce, Science, and Transportation: Aviation, Space, and Innovation",
-    "Senate Committee on Commerce, Science, and Transportation: Telecommunications and Media",
-    "Senate Committee on Homeland Security and Governmental Affairs: Permanent Subcommittee on Investigations",
-    "Senate Committee on Homeland Security and Governmental Affairs: Border Management, Federal Workforce, and Regulatory Affairs"
-   ],
-   "leadership_roles": [
-    "Ranking Member, Senate Committee on Homeland Security and Governmental Affairs: Border Management, Federal Workforce, and Regulatory Affairs"
-   ]
-  },
   "Cory A. Booker": {
    "bioguide_id": "B001288",
    "chamber": "Senate",
@@ -760,6 +760,48 @@
   }
  },
  "trades": [
+  {
+   "id": "160d064236b4723c",
+   "chamber": "Senate",
+   "member": "John Fetterman",
+   "owner": "Child",
+   "ticker": null,
+   "asset": "DELL INTL LLC/EMC CORP Rate/Coupon: 5.6% Matures: 2033-09-15",
+   "asset_type": "Corporate Bond",
+   "transaction": "buy",
+   "transaction_date": "2026-09-16",
+   "notification_date": null,
+   "amount_text": "$1,001 - $15,000",
+   "amount_min": 1001,
+   "amount_max": 15000,
+   "description": null,
+   "filed_date": "2026-10-07",
+   "disclosure_lag_days": 21,
+   "filing_id": "0541be4f-4f96-4d84-8d6f-d349f218bb2a",
+   "filing_url": "https://efdsearch.senate.gov/search/view/ptr/0541be4f-4f96-4d84-8d6f-d349f218bb2a/",
+   "first_seen": "2026-10-08"
+  },
+  {
+   "id": "7fe39743f529c6d4",
+   "chamber": "Senate",
+   "member": "John Fetterman",
+   "owner": "Child",
+   "ticker": null,
+   "asset": "DELL INTL LLC/EMC CORP Rate/Coupon: 5.6% Matures: 2033-09-15",
+   "asset_type": "Corporate Bond",
+   "transaction": "buy",
+   "transaction_date": "2026-09-15",
+   "notification_date": null,
+   "amount_text": "$1,001 - $15,000",
+   "amount_min": 1001,
+   "amount_max": 15000,
+   "description": null,
+   "filed_date": "2026-10-07",
+   "disclosure_lag_days": 22,
+   "filing_id": "0541be4f-4f96-4d84-8d6f-d349f218bb2a",
+   "filing_url": "https://efdsearch.senate.gov/search/view/ptr/0541be4f-4f96-4d84-8d6f-d349f218bb2a/",
+   "first_seen": "2026-10-08"
+  },
   {
    "id": "ed5f01080efea424",
    "chamber": "House",
@@ -9345,6 +9387,38 @@
    "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116331.pdf",
    "reason": "no readable text (probably a scanned paper filing)",
    "first_seen": "2026-10-07"
+  },
+  {
+   "chamber": "House",
+   "member": "Tony Wied",
+   "filed_date": "2026-10-02",
+   "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116361.pdf",
+   "reason": "no readable text (probably a scanned paper filing)",
+   "first_seen": "2026-10-08"
+  },
+  {
+   "chamber": "House",
+   "member": "Diana Harshbarger",
+   "filed_date": "2026-10-01",
+   "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116355.pdf",
+   "reason": "no readable text (probably a scanned paper filing)",
+   "first_seen": "2026-10-08"
+  },
+  {
+   "chamber": "House",
+   "member": "Diana Harshbarger",
+   "filed_date": "2026-10-01",
+   "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116356.pdf",
+   "reason": "no readable text (probably a scanned paper filing)",
+   "first_seen": "2026-10-08"
+  },
+  {
+   "chamber": "House",
+   "member": "Diana Harshbarger",
+   "filed_date": "2026-10-01",
+   "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116357.pdf",
+   "reason": "no readable text (probably a scanned paper filing)",
+   "first_seen": "2026-10-08"
   }
  ]
 }

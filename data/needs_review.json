@@ -638,5 +638,37 @@
   "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/9115684.pdf",
   "reason": "no readable text (probably a scanned paper filing)",
   "first_seen": "2026-10-07"
+ },
+ {
+  "chamber": "House",
+  "member": "Tony Wied",
+  "filed_date": "2026-10-02",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116361.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-08"
+ },
+ {
+  "chamber": "House",
+  "member": "Diana Harshbarger",
+  "filed_date": "2026-10-01",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116355.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-08"
+ },
+ {
+  "chamber": "House",
+  "member": "Diana Harshbarger",
+  "filed_date": "2026-10-01",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116356.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-08"
+ },
+ {
+  "chamber": "House",
+  "member": "Diana Harshbarger",
+  "filed_date": "2026-10-01",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116357.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-08"
  }
 ]
