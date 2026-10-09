@@ -1,5 +1,1245 @@
 [
  {
+  "id": "9cc06631bbbef1d1",
+  "chamber": "House",
+  "member": "Josh Gottheimer",
+  "bioguide_id": "G000583",
+  "in_office": true,
+  "party": "D",
+  "state": "NJ",
+  "district": 5,
+  "committees": [
+   "House Permanent Select Committee on Intelligence",
+   "House Committee on Financial Services"
+  ],
+  "subcommittees": [
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Digital Assets, Financial Technology, and Artificial Intelligence",
+   "House Committee on Financial Services: Capital Markets",
+   "House Permanent Select Committee on Intelligence: Defense Intelligence and Overhead Architecture",
+   "House Permanent Select Committee on Intelligence: National Security Agency and Cyber"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Permanent Select Committee on Intelligence: National Security Agency and Cyber"
+  ],
+  "owner": "Joint",
+  "ticker": "MCD",
+  "asset": "McDonald's Corporation Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell_partial",
+  "transaction_date": "2026-09-25",
+  "notification_date": "2026-10-06",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-10-07",
+  "disclosure_lag_days": 12,
+  "filing_id": "20035590",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035590.pdf",
+  "first_seen": "2026-10-09"
+ },
+ {
+  "id": "e9b84d045c7ca6b5",
+  "chamber": "House",
+  "member": "Maria Elvira Salazar",
+  "bioguide_id": "S000168",
+  "in_office": true,
+  "party": "R",
+  "state": "FL",
+  "district": 27,
+  "committees": [
+   "House Committee on Financial Services",
+   "House Committee on Foreign Affairs"
+  ],
+  "subcommittees": [
+   "House Committee on Foreign Affairs: Africa",
+   "House Committee on Foreign Affairs: Western Hemisphere",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets",
+   "House Committee on Financial Services: Housing and Insurance"
+  ],
+  "leadership_roles": [
+   "Chair, House Committee on Foreign Affairs: Western Hemisphere"
+  ],
+  "owner": "Self",
+  "ticker": "BRK.B",
+  "asset": "Berkshire Hathaway Inc. New Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell_partial",
+  "transaction_date": "2026-09-24",
+  "notification_date": "2026-10-01",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-10-07",
+  "disclosure_lag_days": 13,
+  "filing_id": "20035562",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+  "first_seen": "2026-10-09"
+ },
+ {
+  "id": "5c95b176472b377a",
+  "chamber": "House",
+  "member": "Maria Elvira Salazar",
+  "bioguide_id": "S000168",
+  "in_office": true,
+  "party": "R",
+  "state": "FL",
+  "district": 27,
+  "committees": [
+   "House Committee on Financial Services",
+   "House Committee on Foreign Affairs"
+  ],
+  "subcommittees": [
+   "House Committee on Foreign Affairs: Africa",
+   "House Committee on Foreign Affairs: Western Hemisphere",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets",
+   "House Committee on Financial Services: Housing and Insurance"
+  ],
+  "leadership_roles": [
+   "Chair, House Committee on Foreign Affairs: Western Hemisphere"
+  ],
+  "owner": "Self",
+  "ticker": "BIIB",
+  "asset": "Biogen Inc. - Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell_partial",
+  "transaction_date": "2026-09-24",
+  "notification_date": "2026-10-01",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-10-07",
+  "disclosure_lag_days": 13,
+  "filing_id": "20035562",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+  "first_seen": "2026-10-09"
+ },
+ {
+  "id": "27370bd4f11cdc69",
+  "chamber": "House",
+  "member": "Maria Elvira Salazar",
+  "bioguide_id": "S000168",
+  "in_office": true,
+  "party": "R",
+  "state": "FL",
+  "district": 27,
+  "committees": [
+   "House Committee on Financial Services",
+   "House Committee on Foreign Affairs"
+  ],
+  "subcommittees": [
+   "House Committee on Foreign Affairs: Africa",
+   "House Committee on Foreign Affairs: Western Hemisphere",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets",
+   "House Committee on Financial Services: Housing and Insurance"
+  ],
+  "leadership_roles": [
+   "Chair, House Committee on Foreign Affairs: Western Hemisphere"
+  ],
+  "owner": "Self",
+  "ticker": "BA",
+  "asset": "Boeing Company",
+  "asset_type": "Stock",
+  "transaction": "sell_partial",
+  "transaction_date": "2026-09-24",
+  "notification_date": "2026-10-01",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-10-07",
+  "disclosure_lag_days": 13,
+  "filing_id": "20035562",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+  "first_seen": "2026-10-09"
+ },
+ {
+  "id": "eb7d93c307bb9515",
+  "chamber": "House",
+  "member": "Maria Elvira Salazar",
+  "bioguide_id": "S000168",
+  "in_office": true,
+  "party": "R",
+  "state": "FL",
+  "district": 27,
+  "committees": [
+   "House Committee on Financial Services",
+   "House Committee on Foreign Affairs"
+  ],
+  "subcommittees": [
+   "House Committee on Foreign Affairs: Africa",
+   "House Committee on Foreign Affairs: Western Hemisphere",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets",
+   "House Committee on Financial Services: Housing and Insurance"
+  ],
+  "leadership_roles": [
+   "Chair, House Committee on Foreign Affairs: Western Hemisphere"
+  ],
+  "owner": "Self",
+  "ticker": "BEP",
+  "asset": "Brookfield Renewable Partners L.P. Limited Partnership Units",
+  "asset_type": "Stock",
+  "transaction": "sell",
+  "transaction_date": "2026-09-24",
+  "notification_date": "2026-10-01",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-10-07",
+  "disclosure_lag_days": 13,
+  "filing_id": "20035562",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+  "first_seen": "2026-10-09"
+ },
+ {
+  "id": "f3fc7f0ee631291e",
+  "chamber": "House",
+  "member": "Maria Elvira Salazar",
+  "bioguide_id": "S000168",
+  "in_office": true,
+  "party": "R",
+  "state": "FL",
+  "district": 27,
+  "committees": [
+   "House Committee on Financial Services",
+   "House Committee on Foreign Affairs"
+  ],
+  "subcommittees": [
+   "House Committee on Foreign Affairs: Africa",
+   "House Committee on Foreign Affairs: Western Hemisphere",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets",
+   "House Committee on Financial Services: Housing and Insurance"
+  ],
+  "leadership_roles": [
+   "Chair, House Committee on Foreign Affairs: Western Hemisphere"
+  ],
+  "owner": "Self",
+  "ticker": "CB",
+  "asset": "Chubb Limited Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell_partial",
+  "transaction_date": "2026-09-24",
+  "notification_date": "2026-10-01",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-10-07",
+  "disclosure_lag_days": 13,
+  "filing_id": "20035562",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+  "first_seen": "2026-10-09"
+ },
+ {
+  "id": "b0cc085dc97d63ae",
+  "chamber": "House",
+  "member": "Maria Elvira Salazar",
+  "bioguide_id": "S000168",
+  "in_office": true,
+  "party": "R",
+  "state": "FL",
+  "district": 27,
+  "committees": [
+   "House Committee on Financial Services",
+   "House Committee on Foreign Affairs"
+  ],
+  "subcommittees": [
+   "House Committee on Foreign Affairs: Africa",
+   "House Committee on Foreign Affairs: Western Hemisphere",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets",
+   "House Committee on Financial Services: Housing and Insurance"
+  ],
+  "leadership_roles": [
+   "Chair, House Committee on Foreign Affairs: Western Hemisphere"
+  ],
+  "owner": "Self",
+  "ticker": "CSCO",
+  "asset": "Cisco Systems, Inc. - Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell",
+  "transaction_date": "2026-09-24",
+  "notification_date": "2026-10-01",
+  "amount_text": "$15,001 - $50,000",
+  "amount_min": 15001,
+  "amount_max": 50000,
+  "description": null,
+  "filed_date": "2026-10-07",
+  "disclosure_lag_days": 13,
+  "filing_id": "20035562",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+  "first_seen": "2026-10-09"
+ },
+ {
+  "id": "fdee03ed0568d5c9",
+  "chamber": "House",
+  "member": "Maria Elvira Salazar",
+  "bioguide_id": "S000168",
+  "in_office": true,
+  "party": "R",
+  "state": "FL",
+  "district": 27,
+  "committees": [
+   "House Committee on Financial Services",
+   "House Committee on Foreign Affairs"
+  ],
+  "subcommittees": [
+   "House Committee on Foreign Affairs: Africa",
+   "House Committee on Foreign Affairs: Western Hemisphere",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets",
+   "House Committee on Financial Services: Housing and Insurance"
+  ],
+  "leadership_roles": [
+   "Chair, House Committee on Foreign Affairs: Western Hemisphere"
+  ],
+  "owner": "Self",
+  "ticker": "CSCO",
+  "asset": "Cisco Systems, Inc. - Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell_partial",
+  "transaction_date": "2026-09-24",
+  "notification_date": "2026-10-01",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-10-07",
+  "disclosure_lag_days": 13,
+  "filing_id": "20035562",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+  "first_seen": "2026-10-09"
+ },
+ {
+  "id": "a47d4e71b79aa4b4",
+  "chamber": "House",
+  "member": "Maria Elvira Salazar",
+  "bioguide_id": "S000168",
+  "in_office": true,
+  "party": "R",
+  "state": "FL",
+  "district": 27,
+  "committees": [
+   "House Committee on Financial Services",
+   "House Committee on Foreign Affairs"
+  ],
+  "subcommittees": [
+   "House Committee on Foreign Affairs: Africa",
+   "House Committee on Foreign Affairs: Western Hemisphere",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets",
+   "House Committee on Financial Services: Housing and Insurance"
+  ],
+  "leadership_roles": [
+   "Chair, House Committee on Foreign Affairs: Western Hemisphere"
+  ],
+  "owner": "Self",
+  "ticker": "C",
+  "asset": "Citigroup, Inc. Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell_partial",
+  "transaction_date": "2026-09-24",
+  "notification_date": "2026-10-01",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-10-07",
+  "disclosure_lag_days": 13,
+  "filing_id": "20035562",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+  "first_seen": "2026-10-09"
+ },
+ {
+  "id": "fbae28ca02d4958d",
+  "chamber": "House",
+  "member": "Maria Elvira Salazar",
+  "bioguide_id": "S000168",
+  "in_office": true,
+  "party": "R",
+  "state": "FL",
+  "district": 27,
+  "committees": [
+   "House Committee on Financial Services",
+   "House Committee on Foreign Affairs"
+  ],
+  "subcommittees": [
+   "House Committee on Foreign Affairs: Africa",
+   "House Committee on Foreign Affairs: Western Hemisphere",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets",
+   "House Committee on Financial Services: Housing and Insurance"
+  ],
+  "leadership_roles": [
+   "Chair, House Committee on Foreign Affairs: Western Hemisphere"
+  ],
+  "owner": "Self",
+  "ticker": "GLW",
+  "asset": "Corning Incorporated Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell_partial",
+  "transaction_date": "2026-09-24",
+  "notification_date": "2026-10-01",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-10-07",
+  "disclosure_lag_days": 13,
+  "filing_id": "20035562",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+  "first_seen": "2026-10-09"
+ },
+ {
+  "id": "c7626cee25c67979",
+  "chamber": "House",
+  "member": "Maria Elvira Salazar",
+  "bioguide_id": "S000168",
+  "in_office": true,
+  "party": "R",
+  "state": "FL",
+  "district": 27,
+  "committees": [
+   "House Committee on Financial Services",
+   "House Committee on Foreign Affairs"
+  ],
+  "subcommittees": [
+   "House Committee on Foreign Affairs: Africa",
+   "House Committee on Foreign Affairs: Western Hemisphere",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets",
+   "House Committee on Financial Services: Housing and Insurance"
+  ],
+  "leadership_roles": [
+   "Chair, House Committee on Foreign Affairs: Western Hemisphere"
+  ],
+  "owner": "Self",
+  "ticker": "DDOG",
+  "asset": "Datadog, Inc. - Class A Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell_partial",
+  "transaction_date": "2026-09-24",
+  "notification_date": "2026-10-01",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-10-07",
+  "disclosure_lag_days": 13,
+  "filing_id": "20035562",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+  "first_seen": "2026-10-09"
+ },
+ {
+  "id": "a34a050519cd93ff",
+  "chamber": "House",
+  "member": "Maria Elvira Salazar",
+  "bioguide_id": "S000168",
+  "in_office": true,
+  "party": "R",
+  "state": "FL",
+  "district": 27,
+  "committees": [
+   "House Committee on Financial Services",
+   "House Committee on Foreign Affairs"
+  ],
+  "subcommittees": [
+   "House Committee on Foreign Affairs: Africa",
+   "House Committee on Foreign Affairs: Western Hemisphere",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets",
+   "House Committee on Financial Services: Housing and Insurance"
+  ],
+  "leadership_roles": [
+   "Chair, House Committee on Foreign Affairs: Western Hemisphere"
+  ],
+  "owner": "Self",
+  "ticker": "FDX",
+  "asset": "FedEx Corporation Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell_partial",
+  "transaction_date": "2026-09-24",
+  "notification_date": "2026-10-01",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-10-07",
+  "disclosure_lag_days": 13,
+  "filing_id": "20035562",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+  "first_seen": "2026-10-09"
+ },
+ {
+  "id": "1776e60cc62e191a",
+  "chamber": "House",
+  "member": "Maria Elvira Salazar",
+  "bioguide_id": "S000168",
+  "in_office": true,
+  "party": "R",
+  "state": "FL",
+  "district": 27,
+  "committees": [
+   "House Committee on Financial Services",
+   "House Committee on Foreign Affairs"
+  ],
+  "subcommittees": [
+   "House Committee on Foreign Affairs: Africa",
+   "House Committee on Foreign Affairs: Western Hemisphere",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets",
+   "House Committee on Financial Services: Housing and Insurance"
+  ],
+  "leadership_roles": [
+   "Chair, House Committee on Foreign Affairs: Western Hemisphere"
+  ],
+  "owner": "Self",
+  "ticker": "GE",
+  "asset": "GE Aerospace Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell_partial",
+  "transaction_date": "2026-09-24",
+  "notification_date": "2026-10-01",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-10-07",
+  "disclosure_lag_days": 13,
+  "filing_id": "20035562",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+  "first_seen": "2026-10-09"
+ },
+ {
+  "id": "d4a45f73d5710e4e",
+  "chamber": "House",
+  "member": "Maria Elvira Salazar",
+  "bioguide_id": "S000168",
+  "in_office": true,
+  "party": "R",
+  "state": "FL",
+  "district": 27,
+  "committees": [
+   "House Committee on Financial Services",
+   "House Committee on Foreign Affairs"
+  ],
+  "subcommittees": [
+   "House Committee on Foreign Affairs: Africa",
+   "House Committee on Foreign Affairs: Western Hemisphere",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets",
+   "House Committee on Financial Services: Housing and Insurance"
+  ],
+  "leadership_roles": [
+   "Chair, House Committee on Foreign Affairs: Western Hemisphere"
+  ],
+  "owner": "Self",
+  "ticker": "GS",
+  "asset": "Goldman Sachs Group, Inc.",
+  "asset_type": "Stock",
+  "transaction": "sell_partial",
+  "transaction_date": "2026-09-24",
+  "notification_date": "2026-10-01",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-10-07",
+  "disclosure_lag_days": 13,
+  "filing_id": "20035562",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+  "first_seen": "2026-10-09"
+ },
+ {
+  "id": "2a7ed73309925c1b",
+  "chamber": "House",
+  "member": "Maria Elvira Salazar",
+  "bioguide_id": "S000168",
+  "in_office": true,
+  "party": "R",
+  "state": "FL",
+  "district": 27,
+  "committees": [
+   "House Committee on Financial Services",
+   "House Committee on Foreign Affairs"
+  ],
+  "subcommittees": [
+   "House Committee on Foreign Affairs: Africa",
+   "House Committee on Foreign Affairs: Western Hemisphere",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets",
+   "House Committee on Financial Services: Housing and Insurance"
+  ],
+  "leadership_roles": [
+   "Chair, House Committee on Foreign Affairs: Western Hemisphere"
+  ],
+  "owner": "Self",
+  "ticker": "HONA",
+  "asset": "Honeywell Aerospace Inc. - Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell_partial",
+  "transaction_date": "2026-09-24",
+  "notification_date": "2026-10-01",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-10-07",
+  "disclosure_lag_days": 13,
+  "filing_id": "20035562",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+  "first_seen": "2026-10-09"
+ },
+ {
+  "id": "51eee38d7e057e71",
+  "chamber": "House",
+  "member": "Maria Elvira Salazar",
+  "bioguide_id": "S000168",
+  "in_office": true,
+  "party": "R",
+  "state": "FL",
+  "district": 27,
+  "committees": [
+   "House Committee on Financial Services",
+   "House Committee on Foreign Affairs"
+  ],
+  "subcommittees": [
+   "House Committee on Foreign Affairs: Africa",
+   "House Committee on Foreign Affairs: Western Hemisphere",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets",
+   "House Committee on Financial Services: Housing and Insurance"
+  ],
+  "leadership_roles": [
+   "Chair, House Committee on Foreign Affairs: Western Hemisphere"
+  ],
+  "owner": "Self",
+  "ticker": "HON",
+  "asset": "Honeywell International Inc.",
+  "asset_type": "Stock",
+  "transaction": "sell_partial",
+  "transaction_date": "2026-09-24",
+  "notification_date": "2026-10-01",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-10-07",
+  "disclosure_lag_days": 13,
+  "filing_id": "20035562",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+  "first_seen": "2026-10-09"
+ },
+ {
+  "id": "2dda06bb8543bc0b",
+  "chamber": "House",
+  "member": "Maria Elvira Salazar",
+  "bioguide_id": "S000168",
+  "in_office": true,
+  "party": "R",
+  "state": "FL",
+  "district": 27,
+  "committees": [
+   "House Committee on Financial Services",
+   "House Committee on Foreign Affairs"
+  ],
+  "subcommittees": [
+   "House Committee on Foreign Affairs: Africa",
+   "House Committee on Foreign Affairs: Western Hemisphere",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets",
+   "House Committee on Financial Services: Housing and Insurance"
+  ],
+  "leadership_roles": [
+   "Chair, House Committee on Foreign Affairs: Western Hemisphere"
+  ],
+  "owner": "Self",
+  "ticker": "MRVL",
+  "asset": "Marvell Technology, Inc. - Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell_partial",
+  "transaction_date": "2026-09-24",
+  "notification_date": "2026-10-01",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-10-07",
+  "disclosure_lag_days": 13,
+  "filing_id": "20035562",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+  "first_seen": "2026-10-09"
+ },
+ {
+  "id": "bde2e8ad78118719",
+  "chamber": "House",
+  "member": "Maria Elvira Salazar",
+  "bioguide_id": "S000168",
+  "in_office": true,
+  "party": "R",
+  "state": "FL",
+  "district": 27,
+  "committees": [
+   "House Committee on Financial Services",
+   "House Committee on Foreign Affairs"
+  ],
+  "subcommittees": [
+   "House Committee on Foreign Affairs: Africa",
+   "House Committee on Foreign Affairs: Western Hemisphere",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets",
+   "House Committee on Financial Services: Housing and Insurance"
+  ],
+  "leadership_roles": [
+   "Chair, House Committee on Foreign Affairs: Western Hemisphere"
+  ],
+  "owner": "Self",
+  "ticker": "MRK",
+  "asset": "Merck & Company, Inc. Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell_partial",
+  "transaction_date": "2026-09-24",
+  "notification_date": "2026-10-01",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-10-07",
+  "disclosure_lag_days": 13,
+  "filing_id": "20035562",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+  "first_seen": "2026-10-09"
+ },
+ {
+  "id": "61603a28444dce3d",
+  "chamber": "House",
+  "member": "Maria Elvira Salazar",
+  "bioguide_id": "S000168",
+  "in_office": true,
+  "party": "R",
+  "state": "FL",
+  "district": 27,
+  "committees": [
+   "House Committee on Financial Services",
+   "House Committee on Foreign Affairs"
+  ],
+  "subcommittees": [
+   "House Committee on Foreign Affairs: Africa",
+   "House Committee on Foreign Affairs: Western Hemisphere",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets",
+   "House Committee on Financial Services: Housing and Insurance"
+  ],
+  "leadership_roles": [
+   "Chair, House Committee on Foreign Affairs: Western Hemisphere"
+  ],
+  "owner": "Self",
+  "ticker": "META",
+  "asset": "Meta Platforms, Inc. - Class A Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell_partial",
+  "transaction_date": "2026-09-24",
+  "notification_date": "2026-10-01",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-10-07",
+  "disclosure_lag_days": 13,
+  "filing_id": "20035562",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+  "first_seen": "2026-10-09"
+ },
+ {
+  "id": "35fa9d0d755fcfb9",
+  "chamber": "House",
+  "member": "Maria Elvira Salazar",
+  "bioguide_id": "S000168",
+  "in_office": true,
+  "party": "R",
+  "state": "FL",
+  "district": 27,
+  "committees": [
+   "House Committee on Financial Services",
+   "House Committee on Foreign Affairs"
+  ],
+  "subcommittees": [
+   "House Committee on Foreign Affairs: Africa",
+   "House Committee on Foreign Affairs: Western Hemisphere",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets",
+   "House Committee on Financial Services: Housing and Insurance"
+  ],
+  "leadership_roles": [
+   "Chair, House Committee on Foreign Affairs: Western Hemisphere"
+  ],
+  "owner": "Self",
+  "ticker": "MSFT",
+  "asset": "Microsoft Corporation - Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell_partial",
+  "transaction_date": "2026-09-24",
+  "notification_date": "2026-10-01",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-10-07",
+  "disclosure_lag_days": 13,
+  "filing_id": "20035562",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+  "first_seen": "2026-10-09"
+ },
+ {
+  "id": "0a87f54aea7fe4a6",
+  "chamber": "House",
+  "member": "Maria Elvira Salazar",
+  "bioguide_id": "S000168",
+  "in_office": true,
+  "party": "R",
+  "state": "FL",
+  "district": 27,
+  "committees": [
+   "House Committee on Financial Services",
+   "House Committee on Foreign Affairs"
+  ],
+  "subcommittees": [
+   "House Committee on Foreign Affairs: Africa",
+   "House Committee on Foreign Affairs: Western Hemisphere",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets",
+   "House Committee on Financial Services: Housing and Insurance"
+  ],
+  "leadership_roles": [
+   "Chair, House Committee on Foreign Affairs: Western Hemisphere"
+  ],
+  "owner": "Self",
+  "ticker": "MRNA",
+  "asset": "Moderna, Inc. - Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell_partial",
+  "transaction_date": "2026-09-24",
+  "notification_date": "2026-10-01",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-10-07",
+  "disclosure_lag_days": 13,
+  "filing_id": "20035562",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+  "first_seen": "2026-10-09"
+ },
+ {
+  "id": "6711ed940d1fbc6d",
+  "chamber": "House",
+  "member": "Maria Elvira Salazar",
+  "bioguide_id": "S000168",
+  "in_office": true,
+  "party": "R",
+  "state": "FL",
+  "district": 27,
+  "committees": [
+   "House Committee on Financial Services",
+   "House Committee on Foreign Affairs"
+  ],
+  "subcommittees": [
+   "House Committee on Foreign Affairs: Africa",
+   "House Committee on Foreign Affairs: Western Hemisphere",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets",
+   "House Committee on Financial Services: Housing and Insurance"
+  ],
+  "leadership_roles": [
+   "Chair, House Committee on Foreign Affairs: Western Hemisphere"
+  ],
+  "owner": "Self",
+  "ticker": "OKTA",
+  "asset": "Okta, Inc. - Class A Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell_partial",
+  "transaction_date": "2026-09-24",
+  "notification_date": "2026-10-01",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-10-07",
+  "disclosure_lag_days": 13,
+  "filing_id": "20035562",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+  "first_seen": "2026-10-09"
+ },
+ {
+  "id": "5ebae9c9fea1e08d",
+  "chamber": "House",
+  "member": "Maria Elvira Salazar",
+  "bioguide_id": "S000168",
+  "in_office": true,
+  "party": "R",
+  "state": "FL",
+  "district": 27,
+  "committees": [
+   "House Committee on Financial Services",
+   "House Committee on Foreign Affairs"
+  ],
+  "subcommittees": [
+   "House Committee on Foreign Affairs: Africa",
+   "House Committee on Foreign Affairs: Western Hemisphere",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets",
+   "House Committee on Financial Services: Housing and Insurance"
+  ],
+  "leadership_roles": [
+   "Chair, House Committee on Foreign Affairs: Western Hemisphere"
+  ],
+  "owner": "Self",
+  "ticker": "PTON",
+  "asset": "Peloton Interactive, Inc. - Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell_partial",
+  "transaction_date": "2026-09-24",
+  "notification_date": "2026-10-01",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-10-07",
+  "disclosure_lag_days": 13,
+  "filing_id": "20035562",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+  "first_seen": "2026-10-09"
+ },
+ {
+  "id": "b122b4d0ad4f7747",
+  "chamber": "House",
+  "member": "Maria Elvira Salazar",
+  "bioguide_id": "S000168",
+  "in_office": true,
+  "party": "R",
+  "state": "FL",
+  "district": 27,
+  "committees": [
+   "House Committee on Financial Services",
+   "House Committee on Foreign Affairs"
+  ],
+  "subcommittees": [
+   "House Committee on Foreign Affairs: Africa",
+   "House Committee on Foreign Affairs: Western Hemisphere",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets",
+   "House Committee on Financial Services: Housing and Insurance"
+  ],
+  "leadership_roles": [
+   "Chair, House Committee on Foreign Affairs: Western Hemisphere"
+  ],
+  "owner": "Self",
+  "ticker": "RH",
+  "asset": "RH Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell_partial",
+  "transaction_date": "2026-09-24",
+  "notification_date": "2026-10-01",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-10-07",
+  "disclosure_lag_days": 13,
+  "filing_id": "20035562",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+  "first_seen": "2026-10-09"
+ },
+ {
+  "id": "db8866b7f1deb250",
+  "chamber": "House",
+  "member": "Maria Elvira Salazar",
+  "bioguide_id": "S000168",
+  "in_office": true,
+  "party": "R",
+  "state": "FL",
+  "district": 27,
+  "committees": [
+   "House Committee on Financial Services",
+   "House Committee on Foreign Affairs"
+  ],
+  "subcommittees": [
+   "House Committee on Foreign Affairs: Africa",
+   "House Committee on Foreign Affairs: Western Hemisphere",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets",
+   "House Committee on Financial Services: Housing and Insurance"
+  ],
+  "leadership_roles": [
+   "Chair, House Committee on Foreign Affairs: Western Hemisphere"
+  ],
+  "owner": "Self",
+  "ticker": "CRM",
+  "asset": "Salesforce, Inc. Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell_partial",
+  "transaction_date": "2026-09-24",
+  "notification_date": "2026-10-01",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-10-07",
+  "disclosure_lag_days": 13,
+  "filing_id": "20035562",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+  "first_seen": "2026-10-09"
+ },
+ {
+  "id": "81e71faa70dbc617",
+  "chamber": "House",
+  "member": "Maria Elvira Salazar",
+  "bioguide_id": "S000168",
+  "in_office": true,
+  "party": "R",
+  "state": "FL",
+  "district": 27,
+  "committees": [
+   "House Committee on Financial Services",
+   "House Committee on Foreign Affairs"
+  ],
+  "subcommittees": [
+   "House Committee on Foreign Affairs: Africa",
+   "House Committee on Foreign Affairs: Western Hemisphere",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets",
+   "House Committee on Financial Services: Housing and Insurance"
+  ],
+  "leadership_roles": [
+   "Chair, House Committee on Foreign Affairs: Western Hemisphere"
+  ],
+  "owner": "Self",
+  "ticker": "SNOW",
+  "asset": "Snowflake Inc. Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell_partial",
+  "transaction_date": "2026-09-24",
+  "notification_date": "2026-10-01",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-10-07",
+  "disclosure_lag_days": 13,
+  "filing_id": "20035562",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+  "first_seen": "2026-10-09"
+ },
+ {
+  "id": "938dbfff79d51a08",
+  "chamber": "House",
+  "member": "Maria Elvira Salazar",
+  "bioguide_id": "S000168",
+  "in_office": true,
+  "party": "R",
+  "state": "FL",
+  "district": 27,
+  "committees": [
+   "House Committee on Financial Services",
+   "House Committee on Foreign Affairs"
+  ],
+  "subcommittees": [
+   "House Committee on Foreign Affairs: Africa",
+   "House Committee on Foreign Affairs: Western Hemisphere",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets",
+   "House Committee on Financial Services: Housing and Insurance"
+  ],
+  "leadership_roles": [
+   "Chair, House Committee on Foreign Affairs: Western Hemisphere"
+  ],
+  "owner": "Self",
+  "ticker": "SPCX",
+  "asset": "Space Exploration Technologies Corp. - Class A Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell_partial",
+  "transaction_date": "2026-09-24",
+  "notification_date": "2026-10-01",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-10-07",
+  "disclosure_lag_days": 13,
+  "filing_id": "20035562",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+  "first_seen": "2026-10-09"
+ },
+ {
+  "id": "44798b61511d767b",
+  "chamber": "House",
+  "member": "Maria Elvira Salazar",
+  "bioguide_id": "S000168",
+  "in_office": true,
+  "party": "R",
+  "state": "FL",
+  "district": 27,
+  "committees": [
+   "House Committee on Financial Services",
+   "House Committee on Foreign Affairs"
+  ],
+  "subcommittees": [
+   "House Committee on Foreign Affairs: Africa",
+   "House Committee on Foreign Affairs: Western Hemisphere",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets",
+   "House Committee on Financial Services: Housing and Insurance"
+  ],
+  "leadership_roles": [
+   "Chair, House Committee on Foreign Affairs: Western Hemisphere"
+  ],
+  "owner": "Self",
+  "ticker": "URI",
+  "asset": "United Rentals, Inc. Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell_partial",
+  "transaction_date": "2026-09-24",
+  "notification_date": "2026-10-01",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-10-07",
+  "disclosure_lag_days": 13,
+  "filing_id": "20035562",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+  "first_seen": "2026-10-09"
+ },
+ {
+  "id": "3dbd5eab2c856db3",
+  "chamber": "House",
+  "member": "Maria Elvira Salazar",
+  "bioguide_id": "S000168",
+  "in_office": true,
+  "party": "R",
+  "state": "FL",
+  "district": 27,
+  "committees": [
+   "House Committee on Financial Services",
+   "House Committee on Foreign Affairs"
+  ],
+  "subcommittees": [
+   "House Committee on Foreign Affairs: Africa",
+   "House Committee on Foreign Affairs: Western Hemisphere",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets",
+   "House Committee on Financial Services: Housing and Insurance"
+  ],
+  "leadership_roles": [
+   "Chair, House Committee on Foreign Affairs: Western Hemisphere"
+  ],
+  "owner": "Self",
+  "ticker": "UNH",
+  "asset": "UnitedHealth Group Incorporated Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell_partial",
+  "transaction_date": "2026-09-24",
+  "notification_date": "2026-10-01",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-10-07",
+  "disclosure_lag_days": 13,
+  "filing_id": "20035562",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+  "first_seen": "2026-10-09"
+ },
+ {
+  "id": "91a02b48b6df512a",
+  "chamber": "House",
+  "member": "Maria Elvira Salazar",
+  "bioguide_id": "S000168",
+  "in_office": true,
+  "party": "R",
+  "state": "FL",
+  "district": 27,
+  "committees": [
+   "House Committee on Financial Services",
+   "House Committee on Foreign Affairs"
+  ],
+  "subcommittees": [
+   "House Committee on Foreign Affairs: Africa",
+   "House Committee on Foreign Affairs: Western Hemisphere",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets",
+   "House Committee on Financial Services: Housing and Insurance"
+  ],
+  "leadership_roles": [
+   "Chair, House Committee on Foreign Affairs: Western Hemisphere"
+  ],
+  "owner": "Self",
+  "ticker": "META",
+  "asset": "Meta Platforms, Inc. - Class A Common Stock",
+  "asset_type": "Stock",
+  "transaction": "buy",
+  "transaction_date": "2026-09-22",
+  "notification_date": "2026-10-01",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-10-07",
+  "disclosure_lag_days": 15,
+  "filing_id": "20035562",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+  "first_seen": "2026-10-09"
+ },
+ {
+  "id": "4698ad7021df61c9",
+  "chamber": "House",
+  "member": "Maria Elvira Salazar",
+  "bioguide_id": "S000168",
+  "in_office": true,
+  "party": "R",
+  "state": "FL",
+  "district": 27,
+  "committees": [
+   "House Committee on Financial Services",
+   "House Committee on Foreign Affairs"
+  ],
+  "subcommittees": [
+   "House Committee on Foreign Affairs: Africa",
+   "House Committee on Foreign Affairs: Western Hemisphere",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets",
+   "House Committee on Financial Services: Housing and Insurance"
+  ],
+  "leadership_roles": [
+   "Chair, House Committee on Foreign Affairs: Western Hemisphere"
+  ],
+  "owner": "Self",
+  "ticker": "META",
+  "asset": "Meta Platforms, Inc. - Class A Common Stock",
+  "asset_type": "Stock",
+  "transaction": "buy",
+  "transaction_date": "2026-09-22",
+  "notification_date": "2026-10-01",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-10-07",
+  "disclosure_lag_days": 15,
+  "filing_id": "20035562",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+  "first_seen": "2026-10-09"
+ },
+ {
   "id": "160d064236b4723c",
   "chamber": "Senate",
   "member": "John Fetterman",
@@ -84,6 +1324,526 @@
   "filing_id": "0541be4f-4f96-4d84-8d6f-d349f218bb2a",
   "filing_url": "https://efdsearch.senate.gov/search/view/ptr/0541be4f-4f96-4d84-8d6f-d349f218bb2a/",
   "first_seen": "2026-10-08"
+ },
+ {
+  "id": "613f1da05fd58e02",
+  "chamber": "House",
+  "member": "Josh Gottheimer",
+  "bioguide_id": "G000583",
+  "in_office": true,
+  "party": "D",
+  "state": "NJ",
+  "district": 5,
+  "committees": [
+   "House Permanent Select Committee on Intelligence",
+   "House Committee on Financial Services"
+  ],
+  "subcommittees": [
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Digital Assets, Financial Technology, and Artificial Intelligence",
+   "House Committee on Financial Services: Capital Markets",
+   "House Permanent Select Committee on Intelligence: Defense Intelligence and Overhead Architecture",
+   "House Permanent Select Committee on Intelligence: National Security Agency and Cyber"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Permanent Select Committee on Intelligence: National Security Agency and Cyber"
+  ],
+  "owner": "Joint",
+  "ticker": "AMAT",
+  "asset": "Applied Materials, Inc. - Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell",
+  "transaction_date": "2026-09-15",
+  "notification_date": "2026-10-06",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-10-07",
+  "disclosure_lag_days": 22,
+  "filing_id": "20035590",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035590.pdf",
+  "first_seen": "2026-10-09"
+ },
+ {
+  "id": "8bbbb5bb3d209423",
+  "chamber": "House",
+  "member": "Maria Elvira Salazar",
+  "bioguide_id": "S000168",
+  "in_office": true,
+  "party": "R",
+  "state": "FL",
+  "district": 27,
+  "committees": [
+   "House Committee on Financial Services",
+   "House Committee on Foreign Affairs"
+  ],
+  "subcommittees": [
+   "House Committee on Foreign Affairs: Africa",
+   "House Committee on Foreign Affairs: Western Hemisphere",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets",
+   "House Committee on Financial Services: Housing and Insurance"
+  ],
+  "leadership_roles": [
+   "Chair, House Committee on Foreign Affairs: Western Hemisphere"
+  ],
+  "owner": "Self",
+  "ticker": "CSCO",
+  "asset": "Cisco Systems, Inc. - Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell_partial",
+  "transaction_date": "2026-09-08",
+  "notification_date": "2026-10-01",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-10-07",
+  "disclosure_lag_days": 29,
+  "filing_id": "20035562",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+  "first_seen": "2026-10-09"
+ },
+ {
+  "id": "df69155fec615275",
+  "chamber": "House",
+  "member": "Maria Elvira Salazar",
+  "bioguide_id": "S000168",
+  "in_office": true,
+  "party": "R",
+  "state": "FL",
+  "district": 27,
+  "committees": [
+   "House Committee on Financial Services",
+   "House Committee on Foreign Affairs"
+  ],
+  "subcommittees": [
+   "House Committee on Foreign Affairs: Africa",
+   "House Committee on Foreign Affairs: Western Hemisphere",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets",
+   "House Committee on Financial Services: Housing and Insurance"
+  ],
+  "leadership_roles": [
+   "Chair, House Committee on Foreign Affairs: Western Hemisphere"
+  ],
+  "owner": "Self",
+  "ticker": "GLW",
+  "asset": "Corning Incorporated Common Stock",
+  "asset_type": "Stock",
+  "transaction": "buy",
+  "transaction_date": "2026-09-08",
+  "notification_date": "2026-10-01",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-10-07",
+  "disclosure_lag_days": 29,
+  "filing_id": "20035562",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+  "first_seen": "2026-10-09"
+ },
+ {
+  "id": "40e0fe12cf4f8851",
+  "chamber": "House",
+  "member": "Maria Elvira Salazar",
+  "bioguide_id": "S000168",
+  "in_office": true,
+  "party": "R",
+  "state": "FL",
+  "district": 27,
+  "committees": [
+   "House Committee on Financial Services",
+   "House Committee on Foreign Affairs"
+  ],
+  "subcommittees": [
+   "House Committee on Foreign Affairs: Africa",
+   "House Committee on Foreign Affairs: Western Hemisphere",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets",
+   "House Committee on Financial Services: Housing and Insurance"
+  ],
+  "leadership_roles": [
+   "Chair, House Committee on Foreign Affairs: Western Hemisphere"
+  ],
+  "owner": "Self",
+  "ticker": "GLW",
+  "asset": "Corning Incorporated Common Stock",
+  "asset_type": "Stock",
+  "transaction": "buy",
+  "transaction_date": "2026-09-08",
+  "notification_date": "2026-10-01",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-10-07",
+  "disclosure_lag_days": 29,
+  "filing_id": "20035562",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+  "first_seen": "2026-10-09"
+ },
+ {
+  "id": "07985d9b2822ef5e",
+  "chamber": "House",
+  "member": "Maria Elvira Salazar",
+  "bioguide_id": "S000168",
+  "in_office": true,
+  "party": "R",
+  "state": "FL",
+  "district": 27,
+  "committees": [
+   "House Committee on Financial Services",
+   "House Committee on Foreign Affairs"
+  ],
+  "subcommittees": [
+   "House Committee on Foreign Affairs: Africa",
+   "House Committee on Foreign Affairs: Western Hemisphere",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets",
+   "House Committee on Financial Services: Housing and Insurance"
+  ],
+  "leadership_roles": [
+   "Chair, House Committee on Foreign Affairs: Western Hemisphere"
+  ],
+  "owner": "Self",
+  "ticker": "GLW",
+  "asset": "Corning Incorporated Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell_partial",
+  "transaction_date": "2026-09-04",
+  "notification_date": "2026-10-01",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-10-07",
+  "disclosure_lag_days": 33,
+  "filing_id": "20035562",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+  "first_seen": "2026-10-09"
+ },
+ {
+  "id": "2f9ed89854a9cfa9",
+  "chamber": "House",
+  "member": "Maria Elvira Salazar",
+  "bioguide_id": "S000168",
+  "in_office": true,
+  "party": "R",
+  "state": "FL",
+  "district": 27,
+  "committees": [
+   "House Committee on Financial Services",
+   "House Committee on Foreign Affairs"
+  ],
+  "subcommittees": [
+   "House Committee on Foreign Affairs: Africa",
+   "House Committee on Foreign Affairs: Western Hemisphere",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets",
+   "House Committee on Financial Services: Housing and Insurance"
+  ],
+  "leadership_roles": [
+   "Chair, House Committee on Foreign Affairs: Western Hemisphere"
+  ],
+  "owner": "Self",
+  "ticker": "GLW",
+  "asset": "Corning Incorporated Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell_partial",
+  "transaction_date": "2026-09-04",
+  "notification_date": "2026-10-01",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-10-07",
+  "disclosure_lag_days": 33,
+  "filing_id": "20035562",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+  "first_seen": "2026-10-09"
+ },
+ {
+  "id": "0340db86e7690ef6",
+  "chamber": "House",
+  "member": "Maria Elvira Salazar",
+  "bioguide_id": "S000168",
+  "in_office": true,
+  "party": "R",
+  "state": "FL",
+  "district": 27,
+  "committees": [
+   "House Committee on Financial Services",
+   "House Committee on Foreign Affairs"
+  ],
+  "subcommittees": [
+   "House Committee on Foreign Affairs: Africa",
+   "House Committee on Foreign Affairs: Western Hemisphere",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets",
+   "House Committee on Financial Services: Housing and Insurance"
+  ],
+  "leadership_roles": [
+   "Chair, House Committee on Foreign Affairs: Western Hemisphere"
+  ],
+  "owner": "Self",
+  "ticker": "IBM",
+  "asset": "International Business Machines Corporation Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell",
+  "transaction_date": "2026-09-04",
+  "notification_date": "2026-10-01",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-10-07",
+  "disclosure_lag_days": 33,
+  "filing_id": "20035562",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+  "first_seen": "2026-10-09"
+ },
+ {
+  "id": "74ee092c84ae7ffe",
+  "chamber": "House",
+  "member": "Maria Elvira Salazar",
+  "bioguide_id": "S000168",
+  "in_office": true,
+  "party": "R",
+  "state": "FL",
+  "district": 27,
+  "committees": [
+   "House Committee on Financial Services",
+   "House Committee on Foreign Affairs"
+  ],
+  "subcommittees": [
+   "House Committee on Foreign Affairs: Africa",
+   "House Committee on Foreign Affairs: Western Hemisphere",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets",
+   "House Committee on Financial Services: Housing and Insurance"
+  ],
+  "leadership_roles": [
+   "Chair, House Committee on Foreign Affairs: Western Hemisphere"
+  ],
+  "owner": "Self",
+  "ticker": "IBM",
+  "asset": "International Business Machines Corporation Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell",
+  "transaction_date": "2026-09-04",
+  "notification_date": "2026-10-01",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-10-07",
+  "disclosure_lag_days": 33,
+  "filing_id": "20035562",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+  "first_seen": "2026-10-09"
+ },
+ {
+  "id": "d3740cc94ba70e6c",
+  "chamber": "House",
+  "member": "Maria Elvira Salazar",
+  "bioguide_id": "S000168",
+  "in_office": true,
+  "party": "R",
+  "state": "FL",
+  "district": 27,
+  "committees": [
+   "House Committee on Financial Services",
+   "House Committee on Foreign Affairs"
+  ],
+  "subcommittees": [
+   "House Committee on Foreign Affairs: Africa",
+   "House Committee on Foreign Affairs: Western Hemisphere",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets",
+   "House Committee on Financial Services: Housing and Insurance"
+  ],
+  "leadership_roles": [
+   "Chair, House Committee on Foreign Affairs: Western Hemisphere"
+  ],
+  "owner": "Self",
+  "ticker": "OKTA",
+  "asset": "Okta, Inc. - Class A Common Stock",
+  "asset_type": "Stock",
+  "transaction": "buy",
+  "transaction_date": "2026-09-04",
+  "notification_date": "2026-10-01",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-10-07",
+  "disclosure_lag_days": 33,
+  "filing_id": "20035562",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+  "first_seen": "2026-10-09"
+ },
+ {
+  "id": "9dfb5d4211a93ff2",
+  "chamber": "House",
+  "member": "Maria Elvira Salazar",
+  "bioguide_id": "S000168",
+  "in_office": true,
+  "party": "R",
+  "state": "FL",
+  "district": 27,
+  "committees": [
+   "House Committee on Financial Services",
+   "House Committee on Foreign Affairs"
+  ],
+  "subcommittees": [
+   "House Committee on Foreign Affairs: Africa",
+   "House Committee on Foreign Affairs: Western Hemisphere",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets",
+   "House Committee on Financial Services: Housing and Insurance"
+  ],
+  "leadership_roles": [
+   "Chair, House Committee on Foreign Affairs: Western Hemisphere"
+  ],
+  "owner": "Self",
+  "ticker": "OKTA",
+  "asset": "Okta, Inc. - Class A Common Stock",
+  "asset_type": "Stock",
+  "transaction": "buy",
+  "transaction_date": "2026-09-04",
+  "notification_date": "2026-10-01",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-10-07",
+  "disclosure_lag_days": 33,
+  "filing_id": "20035562",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+  "first_seen": "2026-10-09"
+ },
+ {
+  "id": "fef588ed835c4e41",
+  "chamber": "House",
+  "member": "Maria Elvira Salazar",
+  "bioguide_id": "S000168",
+  "in_office": true,
+  "party": "R",
+  "state": "FL",
+  "district": 27,
+  "committees": [
+   "House Committee on Financial Services",
+   "House Committee on Foreign Affairs"
+  ],
+  "subcommittees": [
+   "House Committee on Foreign Affairs: Africa",
+   "House Committee on Foreign Affairs: Western Hemisphere",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets",
+   "House Committee on Financial Services: Housing and Insurance"
+  ],
+  "leadership_roles": [
+   "Chair, House Committee on Foreign Affairs: Western Hemisphere"
+  ],
+  "owner": "Self",
+  "ticker": "SNOW",
+  "asset": "Snowflake Inc. Common Stock",
+  "asset_type": "Stock",
+  "transaction": "buy",
+  "transaction_date": "2026-09-04",
+  "notification_date": "2026-10-01",
+  "amount_text": "$15,001 - $50,000",
+  "amount_min": 15001,
+  "amount_max": 50000,
+  "description": null,
+  "filed_date": "2026-10-07",
+  "disclosure_lag_days": 33,
+  "filing_id": "20035562",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+  "first_seen": "2026-10-09"
+ },
+ {
+  "id": "4931894c2ee36cc6",
+  "chamber": "House",
+  "member": "Maria Elvira Salazar",
+  "bioguide_id": "S000168",
+  "in_office": true,
+  "party": "R",
+  "state": "FL",
+  "district": 27,
+  "committees": [
+   "House Committee on Financial Services",
+   "House Committee on Foreign Affairs"
+  ],
+  "subcommittees": [
+   "House Committee on Foreign Affairs: Africa",
+   "House Committee on Foreign Affairs: Western Hemisphere",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets",
+   "House Committee on Financial Services: Housing and Insurance"
+  ],
+  "leadership_roles": [
+   "Chair, House Committee on Foreign Affairs: Western Hemisphere"
+  ],
+  "owner": "Self",
+  "ticker": "SNOW",
+  "asset": "Snowflake Inc. Common Stock",
+  "asset_type": "Stock",
+  "transaction": "buy",
+  "transaction_date": "2026-09-04",
+  "notification_date": "2026-10-01",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-10-07",
+  "disclosure_lag_days": 33,
+  "filing_id": "20035562",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+  "first_seen": "2026-10-09"
+ },
+ {
+  "id": "ec02e9cfcf911789",
+  "chamber": "House",
+  "member": "Maria Elvira Salazar",
+  "bioguide_id": "S000168",
+  "in_office": true,
+  "party": "R",
+  "state": "FL",
+  "district": 27,
+  "committees": [
+   "House Committee on Financial Services",
+   "House Committee on Foreign Affairs"
+  ],
+  "subcommittees": [
+   "House Committee on Foreign Affairs: Africa",
+   "House Committee on Foreign Affairs: Western Hemisphere",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets",
+   "House Committee on Financial Services: Housing and Insurance"
+  ],
+  "leadership_roles": [
+   "Chair, House Committee on Foreign Affairs: Western Hemisphere"
+  ],
+  "owner": "Self",
+  "ticker": "CVX",
+  "asset": "Chevron Corporation Common Stock",
+  "asset_type": "Stock",
+  "transaction": "buy",
+  "transaction_date": "2026-09-02",
+  "notification_date": "2026-10-01",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-10-07",
+  "disclosure_lag_days": 35,
+  "filing_id": "20035562",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
+  "first_seen": "2026-10-09"
  },
  {
   "id": "ed5f01080efea424",
