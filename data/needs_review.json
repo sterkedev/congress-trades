@@ -670,5 +670,13 @@
   "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116357.pdf",
   "reason": "no readable text (probably a scanned paper filing)",
   "first_seen": "2026-10-08"
+ },
+ {
+  "chamber": "House",
+  "member": "Ro Khanna",
+  "filed_date": "2026-10-07",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116376.pdf",
+  "reason": "no readable text (probably a scanned paper filing)",
+  "first_seen": "2026-10-10"
  }
 ]
