@@ -1,8 +1,88 @@
 {
- "generated_at": "2026-10-15T11:36:30+00:00",
+ "generated_at": "2026-10-16T11:30:46+00:00",
  "window_days": 30,
  "note": "Trades whose filing became public in the window (filed_date). Member party, state and committee seats are in 'members', keyed by trade.member.",
  "members": {
+  "Suzan K. DelBene": {
+   "bioguide_id": "D000617",
+   "chamber": "House",
+   "in_office": true,
+   "party": "D",
+   "state": "WA",
+   "district": 1,
+   "committees": [
+    "House Committee on Ways and Means"
+   ],
+   "subcommittees": [
+    "House Committee on Ways and Means: Trade",
+    "House Committee on Ways and Means: Oversight",
+    "House Committee on Ways and Means: Tax"
+   ],
+   "leadership_roles": []
+  },
+  "Rick W. Allen": {
+   "bioguide_id": "A000372",
+   "chamber": "House",
+   "in_office": true,
+   "party": "R",
+   "state": "GA",
+   "district": 12,
+   "committees": [
+    "House Committee on Energy and Commerce",
+    "House Committee on Education and Workforce"
+   ],
+   "subcommittees": [
+    "House Committee on Energy and Commerce: Oversight and Investigations",
+    "House Committee on Energy and Commerce: Energy",
+    "House Committee on Energy and Commerce: Communications and Technology",
+    "House Committee on Education and Workforce: Health, Employment, Labor, and Pensions"
+   ],
+   "leadership_roles": [
+    "Vice Chair, House Committee on Energy and Commerce: Communications and Technology",
+    "Chairman, House Committee on Education and Workforce: Health, Employment, Labor, and Pensions"
+   ]
+  },
+  "Mike Kelly": {
+   "bioguide_id": "K000376",
+   "chamber": "House",
+   "in_office": true,
+   "party": "R",
+   "state": "PA",
+   "district": 16,
+   "committees": [
+    "House Committee on Ways and Means"
+   ],
+   "subcommittees": [
+    "House Committee on Ways and Means: Tax",
+    "House Committee on Ways and Means: Health"
+   ],
+   "leadership_roles": [
+    "Chair, House Committee on Ways and Means: Tax"
+   ]
+  },
+  "Richard McCormick": {
+   "bioguide_id": "M001218",
+   "chamber": "House",
+   "in_office": true,
+   "party": "R",
+   "state": "GA",
+   "district": 7,
+   "committees": [
+    "House Committee on Science, Space, and Technology",
+    "House Committee on Armed Services",
+    "House Committee on Oversight and Government Reform"
+   ],
+   "subcommittees": [
+    "House Committee on Science, Space, and Technology: Investigations and Oversight",
+    "House Committee on Oversight and Government Reform: Cybersecurity, Information Technology, and Government Innovation",
+    "House Committee on Armed Services: Tactical Air and Land Forces",
+    "House Committee on Armed Services: Cyber, Information Technologies, and Innovation",
+    "House Committee on Science, Space, and Technology: Space and Aeronautics"
+   ],
+   "leadership_roles": [
+    "Chair, House Committee on Science, Space, and Technology: Investigations and Oversight"
+   ]
+  },
   "Daniel Meuser": {
    "bioguide_id": "M001204",
    "chamber": "House",
@@ -330,23 +410,6 @@
     "Chairman, United States Senate Caucus on International Narcotics Control"
    ]
   },
-  "Suzan K. DelBene": {
-   "bioguide_id": "D000617",
-   "chamber": "House",
-   "in_office": true,
-   "party": "D",
-   "state": "WA",
-   "district": 1,
-   "committees": [
-    "House Committee on Ways and Means"
-   ],
-   "subcommittees": [
-    "House Committee on Ways and Means: Trade",
-    "House Committee on Ways and Means: Oversight",
-    "House Committee on Ways and Means: Tax"
-   ],
-   "leadership_roles": []
-  },
   "Richard Blumenthal": {
    "bioguide_id": "B001277",
    "chamber": "Senate",
@@ -462,28 +525,6 @@
    ],
    "leadership_roles": []
   },
-  "Rick W. Allen": {
-   "bioguide_id": "A000372",
-   "chamber": "House",
-   "in_office": true,
-   "party": "R",
-   "state": "GA",
-   "district": 12,
-   "committees": [
-    "House Committee on Energy and Commerce",
-    "House Committee on Education and Workforce"
-   ],
-   "subcommittees": [
-    "House Committee on Energy and Commerce: Oversight and Investigations",
-    "House Committee on Energy and Commerce: Energy",
-    "House Committee on Energy and Commerce: Communications and Technology",
-    "House Committee on Education and Workforce: Health, Employment, Labor, and Pensions"
-   ],
-   "leadership_roles": [
-    "Vice Chair, House Committee on Energy and Commerce: Communications and Technology",
-    "Chairman, House Committee on Education and Workforce: Health, Employment, Labor, and Pensions"
-   ]
-  },
   "Mitch McConnell": {
    "bioguide_id": "M000355",
    "chamber": "Senate",
@@ -573,28 +614,198 @@
     "Senate Committee on Health, Education, Labor, and Pensions: Primary Health and Retirement Security"
    ],
    "leadership_roles": []
-  },
-  "Byron Donalds": {
-   "bioguide_id": "D000032",
-   "chamber": "House",
-   "in_office": true,
-   "party": "R",
-   "state": "FL",
-   "district": 19,
-   "committees": [
-    "House Committee on Oversight and Government Reform",
-    "House Committee on Financial Services"
-   ],
-   "subcommittees": [
-    "House Committee on Oversight and Government Reform: Economic Growth, Energy Policy, and Regulatory Affairs",
-    "House Committee on Oversight and Government Reform: Military and Foreign Affairs",
-    "House Committee on Financial Services: Digital Assets, Financial Technology, and Artificial Intelligence",
-    "House Committee on Financial Services: Financial Institutions"
-   ],
-   "leadership_roles": []
   }
  },
  "trades": [
+  {
+   "id": "5407633e1dbbc419",
+   "chamber": "House",
+   "member": "Suzan K. DelBene",
+   "owner": "Joint",
+   "ticker": null,
+   "asset": "TX Trans Commn TPK 5% Tran Due 08/15/42",
+   "asset_type": "Government security",
+   "transaction": "buy",
+   "transaction_date": "2026-09-24",
+   "notification_date": "2026-09-24",
+   "amount_text": "$15,001 - $50,000",
+   "amount_min": 15001,
+   "amount_max": 50000,
+   "description": null,
+   "filed_date": "2026-10-14",
+   "disclosure_lag_days": 20,
+   "filing_id": "20035627",
+   "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035627.pdf",
+   "first_seen": "2026-10-16"
+  },
+  {
+   "id": "59d84e825124fe8a",
+   "chamber": "House",
+   "member": "Rick W. Allen",
+   "owner": "Spouse",
+   "ticker": "AZO",
+   "asset": "AutoZone, Inc. Common Stock",
+   "asset_type": "Stock",
+   "transaction": "sell",
+   "transaction_date": "2026-09-22",
+   "notification_date": "2026-10-14",
+   "amount_text": "$15,001 - $50,000",
+   "amount_min": 15001,
+   "amount_max": 50000,
+   "description": null,
+   "filed_date": "2026-10-14",
+   "disclosure_lag_days": 22,
+   "filing_id": "20035648",
+   "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035648.pdf",
+   "first_seen": "2026-10-16"
+  },
+  {
+   "id": "9285e6081c0f4eb1",
+   "chamber": "House",
+   "member": "Rick W. Allen",
+   "owner": "Spouse",
+   "ticker": "COST",
+   "asset": "Costco Wholesale Corporation - Common Stock",
+   "asset_type": "Stock",
+   "transaction": "sell",
+   "transaction_date": "2026-09-18",
+   "notification_date": "2026-10-14",
+   "amount_text": "$1,001 - $15,000",
+   "amount_min": 1001,
+   "amount_max": 15000,
+   "description": null,
+   "filed_date": "2026-10-14",
+   "disclosure_lag_days": 26,
+   "filing_id": "20035648",
+   "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035648.pdf",
+   "first_seen": "2026-10-16"
+  },
+  {
+   "id": "8d4eecd2d403f5e2",
+   "chamber": "House",
+   "member": "Suzan K. DelBene",
+   "owner": "Joint",
+   "ticker": null,
+   "asset": "Black Belt Energy Gas Dist Ala Gas 05.00% 10/01/2032 Proj Rev BDS Ser. 2026 M-1",
+   "asset_type": "Government security",
+   "transaction": "buy",
+   "transaction_date": "2026-09-18",
+   "notification_date": "2026-09-18",
+   "amount_text": "$250,001 - $500,000",
+   "amount_min": 250001,
+   "amount_max": 500000,
+   "description": null,
+   "filed_date": "2026-10-14",
+   "disclosure_lag_days": 26,
+   "filing_id": "20035627",
+   "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035627.pdf",
+   "first_seen": "2026-10-16"
+  },
+  {
+   "id": "68c32d89e04a0427",
+   "chamber": "House",
+   "member": "Suzan K. DelBene",
+   "owner": "Joint",
+   "ticker": null,
+   "asset": "Triborough Bridge & 4% SPL Tax Due 11/15/31",
+   "asset_type": "Government security",
+   "transaction": "sell",
+   "transaction_date": "2026-09-18",
+   "notification_date": "2026-09-18",
+   "amount_text": "$250,001 - $500,000",
+   "amount_min": 250001,
+   "amount_max": 500000,
+   "description": null,
+   "filed_date": "2026-10-14",
+   "disclosure_lag_days": 26,
+   "filing_id": "20035627",
+   "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035627.pdf",
+   "first_seen": "2026-10-16"
+  },
+  {
+   "id": "914b66dba6d1d3eb",
+   "chamber": "House",
+   "member": "Suzan K. DelBene",
+   "owner": "Joint",
+   "ticker": null,
+   "asset": "Washington ST 5% Go Utx Due 08/01/30",
+   "asset_type": "Government security",
+   "transaction": "sell_partial",
+   "transaction_date": "2026-09-18",
+   "notification_date": "2026-09-18",
+   "amount_text": "$15,001 - $50,000",
+   "amount_min": 15001,
+   "amount_max": 50000,
+   "description": null,
+   "filed_date": "2026-10-14",
+   "disclosure_lag_days": 26,
+   "filing_id": "20035627",
+   "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035627.pdf",
+   "first_seen": "2026-10-16"
+  },
+  {
+   "id": "4e8e593037b3b071",
+   "chamber": "House",
+   "member": "Mike Kelly",
+   "owner": "Spouse",
+   "ticker": null,
+   "asset": "Black Belt Energy Gas Dist AL 1 Rev Call 5% due 10/1/32",
+   "asset_type": "Government security",
+   "transaction": "buy",
+   "transaction_date": "2026-09-18",
+   "notification_date": "2026-10-14",
+   "amount_text": "$15,001 - $50,000",
+   "amount_min": 15001,
+   "amount_max": 50000,
+   "description": null,
+   "filed_date": "2026-10-14",
+   "disclosure_lag_days": 26,
+   "filing_id": "20035652",
+   "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035652.pdf",
+   "first_seen": "2026-10-16"
+  },
+  {
+   "id": "1eb802d27c96164a",
+   "chamber": "House",
+   "member": "Richard McCormick",
+   "owner": "Self",
+   "ticker": "BRK.B",
+   "asset": "Berkshire Hathaway Inc. New Common Stock",
+   "asset_type": "Stock",
+   "transaction": "buy",
+   "transaction_date": "2026-09-18",
+   "notification_date": "2026-10-14",
+   "amount_text": "$1,001 - $15,000",
+   "amount_min": 1001,
+   "amount_max": 15000,
+   "description": null,
+   "filed_date": "2026-10-14",
+   "disclosure_lag_days": 26,
+   "filing_id": "20035651",
+   "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035651.pdf",
+   "first_seen": "2026-10-16"
+  },
+  {
+   "id": "926165ca2b62001c",
+   "chamber": "House",
+   "member": "Mike Kelly",
+   "owner": "Spouse",
+   "ticker": null,
+   "asset": "California Cmnty Choice Fing A Sustainabl 5% due 9/1/36",
+   "asset_type": "Government security",
+   "transaction": "buy",
+   "transaction_date": "2026-09-16",
+   "notification_date": "2026-10-14",
+   "amount_text": "$50,001 - $100,000",
+   "amount_min": 50001,
+   "amount_max": 100000,
+   "description": null,
+   "filed_date": "2026-10-14",
+   "disclosure_lag_days": 28,
+   "filing_id": "20035652",
+   "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035652.pdf",
+   "first_seen": "2026-10-16"
+  },
   {
    "id": "139dec2dcfe249f0",
    "chamber": "House",
@@ -8006,132 +8217,6 @@
    "disclosure_lag_days": 44,
    "filing_id": "b999bc0e-3eb0-4ca9-ab07-8e8f2e04b41f",
    "filing_url": "https://efdsearch.senate.gov/search/view/ptr/b999bc0e-3eb0-4ca9-ab07-8e8f2e04b41f/",
-   "first_seen": "2026-10-07"
-  },
-  {
-   "id": "fb669a80765f7683",
-   "chamber": "House",
-   "member": "Byron Donalds",
-   "owner": "Spouse",
-   "ticker": "NFLX",
-   "asset": "Netflix, Inc. - Common Stock",
-   "asset_type": "Stock",
-   "transaction": "buy",
-   "transaction_date": "2026-08-12",
-   "notification_date": "2026-09-01",
-   "amount_text": "$1,001 - $15,000",
-   "amount_min": 1001,
-   "amount_max": 15000,
-   "description": null,
-   "filed_date": "2026-09-15",
-   "disclosure_lag_days": 34,
-   "filing_id": "20035420",
-   "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035420.pdf",
-   "first_seen": "2026-10-07"
-  },
-  {
-   "id": "98cd6274fb7dcb87",
-   "chamber": "House",
-   "member": "Byron Donalds",
-   "owner": "Self",
-   "ticker": "NFLX",
-   "asset": "Netflix, Inc. - Common Stock",
-   "asset_type": "Stock",
-   "transaction": "buy",
-   "transaction_date": "2026-08-12",
-   "notification_date": "2026-09-01",
-   "amount_text": "$1,001 - $15,000",
-   "amount_min": 1001,
-   "amount_max": 15000,
-   "description": null,
-   "filed_date": "2026-09-15",
-   "disclosure_lag_days": 34,
-   "filing_id": "20035420",
-   "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035420.pdf",
-   "first_seen": "2026-10-07"
-  },
-  {
-   "id": "a7315121a93cf0af",
-   "chamber": "House",
-   "member": "Byron Donalds",
-   "owner": "Self",
-   "ticker": "HWM",
-   "asset": "Howmet Aerospace Inc. Common Stock",
-   "asset_type": "Stock",
-   "transaction": "sell_partial",
-   "transaction_date": "2026-08-11",
-   "notification_date": "2026-09-01",
-   "amount_text": "$1,001 - $15,000",
-   "amount_min": 1001,
-   "amount_max": 15000,
-   "description": null,
-   "filed_date": "2026-09-15",
-   "disclosure_lag_days": 35,
-   "filing_id": "20035420",
-   "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035420.pdf",
-   "first_seen": "2026-10-07"
-  },
-  {
-   "id": "566a5a293583c320",
-   "chamber": "House",
-   "member": "Byron Donalds",
-   "owner": "Spouse",
-   "ticker": "HWM",
-   "asset": "Howmet Aerospace Inc. Common Stock",
-   "asset_type": "Stock",
-   "transaction": "sell_partial",
-   "transaction_date": "2026-08-11",
-   "notification_date": "2026-09-01",
-   "amount_text": "$1,001 - $15,000",
-   "amount_min": 1001,
-   "amount_max": 15000,
-   "description": null,
-   "filed_date": "2026-09-15",
-   "disclosure_lag_days": 35,
-   "filing_id": "20035420",
-   "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035420.pdf",
-   "first_seen": "2026-10-07"
-  },
-  {
-   "id": "06b74f7064c0ea0e",
-   "chamber": "House",
-   "member": "Byron Donalds",
-   "owner": "Self",
-   "ticker": "PH",
-   "asset": "Parker-Hannifin Corporation Common Stock",
-   "asset_type": "Stock",
-   "transaction": "sell_partial",
-   "transaction_date": "2026-08-11",
-   "notification_date": "2026-09-01",
-   "amount_text": "$1,001 - $15,000",
-   "amount_min": 1001,
-   "amount_max": 15000,
-   "description": null,
-   "filed_date": "2026-09-15",
-   "disclosure_lag_days": 35,
-   "filing_id": "20035420",
-   "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035420.pdf",
-   "first_seen": "2026-10-07"
-  },
-  {
-   "id": "8b29bb174a6e2b3f",
-   "chamber": "House",
-   "member": "Byron Donalds",
-   "owner": "Spouse",
-   "ticker": "PH",
-   "asset": "Parker-Hannifin Corporation Common Stock",
-   "asset_type": "Stock",
-   "transaction": "sell_partial",
-   "transaction_date": "2026-08-11",
-   "notification_date": "2026-09-01",
-   "amount_text": "$1,001 - $15,000",
-   "amount_min": 1001,
-   "amount_max": 15000,
-   "description": null,
-   "filed_date": "2026-09-15",
-   "disclosure_lag_days": 35,
-   "filing_id": "20035420",
-   "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035420.pdf",
    "first_seen": "2026-10-07"
   }
  ],
