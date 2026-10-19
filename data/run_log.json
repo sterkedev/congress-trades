@@ -1,6 +1,6 @@
 {
  "last_run": {
-  "run_at": "2026-10-18T11:14:13+00:00",
+  "run_at": "2026-10-19T13:26:07+00:00",
   "errors": [],
   "house": {
    "filings": 0,
@@ -17,6 +17,13 @@
   "status": "ok"
  },
  "history": [
+  {
+   "run_at": "2026-10-19T13:26:07+00:00",
+   "status": "ok",
+   "house_trades": 0,
+   "senate_trades": 0,
+   "errors": 0
+  },
   {
    "run_at": "2026-10-18T11:14:13+00:00",
    "status": "ok",
