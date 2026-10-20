@@ -1,10 +1,10 @@
 {
  "last_run": {
-  "run_at": "2026-10-19T13:26:07+00:00",
+  "run_at": "2026-10-20T11:44:51+00:00",
   "errors": [],
   "house": {
-   "filings": 0,
-   "trades": 0,
+   "filings": 1,
+   "trades": 2,
    "download_failures": 0,
    "backlog": 0
   },
@@ -17,6 +17,13 @@
   "status": "ok"
  },
  "history": [
+  {
+   "run_at": "2026-10-20T11:44:51+00:00",
+   "status": "ok",
+   "house_trades": 2,
+   "senate_trades": 0,
+   "errors": 0
+  },
   {
    "run_at": "2026-10-19T13:26:07+00:00",
    "status": "ok",

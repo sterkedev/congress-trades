@@ -1,5 +1,91 @@
 [
  {
+  "id": "f0f5e2d4fb4939de",
+  "chamber": "House",
+  "member": "Laurel M. Lee",
+  "bioguide_id": "L000597",
+  "in_office": true,
+  "party": "R",
+  "state": "FL",
+  "district": 15,
+  "committees": [
+   "House Committee on the Judiciary",
+   "House Committee on Energy and Commerce",
+   "House Committee on House Administration"
+  ],
+  "subcommittees": [
+   "House Committee on the Judiciary: Crime and Federal Government Surveillance",
+   "House Committee on Energy and Commerce: Energy",
+   "House Committee on Energy and Commerce: Environment",
+   "House Committee on House Administration: Elections",
+   "House Committee on the Judiciary: Courts, Intellectual Property, Artificial Intelligence, and the Internet",
+   "House Committee on Energy and Commerce: Commerce, Manufacturing, and Trade"
+  ],
+  "leadership_roles": [
+   "Vice Chair, House Committee on House Administration",
+   "Chair, House Committee on House Administration: Elections"
+  ],
+  "owner": "Spouse",
+  "ticker": "NOKBF",
+  "asset": "NOKIA A SHS",
+  "asset_type": "Stock",
+  "transaction": "buy",
+  "transaction_date": "2026-09-18",
+  "notification_date": "2026-09-21",
+  "amount_text": "$15,001 - $50,000",
+  "amount_min": 15001,
+  "amount_max": 50000,
+  "description": null,
+  "filed_date": "2026-10-16",
+  "disclosure_lag_days": 28,
+  "filing_id": "20035490",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035490.pdf",
+  "first_seen": "2026-10-20"
+ },
+ {
+  "id": "371aa99a7a2f2bae",
+  "chamber": "House",
+  "member": "Laurel M. Lee",
+  "bioguide_id": "L000597",
+  "in_office": true,
+  "party": "R",
+  "state": "FL",
+  "district": 15,
+  "committees": [
+   "House Committee on the Judiciary",
+   "House Committee on Energy and Commerce",
+   "House Committee on House Administration"
+  ],
+  "subcommittees": [
+   "House Committee on the Judiciary: Crime and Federal Government Surveillance",
+   "House Committee on Energy and Commerce: Energy",
+   "House Committee on Energy and Commerce: Environment",
+   "House Committee on House Administration: Elections",
+   "House Committee on the Judiciary: Courts, Intellectual Property, Artificial Intelligence, and the Internet",
+   "House Committee on Energy and Commerce: Commerce, Manufacturing, and Trade"
+  ],
+  "leadership_roles": [
+   "Vice Chair, House Committee on House Administration",
+   "Chair, House Committee on House Administration: Elections"
+  ],
+  "owner": "Spouse",
+  "ticker": "BAC",
+  "asset": "Bank of America Corporation Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell",
+  "transaction_date": "2026-08-24",
+  "notification_date": "2026-09-21",
+  "amount_text": "$50,001 - $100,000",
+  "amount_min": 50001,
+  "amount_max": 100000,
+  "description": null,
+  "filed_date": "2026-10-16",
+  "disclosure_lag_days": 53,
+  "filing_id": "20035490",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035490.pdf",
+  "first_seen": "2026-10-20"
+ },
+ {
   "id": "035d30c4ebe310f3",
   "chamber": "House",
   "member": "David J. Taylor",
