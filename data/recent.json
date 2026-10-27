@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T13:11:17+00:00",
+ "generated_at": "2026-10-27T12:19:32+00:00",
  "window_days": 30,
  "note": "Trades whose filing became public in the window (filed_date). Member party, state and committee seats are in 'members', keyed by trade.member.",
  "members": {
