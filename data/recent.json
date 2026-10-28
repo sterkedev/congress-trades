@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T12:19:32+00:00",
+ "generated_at": "2026-10-28T13:02:00+00:00",
  "window_days": 30,
  "note": "Trades whose filing became public in the window (filed_date). Member party, state and committee seats are in 'members', keyed by trade.member.",
  "members": {
@@ -620,25 +620,6 @@
     "Senate Committee on Energy and Natural Resources: Energy",
     "Senate Committee on Energy and Natural Resources: Public Lands, Forests, and Mining",
     "Senate Committee on Energy and Natural Resources: Water and Power"
-   ],
-   "leadership_roles": []
-  },
-  "Max L. Miller": {
-   "bioguide_id": "M001222",
-   "chamber": "House",
-   "in_office": true,
-   "party": "R",
-   "state": "OH",
-   "district": 7,
-   "committees": [
-    "House Committee on Ways and Means",
-    "House Committee on Foreign Affairs"
-   ],
-   "subcommittees": [
-    "House Committee on Ways and Means: Oversight",
-    "House Committee on Foreign Affairs: Africa",
-    "House Committee on Ways and Means: Work and Welfare",
-    "House Committee on Foreign Affairs: Oversight and Intelligence"
    ],
    "leadership_roles": []
   }
@@ -6081,27 +6062,6 @@
    "disclosure_lag_days": 45,
    "filing_id": "0a93a20c-2a0f-4979-80ca-cc2f61297527",
    "filing_url": "https://efdsearch.senate.gov/search/view/ptr/0a93a20c-2a0f-4979-80ca-cc2f61297527/",
-   "first_seen": "2026-10-07"
-  },
-  {
-   "id": "4e7326b644137f7e",
-   "chamber": "House",
-   "member": "Max L. Miller",
-   "owner": "Self",
-   "ticker": null,
-   "asset": "Mercato Partners Traverse IV QP, LP (GLAS Funds, LP)",
-   "asset_type": "Hedge fund",
-   "transaction": "buy",
-   "transaction_date": "2026-09-04",
-   "notification_date": "2026-09-27",
-   "amount_text": "$1,001 - $15,000",
-   "amount_min": 1001,
-   "amount_max": 15000,
-   "description": "Capital call of $3,014.00 I V D 2012 Trust",
-   "filed_date": "2026-09-27",
-   "disclosure_lag_days": 23,
-   "filing_id": "20035528",
-   "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035528.pdf",
    "first_seen": "2026-10-07"
   }
  ],
