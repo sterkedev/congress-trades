@@ -1,5 +1,1475 @@
 [
  {
+  "id": "b51f150395939ead",
+  "chamber": "House",
+  "member": "Suzan K. DelBene",
+  "bioguide_id": "D000617",
+  "in_office": true,
+  "party": "D",
+  "state": "WA",
+  "district": 1,
+  "committees": [
+   "House Committee on Ways and Means"
+  ],
+  "subcommittees": [
+   "House Committee on Ways and Means: Trade",
+   "House Committee on Ways and Means: Oversight",
+   "House Committee on Ways and Means: Tax"
+  ],
+  "leadership_roles": [],
+  "owner": "Joint",
+  "ticker": null,
+  "asset": "Black Belt Energy Gas Dist Ala Gas 05.00% 12/01/2035 Proj Rev BDS Ser. 2025 F",
+  "asset_type": "Government security",
+  "transaction": "buy",
+  "transaction_date": "2026-10-14",
+  "notification_date": "2026-10-14",
+  "amount_text": "$250,001 - $500,000",
+  "amount_min": 250001,
+  "amount_max": 500000,
+  "description": null,
+  "filed_date": "2026-10-28",
+  "disclosure_lag_days": 14,
+  "filing_id": "20035689",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035689.pdf",
+  "first_seen": "2026-10-29"
+ },
+ {
+  "id": "8dbe9dc67ccce32d",
+  "chamber": "House",
+  "member": "Suzan K. DelBene",
+  "bioguide_id": "D000617",
+  "in_office": true,
+  "party": "D",
+  "state": "WA",
+  "district": 1,
+  "committees": [
+   "House Committee on Ways and Means"
+  ],
+  "subcommittees": [
+   "House Committee on Ways and Means: Trade",
+   "House Committee on Ways and Means: Oversight",
+   "House Committee on Ways and Means: Tax"
+  ],
+  "leadership_roles": [],
+  "owner": "Joint",
+  "ticker": null,
+  "asset": "Tennessee Energy Ac 5% Edr Idr Due 12/01/35",
+  "asset_type": "Government security",
+  "transaction": "sell",
+  "transaction_date": "2026-10-14",
+  "notification_date": "2026-10-14",
+  "amount_text": "$250,001 - $500,000",
+  "amount_min": 250001,
+  "amount_max": 500000,
+  "description": null,
+  "filed_date": "2026-10-28",
+  "disclosure_lag_days": 14,
+  "filing_id": "20035689",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035689.pdf",
+  "first_seen": "2026-10-29"
+ },
+ {
+  "id": "941589b83a2d9667",
+  "chamber": "House",
+  "member": "Pete Sessions",
+  "bioguide_id": "S000250",
+  "in_office": true,
+  "party": "R",
+  "state": "TX",
+  "district": 17,
+  "committees": [
+   "House Committee on Oversight and Government Reform",
+   "House Committee on Financial Services"
+  ],
+  "subcommittees": [
+   "House Committee on Oversight and Government Reform: Government Operations",
+   "House Committee on Oversight and Government Reform: Health Care and Financial Services",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets"
+  ],
+  "leadership_roles": [
+   "Chairman, House Committee on Oversight and Government Reform: Government Operations"
+  ],
+  "owner": "Self",
+  "ticker": "DIS",
+  "asset": "Walt Disney Company",
+  "asset_type": "Stock",
+  "transaction": "sell",
+  "transaction_date": "2026-10-28",
+  "notification_date": "2026-10-28",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-10-27",
+  "disclosure_lag_days": -1,
+  "filing_id": "20035563",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf",
+  "first_seen": "2026-10-29"
+ },
+ {
+  "id": "b2247856894ac287",
+  "chamber": "House",
+  "member": "Pete Sessions",
+  "bioguide_id": "S000250",
+  "in_office": true,
+  "party": "R",
+  "state": "TX",
+  "district": 17,
+  "committees": [
+   "House Committee on Oversight and Government Reform",
+   "House Committee on Financial Services"
+  ],
+  "subcommittees": [
+   "House Committee on Oversight and Government Reform: Government Operations",
+   "House Committee on Oversight and Government Reform: Health Care and Financial Services",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets"
+  ],
+  "leadership_roles": [
+   "Chairman, House Committee on Oversight and Government Reform: Government Operations"
+  ],
+  "owner": "Self",
+  "ticker": "AMZN",
+  "asset": "Amazon.com, Inc. - Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell",
+  "transaction_date": "2026-10-27",
+  "notification_date": "2026-10-27",
+  "amount_text": "$15,001 - $50,000",
+  "amount_min": 15001,
+  "amount_max": 50000,
+  "description": null,
+  "filed_date": "2026-10-27",
+  "disclosure_lag_days": 0,
+  "filing_id": "20035563",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf",
+  "first_seen": "2026-10-29"
+ },
+ {
+  "id": "d06bd56d43e5f505",
+  "chamber": "House",
+  "member": "Pete Sessions",
+  "bioguide_id": "S000250",
+  "in_office": true,
+  "party": "R",
+  "state": "TX",
+  "district": 17,
+  "committees": [
+   "House Committee on Oversight and Government Reform",
+   "House Committee on Financial Services"
+  ],
+  "subcommittees": [
+   "House Committee on Oversight and Government Reform: Government Operations",
+   "House Committee on Oversight and Government Reform: Health Care and Financial Services",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets"
+  ],
+  "leadership_roles": [
+   "Chairman, House Committee on Oversight and Government Reform: Government Operations"
+  ],
+  "owner": "Spouse",
+  "ticker": "MCD",
+  "asset": "McDonald's Corporation Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell",
+  "transaction_date": "2026-10-27",
+  "notification_date": "2026-10-27",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-10-27",
+  "disclosure_lag_days": 0,
+  "filing_id": "20035563",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf",
+  "first_seen": "2026-10-29"
+ },
+ {
+  "id": "9fb30d9a14e73fbe",
+  "chamber": "House",
+  "member": "Pete Sessions",
+  "bioguide_id": "S000250",
+  "in_office": true,
+  "party": "R",
+  "state": "TX",
+  "district": 17,
+  "committees": [
+   "House Committee on Oversight and Government Reform",
+   "House Committee on Financial Services"
+  ],
+  "subcommittees": [
+   "House Committee on Oversight and Government Reform: Government Operations",
+   "House Committee on Oversight and Government Reform: Health Care and Financial Services",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets"
+  ],
+  "leadership_roles": [
+   "Chairman, House Committee on Oversight and Government Reform: Government Operations"
+  ],
+  "owner": "Self",
+  "ticker": "HD",
+  "asset": "Home Depot, Inc.",
+  "asset_type": "Stock",
+  "transaction": "sell",
+  "transaction_date": "2026-10-22",
+  "notification_date": "2026-10-22",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-10-27",
+  "disclosure_lag_days": 5,
+  "filing_id": "20035563",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf",
+  "first_seen": "2026-10-29"
+ },
+ {
+  "id": "a22ee9b0f1bb457e",
+  "chamber": "House",
+  "member": "Pete Sessions",
+  "bioguide_id": "S000250",
+  "in_office": true,
+  "party": "R",
+  "state": "TX",
+  "district": 17,
+  "committees": [
+   "House Committee on Oversight and Government Reform",
+   "House Committee on Financial Services"
+  ],
+  "subcommittees": [
+   "House Committee on Oversight and Government Reform: Government Operations",
+   "House Committee on Oversight and Government Reform: Health Care and Financial Services",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets"
+  ],
+  "leadership_roles": [
+   "Chairman, House Committee on Oversight and Government Reform: Government Operations"
+  ],
+  "owner": "Self",
+  "ticker": "LOW",
+  "asset": "Lowe's Companies, Inc. Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell",
+  "transaction_date": "2026-10-22",
+  "notification_date": "2026-10-22",
+  "amount_text": "$15,001 - $50,000",
+  "amount_min": 15001,
+  "amount_max": 50000,
+  "description": null,
+  "filed_date": "2026-10-27",
+  "disclosure_lag_days": 5,
+  "filing_id": "20035563",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf",
+  "first_seen": "2026-10-29"
+ },
+ {
+  "id": "d83edaf603b6cf7a",
+  "chamber": "House",
+  "member": "Pete Sessions",
+  "bioguide_id": "S000250",
+  "in_office": true,
+  "party": "R",
+  "state": "TX",
+  "district": 17,
+  "committees": [
+   "House Committee on Oversight and Government Reform",
+   "House Committee on Financial Services"
+  ],
+  "subcommittees": [
+   "House Committee on Oversight and Government Reform: Government Operations",
+   "House Committee on Oversight and Government Reform: Health Care and Financial Services",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets"
+  ],
+  "leadership_roles": [
+   "Chairman, House Committee on Oversight and Government Reform: Government Operations"
+  ],
+  "owner": "Self",
+  "ticker": "PEP",
+  "asset": "Pepsico, Inc.",
+  "asset_type": "Stock",
+  "transaction": "sell",
+  "transaction_date": "2026-10-21",
+  "notification_date": "2026-10-21",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-10-27",
+  "disclosure_lag_days": 6,
+  "filing_id": "20035563",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf",
+  "first_seen": "2026-10-29"
+ },
+ {
+  "id": "dad07e2ea0a01f20",
+  "chamber": "House",
+  "member": "Pete Sessions",
+  "bioguide_id": "S000250",
+  "in_office": true,
+  "party": "R",
+  "state": "TX",
+  "district": 17,
+  "committees": [
+   "House Committee on Oversight and Government Reform",
+   "House Committee on Financial Services"
+  ],
+  "subcommittees": [
+   "House Committee on Oversight and Government Reform: Government Operations",
+   "House Committee on Oversight and Government Reform: Health Care and Financial Services",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets"
+  ],
+  "leadership_roles": [
+   "Chairman, House Committee on Oversight and Government Reform: Government Operations"
+  ],
+  "owner": "Self",
+  "ticker": "REZI",
+  "asset": "Resideo Technologies, Inc. Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell",
+  "transaction_date": "2026-10-21",
+  "notification_date": "2026-10-21",
+  "amount_text": "$344",
+  "amount_min": 344,
+  "amount_max": null,
+  "description": null,
+  "filed_date": "2026-10-27",
+  "disclosure_lag_days": 6,
+  "filing_id": "20035563",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf",
+  "first_seen": "2026-10-29"
+ },
+ {
+  "id": "601a914ec3eac13a",
+  "chamber": "House",
+  "member": "Pete Sessions",
+  "bioguide_id": "S000250",
+  "in_office": true,
+  "party": "R",
+  "state": "TX",
+  "district": 17,
+  "committees": [
+   "House Committee on Oversight and Government Reform",
+   "House Committee on Financial Services"
+  ],
+  "subcommittees": [
+   "House Committee on Oversight and Government Reform: Government Operations",
+   "House Committee on Oversight and Government Reform: Health Care and Financial Services",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets"
+  ],
+  "leadership_roles": [
+   "Chairman, House Committee on Oversight and Government Reform: Government Operations"
+  ],
+  "owner": "Self",
+  "ticker": "SOLS",
+  "asset": "Solstice Advanced Materials Inc. - Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell",
+  "transaction_date": "2026-10-21",
+  "notification_date": "2026-10-21",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-10-27",
+  "disclosure_lag_days": 6,
+  "filing_id": "20035563",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf",
+  "first_seen": "2026-10-29"
+ },
+ {
+  "id": "7099f46f0e4b9a46",
+  "chamber": "House",
+  "member": "Pete Sessions",
+  "bioguide_id": "S000250",
+  "in_office": true,
+  "party": "R",
+  "state": "TX",
+  "district": 17,
+  "committees": [
+   "House Committee on Oversight and Government Reform",
+   "House Committee on Financial Services"
+  ],
+  "subcommittees": [
+   "House Committee on Oversight and Government Reform: Government Operations",
+   "House Committee on Oversight and Government Reform: Health Care and Financial Services",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets"
+  ],
+  "leadership_roles": [
+   "Chairman, House Committee on Oversight and Government Reform: Government Operations"
+  ],
+  "owner": "Self",
+  "ticker": "IBM",
+  "asset": "International Business Machines Corporation Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell",
+  "transaction_date": "2026-10-20",
+  "notification_date": "2026-10-21",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-10-27",
+  "disclosure_lag_days": 7,
+  "filing_id": "20035563",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf",
+  "first_seen": "2026-10-29"
+ },
+ {
+  "id": "c95bd306b6093f04",
+  "chamber": "House",
+  "member": "Pete Sessions",
+  "bioguide_id": "S000250",
+  "in_office": true,
+  "party": "R",
+  "state": "TX",
+  "district": 17,
+  "committees": [
+   "House Committee on Oversight and Government Reform",
+   "House Committee on Financial Services"
+  ],
+  "subcommittees": [
+   "House Committee on Oversight and Government Reform: Government Operations",
+   "House Committee on Oversight and Government Reform: Health Care and Financial Services",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets"
+  ],
+  "leadership_roles": [
+   "Chairman, House Committee on Oversight and Government Reform: Government Operations"
+  ],
+  "owner": "Self",
+  "ticker": "BRK.B",
+  "asset": "Berkshire Hathaway Inc. New Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell",
+  "transaction_date": "2026-10-15",
+  "notification_date": "2026-10-15",
+  "amount_text": "$15,001 - $50,000",
+  "amount_min": 15001,
+  "amount_max": 50000,
+  "description": null,
+  "filed_date": "2026-10-27",
+  "disclosure_lag_days": 12,
+  "filing_id": "20035563",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf",
+  "first_seen": "2026-10-29"
+ },
+ {
+  "id": "0e5243febc1c2b0a",
+  "chamber": "House",
+  "member": "Pete Sessions",
+  "bioguide_id": "S000250",
+  "in_office": true,
+  "party": "R",
+  "state": "TX",
+  "district": 17,
+  "committees": [
+   "House Committee on Oversight and Government Reform",
+   "House Committee on Financial Services"
+  ],
+  "subcommittees": [
+   "House Committee on Oversight and Government Reform: Government Operations",
+   "House Committee on Oversight and Government Reform: Health Care and Financial Services",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets"
+  ],
+  "leadership_roles": [
+   "Chairman, House Committee on Oversight and Government Reform: Government Operations"
+  ],
+  "owner": "Self",
+  "ticker": "CVX",
+  "asset": "Chevron Corporation Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell",
+  "transaction_date": "2026-10-14",
+  "notification_date": "2026-10-14",
+  "amount_text": "$15,001 - $50,000",
+  "amount_min": 15001,
+  "amount_max": 50000,
+  "description": null,
+  "filed_date": "2026-10-27",
+  "disclosure_lag_days": 13,
+  "filing_id": "20035563",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf",
+  "first_seen": "2026-10-29"
+ },
+ {
+  "id": "2c1f3d28bb90e602",
+  "chamber": "House",
+  "member": "Pete Sessions",
+  "bioguide_id": "S000250",
+  "in_office": true,
+  "party": "R",
+  "state": "TX",
+  "district": 17,
+  "committees": [
+   "House Committee on Oversight and Government Reform",
+   "House Committee on Financial Services"
+  ],
+  "subcommittees": [
+   "House Committee on Oversight and Government Reform: Government Operations",
+   "House Committee on Oversight and Government Reform: Health Care and Financial Services",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets"
+  ],
+  "leadership_roles": [
+   "Chairman, House Committee on Oversight and Government Reform: Government Operations"
+  ],
+  "owner": "Self",
+  "ticker": "XOM",
+  "asset": "ExxonMobil Holdings Corporation Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell",
+  "transaction_date": "2026-10-14",
+  "notification_date": "2026-10-14",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-10-27",
+  "disclosure_lag_days": 13,
+  "filing_id": "20035563",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf",
+  "first_seen": "2026-10-29"
+ },
+ {
+  "id": "9283b9ced443b4bb",
+  "chamber": "House",
+  "member": "Pete Sessions",
+  "bioguide_id": "S000250",
+  "in_office": true,
+  "party": "R",
+  "state": "TX",
+  "district": 17,
+  "committees": [
+   "House Committee on Oversight and Government Reform",
+   "House Committee on Financial Services"
+  ],
+  "subcommittees": [
+   "House Committee on Oversight and Government Reform: Government Operations",
+   "House Committee on Oversight and Government Reform: Health Care and Financial Services",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets"
+  ],
+  "leadership_roles": [
+   "Chairman, House Committee on Oversight and Government Reform: Government Operations"
+  ],
+  "owner": "Self",
+  "ticker": "COST",
+  "asset": "Costco Wholesale Corporation - Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell",
+  "transaction_date": "2026-10-13",
+  "notification_date": "2026-10-13",
+  "amount_text": "$100,001 - $250,000",
+  "amount_min": 100001,
+  "amount_max": 250000,
+  "description": null,
+  "filed_date": "2026-10-27",
+  "disclosure_lag_days": 14,
+  "filing_id": "20035563",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf",
+  "first_seen": "2026-10-29"
+ },
+ {
+  "id": "beb772eace7d04bf",
+  "chamber": "House",
+  "member": "Pete Sessions",
+  "bioguide_id": "S000250",
+  "in_office": true,
+  "party": "R",
+  "state": "TX",
+  "district": 17,
+  "committees": [
+   "House Committee on Oversight and Government Reform",
+   "House Committee on Financial Services"
+  ],
+  "subcommittees": [
+   "House Committee on Oversight and Government Reform: Government Operations",
+   "House Committee on Oversight and Government Reform: Health Care and Financial Services",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets"
+  ],
+  "leadership_roles": [
+   "Chairman, House Committee on Oversight and Government Reform: Government Operations"
+  ],
+  "owner": "Self",
+  "ticker": "PG",
+  "asset": "Procter & Gamble Company",
+  "asset_type": "Stock",
+  "transaction": "sell",
+  "transaction_date": "2026-10-08",
+  "notification_date": "2026-10-13",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-10-27",
+  "disclosure_lag_days": 19,
+  "filing_id": "20035563",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf",
+  "first_seen": "2026-10-29"
+ },
+ {
+  "id": "27a38584de781b5a",
+  "chamber": "House",
+  "member": "Pete Sessions",
+  "bioguide_id": "S000250",
+  "in_office": true,
+  "party": "R",
+  "state": "TX",
+  "district": 17,
+  "committees": [
+   "House Committee on Oversight and Government Reform",
+   "House Committee on Financial Services"
+  ],
+  "subcommittees": [
+   "House Committee on Oversight and Government Reform: Government Operations",
+   "House Committee on Oversight and Government Reform: Health Care and Financial Services",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets"
+  ],
+  "leadership_roles": [
+   "Chairman, House Committee on Oversight and Government Reform: Government Operations"
+  ],
+  "owner": "Spouse",
+  "ticker": "ABT",
+  "asset": "Abbott Laboratories Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell",
+  "transaction_date": "2026-10-02",
+  "notification_date": "2026-10-05",
+  "amount_text": "$50,001 - $100,000",
+  "amount_min": 50001,
+  "amount_max": 100000,
+  "description": null,
+  "filed_date": "2026-10-27",
+  "disclosure_lag_days": 25,
+  "filing_id": "20035563",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf",
+  "first_seen": "2026-10-29"
+ },
+ {
+  "id": "4db79763005e921a",
+  "chamber": "House",
+  "member": "Pete Sessions",
+  "bioguide_id": "S000250",
+  "in_office": true,
+  "party": "R",
+  "state": "TX",
+  "district": 17,
+  "committees": [
+   "House Committee on Oversight and Government Reform",
+   "House Committee on Financial Services"
+  ],
+  "subcommittees": [
+   "House Committee on Oversight and Government Reform: Government Operations",
+   "House Committee on Oversight and Government Reform: Health Care and Financial Services",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets"
+  ],
+  "leadership_roles": [
+   "Chairman, House Committee on Oversight and Government Reform: Government Operations"
+  ],
+  "owner": "Spouse",
+  "ticker": "GOOG",
+  "asset": "Alphabet Inc. - Class C Capital Stock",
+  "asset_type": "Stock",
+  "transaction": "sell",
+  "transaction_date": "2026-10-02",
+  "notification_date": "2026-10-05",
+  "amount_text": "$100,001 - $250,000",
+  "amount_min": 100001,
+  "amount_max": 250000,
+  "description": null,
+  "filed_date": "2026-10-27",
+  "disclosure_lag_days": 25,
+  "filing_id": "20035563",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf",
+  "first_seen": "2026-10-29"
+ },
+ {
+  "id": "2bf84dbab1eb445d",
+  "chamber": "House",
+  "member": "Pete Sessions",
+  "bioguide_id": "S000250",
+  "in_office": true,
+  "party": "R",
+  "state": "TX",
+  "district": 17,
+  "committees": [
+   "House Committee on Oversight and Government Reform",
+   "House Committee on Financial Services"
+  ],
+  "subcommittees": [
+   "House Committee on Oversight and Government Reform: Government Operations",
+   "House Committee on Oversight and Government Reform: Health Care and Financial Services",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets"
+  ],
+  "leadership_roles": [
+   "Chairman, House Committee on Oversight and Government Reform: Government Operations"
+  ],
+  "owner": "Spouse",
+  "ticker": "AMZN",
+  "asset": "Amazon.com, Inc. - Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell",
+  "transaction_date": "2026-10-02",
+  "notification_date": "2026-10-05",
+  "amount_text": "$100,001 - $250,000",
+  "amount_min": 100001,
+  "amount_max": 250000,
+  "description": null,
+  "filed_date": "2026-10-27",
+  "disclosure_lag_days": 25,
+  "filing_id": "20035563",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf",
+  "first_seen": "2026-10-29"
+ },
+ {
+  "id": "b15b95da39058d69",
+  "chamber": "House",
+  "member": "Pete Sessions",
+  "bioguide_id": "S000250",
+  "in_office": true,
+  "party": "R",
+  "state": "TX",
+  "district": 17,
+  "committees": [
+   "House Committee on Oversight and Government Reform",
+   "House Committee on Financial Services"
+  ],
+  "subcommittees": [
+   "House Committee on Oversight and Government Reform: Government Operations",
+   "House Committee on Oversight and Government Reform: Health Care and Financial Services",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets"
+  ],
+  "leadership_roles": [
+   "Chairman, House Committee on Oversight and Government Reform: Government Operations"
+  ],
+  "owner": "Spouse",
+  "ticker": "AAPL",
+  "asset": "Apple Inc. - Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell",
+  "transaction_date": "2026-10-02",
+  "notification_date": "2026-10-05",
+  "amount_text": "$250,001 - $500,000",
+  "amount_min": 250001,
+  "amount_max": 500000,
+  "description": null,
+  "filed_date": "2026-10-27",
+  "disclosure_lag_days": 25,
+  "filing_id": "20035563",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf",
+  "first_seen": "2026-10-29"
+ },
+ {
+  "id": "62d848df1102d2ac",
+  "chamber": "House",
+  "member": "Pete Sessions",
+  "bioguide_id": "S000250",
+  "in_office": true,
+  "party": "R",
+  "state": "TX",
+  "district": 17,
+  "committees": [
+   "House Committee on Oversight and Government Reform",
+   "House Committee on Financial Services"
+  ],
+  "subcommittees": [
+   "House Committee on Oversight and Government Reform: Government Operations",
+   "House Committee on Oversight and Government Reform: Health Care and Financial Services",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets"
+  ],
+  "leadership_roles": [
+   "Chairman, House Committee on Oversight and Government Reform: Government Operations"
+  ],
+  "owner": "Spouse",
+  "ticker": "CMG",
+  "asset": "Chipotle Mexican Grill, Inc. Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell",
+  "transaction_date": "2026-10-02",
+  "notification_date": "2026-10-05",
+  "amount_text": "$15,001 - $50,000",
+  "amount_min": 15001,
+  "amount_max": 50000,
+  "description": null,
+  "filed_date": "2026-10-27",
+  "disclosure_lag_days": 25,
+  "filing_id": "20035563",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf",
+  "first_seen": "2026-10-29"
+ },
+ {
+  "id": "a8c105d198a09632",
+  "chamber": "House",
+  "member": "Pete Sessions",
+  "bioguide_id": "S000250",
+  "in_office": true,
+  "party": "R",
+  "state": "TX",
+  "district": 17,
+  "committees": [
+   "House Committee on Oversight and Government Reform",
+   "House Committee on Financial Services"
+  ],
+  "subcommittees": [
+   "House Committee on Oversight and Government Reform: Government Operations",
+   "House Committee on Oversight and Government Reform: Health Care and Financial Services",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets"
+  ],
+  "leadership_roles": [
+   "Chairman, House Committee on Oversight and Government Reform: Government Operations"
+  ],
+  "owner": "Spouse",
+  "ticker": "COST",
+  "asset": "Costco Wholesale Corporation - Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell",
+  "transaction_date": "2026-10-02",
+  "notification_date": "2026-10-05",
+  "amount_text": "$250,001 - $500,000",
+  "amount_min": 250001,
+  "amount_max": 500000,
+  "description": null,
+  "filed_date": "2026-10-27",
+  "disclosure_lag_days": 25,
+  "filing_id": "20035563",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf",
+  "first_seen": "2026-10-29"
+ },
+ {
+  "id": "d40916b25f68e460",
+  "chamber": "House",
+  "member": "Pete Sessions",
+  "bioguide_id": "S000250",
+  "in_office": true,
+  "party": "R",
+  "state": "TX",
+  "district": 17,
+  "committees": [
+   "House Committee on Oversight and Government Reform",
+   "House Committee on Financial Services"
+  ],
+  "subcommittees": [
+   "House Committee on Oversight and Government Reform: Government Operations",
+   "House Committee on Oversight and Government Reform: Health Care and Financial Services",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets"
+  ],
+  "leadership_roles": [
+   "Chairman, House Committee on Oversight and Government Reform: Government Operations"
+  ],
+  "owner": "Spouse",
+  "ticker": "MA",
+  "asset": "Mastercard Incorporated Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell",
+  "transaction_date": "2026-10-02",
+  "notification_date": "2026-10-05",
+  "amount_text": "$15,001 - $50,000",
+  "amount_min": 15001,
+  "amount_max": 50000,
+  "description": null,
+  "filed_date": "2026-10-27",
+  "disclosure_lag_days": 25,
+  "filing_id": "20035563",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf",
+  "first_seen": "2026-10-29"
+ },
+ {
+  "id": "9a051b1c05a94a3d",
+  "chamber": "House",
+  "member": "Pete Sessions",
+  "bioguide_id": "S000250",
+  "in_office": true,
+  "party": "R",
+  "state": "TX",
+  "district": 17,
+  "committees": [
+   "House Committee on Oversight and Government Reform",
+   "House Committee on Financial Services"
+  ],
+  "subcommittees": [
+   "House Committee on Oversight and Government Reform: Government Operations",
+   "House Committee on Oversight and Government Reform: Health Care and Financial Services",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets"
+  ],
+  "leadership_roles": [
+   "Chairman, House Committee on Oversight and Government Reform: Government Operations"
+  ],
+  "owner": "Spouse",
+  "ticker": "MCD",
+  "asset": "McDonald's Corporation Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell",
+  "transaction_date": "2026-10-02",
+  "notification_date": "2026-10-05",
+  "amount_text": "$15,001 - $50,000",
+  "amount_min": 15001,
+  "amount_max": 50000,
+  "description": null,
+  "filed_date": "2026-10-27",
+  "disclosure_lag_days": 25,
+  "filing_id": "20035563",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf",
+  "first_seen": "2026-10-29"
+ },
+ {
+  "id": "78d5a2d262ef93fc",
+  "chamber": "House",
+  "member": "Pete Sessions",
+  "bioguide_id": "S000250",
+  "in_office": true,
+  "party": "R",
+  "state": "TX",
+  "district": 17,
+  "committees": [
+   "House Committee on Oversight and Government Reform",
+   "House Committee on Financial Services"
+  ],
+  "subcommittees": [
+   "House Committee on Oversight and Government Reform: Government Operations",
+   "House Committee on Oversight and Government Reform: Health Care and Financial Services",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets"
+  ],
+  "leadership_roles": [
+   "Chairman, House Committee on Oversight and Government Reform: Government Operations"
+  ],
+  "owner": "Spouse",
+  "ticker": "MSFT",
+  "asset": "Microsoft Corporation - Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell",
+  "transaction_date": "2026-10-02",
+  "notification_date": "2026-10-05",
+  "amount_text": "$250,001 - $500,000",
+  "amount_min": 250001,
+  "amount_max": 500000,
+  "description": null,
+  "filed_date": "2026-10-27",
+  "disclosure_lag_days": 25,
+  "filing_id": "20035563",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf",
+  "first_seen": "2026-10-29"
+ },
+ {
+  "id": "082977688f9b631c",
+  "chamber": "House",
+  "member": "Pete Sessions",
+  "bioguide_id": "S000250",
+  "in_office": true,
+  "party": "R",
+  "state": "TX",
+  "district": 17,
+  "committees": [
+   "House Committee on Oversight and Government Reform",
+   "House Committee on Financial Services"
+  ],
+  "subcommittees": [
+   "House Committee on Oversight and Government Reform: Government Operations",
+   "House Committee on Oversight and Government Reform: Health Care and Financial Services",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets"
+  ],
+  "leadership_roles": [
+   "Chairman, House Committee on Oversight and Government Reform: Government Operations"
+  ],
+  "owner": "Spouse",
+  "ticker": "NVDA",
+  "asset": "NVIDIA Corporation - Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell",
+  "transaction_date": "2026-10-02",
+  "notification_date": "2026-10-02",
+  "amount_text": "$15,001 - $50,000",
+  "amount_min": 15001,
+  "amount_max": 50000,
+  "description": null,
+  "filed_date": "2026-10-27",
+  "disclosure_lag_days": 25,
+  "filing_id": "20035563",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf",
+  "first_seen": "2026-10-29"
+ },
+ {
+  "id": "d42a3e3890aced67",
+  "chamber": "House",
+  "member": "Pete Sessions",
+  "bioguide_id": "S000250",
+  "in_office": true,
+  "party": "R",
+  "state": "TX",
+  "district": 17,
+  "committees": [
+   "House Committee on Oversight and Government Reform",
+   "House Committee on Financial Services"
+  ],
+  "subcommittees": [
+   "House Committee on Oversight and Government Reform: Government Operations",
+   "House Committee on Oversight and Government Reform: Health Care and Financial Services",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets"
+  ],
+  "leadership_roles": [
+   "Chairman, House Committee on Oversight and Government Reform: Government Operations"
+  ],
+  "owner": "Spouse",
+  "ticker": "SBUX",
+  "asset": "Starbucks Corporation - Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell",
+  "transaction_date": "2026-10-02",
+  "notification_date": "2026-10-05",
+  "amount_text": "$15,001 - $50,000",
+  "amount_min": 15001,
+  "amount_max": 50000,
+  "description": null,
+  "filed_date": "2026-10-27",
+  "disclosure_lag_days": 25,
+  "filing_id": "20035563",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf",
+  "first_seen": "2026-10-29"
+ },
+ {
+  "id": "fbc4caadd7b8a47e",
+  "chamber": "House",
+  "member": "Pete Sessions",
+  "bioguide_id": "S000250",
+  "in_office": true,
+  "party": "R",
+  "state": "TX",
+  "district": 17,
+  "committees": [
+   "House Committee on Oversight and Government Reform",
+   "House Committee on Financial Services"
+  ],
+  "subcommittees": [
+   "House Committee on Oversight and Government Reform: Government Operations",
+   "House Committee on Oversight and Government Reform: Health Care and Financial Services",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets"
+  ],
+  "leadership_roles": [
+   "Chairman, House Committee on Oversight and Government Reform: Government Operations"
+  ],
+  "owner": "Spouse",
+  "ticker": "TSLA",
+  "asset": "Tesla, Inc. - Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell",
+  "transaction_date": "2026-10-02",
+  "notification_date": "2026-10-05",
+  "amount_text": "$15,001 - $50,000",
+  "amount_min": 15001,
+  "amount_max": 50000,
+  "description": null,
+  "filed_date": "2026-10-27",
+  "disclosure_lag_days": 25,
+  "filing_id": "20035563",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf",
+  "first_seen": "2026-10-29"
+ },
+ {
+  "id": "4cc7a881a71a2dce",
+  "chamber": "House",
+  "member": "Pete Sessions",
+  "bioguide_id": "S000250",
+  "in_office": true,
+  "party": "R",
+  "state": "TX",
+  "district": 17,
+  "committees": [
+   "House Committee on Oversight and Government Reform",
+   "House Committee on Financial Services"
+  ],
+  "subcommittees": [
+   "House Committee on Oversight and Government Reform: Government Operations",
+   "House Committee on Oversight and Government Reform: Health Care and Financial Services",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets"
+  ],
+  "leadership_roles": [
+   "Chairman, House Committee on Oversight and Government Reform: Government Operations"
+  ],
+  "owner": "Spouse",
+  "ticker": "TJX",
+  "asset": "TJX Companies, Inc.",
+  "asset_type": "Stock",
+  "transaction": "sell",
+  "transaction_date": "2026-10-02",
+  "notification_date": "2026-10-05",
+  "amount_text": "$15,001 - $50,000",
+  "amount_min": 15001,
+  "amount_max": 50000,
+  "description": null,
+  "filed_date": "2026-10-27",
+  "disclosure_lag_days": 25,
+  "filing_id": "20035563",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf",
+  "first_seen": "2026-10-29"
+ },
+ {
+  "id": "5e1b9da60259766e",
+  "chamber": "House",
+  "member": "Pete Sessions",
+  "bioguide_id": "S000250",
+  "in_office": true,
+  "party": "R",
+  "state": "TX",
+  "district": 17,
+  "committees": [
+   "House Committee on Oversight and Government Reform",
+   "House Committee on Financial Services"
+  ],
+  "subcommittees": [
+   "House Committee on Oversight and Government Reform: Government Operations",
+   "House Committee on Oversight and Government Reform: Health Care and Financial Services",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets"
+  ],
+  "leadership_roles": [
+   "Chairman, House Committee on Oversight and Government Reform: Government Operations"
+  ],
+  "owner": "Spouse",
+  "ticker": "TJX",
+  "asset": "TJX Companies, Inc.",
+  "asset_type": "Stock",
+  "transaction": "sell",
+  "transaction_date": "2026-10-02",
+  "notification_date": "2026-10-02",
+  "amount_text": "$15,001 - $50,000",
+  "amount_min": 15001,
+  "amount_max": 50000,
+  "description": null,
+  "filed_date": "2026-10-27",
+  "disclosure_lag_days": 25,
+  "filing_id": "20035563",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf",
+  "first_seen": "2026-10-29"
+ },
+ {
+  "id": "c36fc08750aeb9ab",
+  "chamber": "House",
+  "member": "Pete Sessions",
+  "bioguide_id": "S000250",
+  "in_office": true,
+  "party": "R",
+  "state": "TX",
+  "district": 17,
+  "committees": [
+   "House Committee on Oversight and Government Reform",
+   "House Committee on Financial Services"
+  ],
+  "subcommittees": [
+   "House Committee on Oversight and Government Reform: Government Operations",
+   "House Committee on Oversight and Government Reform: Health Care and Financial Services",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets"
+  ],
+  "leadership_roles": [
+   "Chairman, House Committee on Oversight and Government Reform: Government Operations"
+  ],
+  "owner": "Spouse",
+  "ticker": "VZ",
+  "asset": "Verizon Communications Inc. Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell",
+  "transaction_date": "2026-10-02",
+  "notification_date": "2026-10-05",
+  "amount_text": "$15,001 - $50,000",
+  "amount_min": 15001,
+  "amount_max": 50000,
+  "description": null,
+  "filed_date": "2026-10-27",
+  "disclosure_lag_days": 25,
+  "filing_id": "20035563",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf",
+  "first_seen": "2026-10-29"
+ },
+ {
+  "id": "2716318a7daad5fc",
+  "chamber": "House",
+  "member": "Pete Sessions",
+  "bioguide_id": "S000250",
+  "in_office": true,
+  "party": "R",
+  "state": "TX",
+  "district": 17,
+  "committees": [
+   "House Committee on Oversight and Government Reform",
+   "House Committee on Financial Services"
+  ],
+  "subcommittees": [
+   "House Committee on Oversight and Government Reform: Government Operations",
+   "House Committee on Oversight and Government Reform: Health Care and Financial Services",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets"
+  ],
+  "leadership_roles": [
+   "Chairman, House Committee on Oversight and Government Reform: Government Operations"
+  ],
+  "owner": "Spouse",
+  "ticker": "V",
+  "asset": "Visa Inc.",
+  "asset_type": "Stock",
+  "transaction": "sell",
+  "transaction_date": "2026-10-02",
+  "notification_date": "2026-10-05",
+  "amount_text": "$15,001 - $50,000",
+  "amount_min": 15001,
+  "amount_max": 50000,
+  "description": null,
+  "filed_date": "2026-10-27",
+  "disclosure_lag_days": 25,
+  "filing_id": "20035563",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf",
+  "first_seen": "2026-10-29"
+ },
+ {
+  "id": "a7066402ff88a34c",
+  "chamber": "House",
+  "member": "Pete Sessions",
+  "bioguide_id": "S000250",
+  "in_office": true,
+  "party": "R",
+  "state": "TX",
+  "district": 17,
+  "committees": [
+   "House Committee on Oversight and Government Reform",
+   "House Committee on Financial Services"
+  ],
+  "subcommittees": [
+   "House Committee on Oversight and Government Reform: Government Operations",
+   "House Committee on Oversight and Government Reform: Health Care and Financial Services",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets"
+  ],
+  "leadership_roles": [
+   "Chairman, House Committee on Oversight and Government Reform: Government Operations"
+  ],
+  "owner": "Spouse",
+  "ticker": "WMT",
+  "asset": "Walmart Inc. - Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell",
+  "transaction_date": "2026-10-02",
+  "notification_date": "2026-10-05",
+  "amount_text": "$50,001 - $100,000",
+  "amount_min": 50001,
+  "amount_max": 100000,
+  "description": null,
+  "filed_date": "2026-10-27",
+  "disclosure_lag_days": 25,
+  "filing_id": "20035563",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf",
+  "first_seen": "2026-10-29"
+ },
+ {
+  "id": "b8cf081a72943807",
+  "chamber": "House",
+  "member": "Max L. Miller",
+  "bioguide_id": "M001222",
+  "in_office": true,
+  "party": "R",
+  "state": "OH",
+  "district": 7,
+  "committees": [
+   "House Committee on Ways and Means",
+   "House Committee on Foreign Affairs"
+  ],
+  "subcommittees": [
+   "House Committee on Ways and Means: Oversight",
+   "House Committee on Foreign Affairs: Africa",
+   "House Committee on Ways and Means: Work and Welfare",
+   "House Committee on Foreign Affairs: Oversight and Intelligence"
+  ],
+  "leadership_roles": [],
+  "owner": "Self",
+  "ticker": null,
+  "asset": "AIX Ventures Fund II, LP (GLAS Funds, LP)",
+  "asset_type": "Hedge fund",
+  "transaction": "sell_partial",
+  "transaction_date": "2026-10-01",
+  "notification_date": "2026-10-27",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": "Distribution of $6,923.58 Mercato Partners Traverse IV QP, LP",
+  "filed_date": "2026-10-27",
+  "disclosure_lag_days": 26,
+  "filing_id": "20035715",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035715.pdf",
+  "first_seen": "2026-10-29"
+ },
+ {
+  "id": "8ad937af63592b33",
+  "chamber": "House",
+  "member": "Pete Sessions",
+  "bioguide_id": "S000250",
+  "in_office": true,
+  "party": "R",
+  "state": "TX",
+  "district": 17,
+  "committees": [
+   "House Committee on Oversight and Government Reform",
+   "House Committee on Financial Services"
+  ],
+  "subcommittees": [
+   "House Committee on Oversight and Government Reform: Government Operations",
+   "House Committee on Oversight and Government Reform: Health Care and Financial Services",
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Capital Markets"
+  ],
+  "leadership_roles": [
+   "Chairman, House Committee on Oversight and Government Reform: Government Operations"
+  ],
+  "owner": "Self",
+  "ticker": "HON",
+  "asset": "Honeywell International Inc.",
+  "asset_type": "Stock",
+  "transaction": "sell",
+  "transaction_date": "2026-10-01",
+  "notification_date": "2026-10-02",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-10-27",
+  "disclosure_lag_days": 26,
+  "filing_id": "20035563",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf",
+  "first_seen": "2026-10-29"
+ },
+ {
+  "id": "318e82c0f425a9aa",
+  "chamber": "House",
+  "member": "Sheri Biggs",
+  "bioguide_id": "B001325",
+  "in_office": true,
+  "party": "R",
+  "state": "SC",
+  "district": 3,
+  "committees": [
+   "House Committee on Science, Space, and Technology",
+   "House Committee on Homeland Security",
+   "House Committee on Foreign Affairs"
+  ],
+  "subcommittees": [
+   "House Committee on Science, Space, and Technology: Energy",
+   "House Committee on Foreign Affairs: East Asia and Pacific",
+   "House Committee on Homeland Security: Transportation and Maritime Security",
+   "House Committee on Homeland Security: Border Security and Enforcement",
+   "House Committee on Foreign Affairs: Western Hemisphere",
+   "House Committee on Science, Space, and Technology: Research and Technology"
+  ],
+  "leadership_roles": [],
+  "owner": "Spouse",
+  "ticker": null,
+  "asset": "Oaktree Strategic Credit Fund Class S",
+  "asset_type": "Other",
+  "transaction": "buy",
+  "transaction_date": "2026-09-30",
+  "notification_date": "2026-10-06",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": "Dividend reinvestment within a professionally managed account - Business Development Company. Professionally Managed Account",
+  "filed_date": "2026-10-27",
+  "disclosure_lag_days": 27,
+  "filing_id": "20035525",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035525.pdf",
+  "first_seen": "2026-10-29"
+ },
+ {
+  "id": "9fddc5d5485f381b",
+  "chamber": "House",
+  "member": "Max L. Miller",
+  "bioguide_id": "M001222",
+  "in_office": true,
+  "party": "R",
+  "state": "OH",
+  "district": 7,
+  "committees": [
+   "House Committee on Ways and Means",
+   "House Committee on Foreign Affairs"
+  ],
+  "subcommittees": [
+   "House Committee on Ways and Means: Oversight",
+   "House Committee on Foreign Affairs: Africa",
+   "House Committee on Ways and Means: Work and Welfare",
+   "House Committee on Foreign Affairs: Oversight and Intelligence"
+  ],
+  "leadership_roles": [],
+  "owner": "Self",
+  "ticker": null,
+  "asset": "(GLAS Funds, LP)",
+  "asset_type": "Hedge fund",
+  "transaction": "sell_partial",
+  "transaction_date": "2026-09-30",
+  "notification_date": "2026-10-27",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": "Distribution of $2,375.01 I V D 2012 Trust",
+  "filed_date": "2026-10-27",
+  "disclosure_lag_days": 27,
+  "filing_id": "20035715",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035715.pdf",
+  "first_seen": "2026-10-29"
+ },
+ {
+  "id": "6e03bee6c403d81a",
+  "chamber": "House",
+  "member": "Jodey C. Arrington",
+  "bioguide_id": "A000375",
+  "in_office": true,
+  "party": "R",
+  "state": "TX",
+  "district": 19,
+  "committees": [
+   "Joint Economic Committee",
+   "House Committee on Ways and Means",
+   "House Committee on the Budget"
+  ],
+  "subcommittees": [
+   "House Committee on Ways and Means: Trade",
+   "House Committee on Ways and Means: Tax"
+  ],
+  "leadership_roles": [
+   "Chair, House Committee on the Budget"
+  ],
+  "owner": "Joint",
+  "ticker": null,
+  "asset": "Montego",
+  "asset_type": "Other investment",
+  "transaction": "sell",
+  "transaction_date": "2025-07-10",
+  "notification_date": "2025-11-01",
+  "amount_text": "$15,001 - $50,000",
+  "amount_min": 15001,
+  "amount_max": 50000,
+  "description": "The land we owned in an investment fund that purchased land for oil leases was sold. We owned a small percentage in this fund.",
+  "filed_date": "2026-10-27",
+  "disclosure_lag_days": 474,
+  "filing_id": "20035714",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035714.pdf",
+  "first_seen": "2026-10-29"
+ },
+ {
   "id": "765c01c92291b9a2",
   "chamber": "House",
   "member": "Darrell Issa",
