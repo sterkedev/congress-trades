@@ -1,8 +1,24 @@
 {
- "generated_at": "2026-10-29T13:09:49+00:00",
+ "generated_at": "2026-10-30T13:02:24+00:00",
  "window_days": 30,
  "note": "Trades whose filing became public in the window (filed_date). Member party, state and committee seats are in 'members', keyed by trade.member.",
  "members": {
+  "Kevin Hern": {
+   "bioguide_id": "H001082",
+   "chamber": "House",
+   "in_office": true,
+   "party": "R",
+   "state": "OK",
+   "district": 1,
+   "committees": [
+    "House Committee on Ways and Means"
+   ],
+   "subcommittees": [
+    "House Committee on Ways and Means: Tax",
+    "House Committee on Ways and Means: Health"
+   ],
+   "leadership_roles": []
+  },
   "Suzan K. DelBene": {
    "bioguide_id": "D000617",
    "chamber": "House",
@@ -403,22 +419,6 @@
     "Chairman, House Committee on Financial Services: Oversight and Investigations"
    ]
   },
-  "Kevin Hern": {
-   "bioguide_id": "H001082",
-   "chamber": "House",
-   "in_office": true,
-   "party": "R",
-   "state": "OK",
-   "district": 1,
-   "committees": [
-    "House Committee on Ways and Means"
-   ],
-   "subcommittees": [
-    "House Committee on Ways and Means: Tax",
-    "House Committee on Ways and Means: Health"
-   ],
-   "leadership_roles": []
-  },
   "Rick Larsen": {
    "bioguide_id": "L000560",
    "chamber": "House",
@@ -655,6 +655,48 @@
  },
  "trades": [
   {
+   "id": "9f0ad87362f86470",
+   "chamber": "House",
+   "member": "Kevin Hern",
+   "owner": "Joint",
+   "ticker": "ASML",
+   "asset": "ASML Holding N.V. - New York Registry Shares",
+   "asset_type": "Stock",
+   "transaction": "sell_partial",
+   "transaction_date": "2026-10-23",
+   "notification_date": "2026-10-27",
+   "amount_text": "$15,001 - $50,000",
+   "amount_min": 15001,
+   "amount_max": 50000,
+   "description": null,
+   "filed_date": "2026-10-28",
+   "disclosure_lag_days": 5,
+   "filing_id": "20035710",
+   "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035710.pdf",
+   "first_seen": "2026-10-30"
+  },
+  {
+   "id": "a6f5b67acdd3f7d9",
+   "chamber": "House",
+   "member": "Kevin Hern",
+   "owner": "Self",
+   "ticker": "STX",
+   "asset": "Seagate Technology Holdings PLC - Ordinary Shares",
+   "asset_type": "Stock",
+   "transaction": "sell_partial",
+   "transaction_date": "2026-10-23",
+   "notification_date": "2026-10-27",
+   "amount_text": "$15,001 - $50,000",
+   "amount_min": 15001,
+   "amount_max": 50000,
+   "description": null,
+   "filed_date": "2026-10-28",
+   "disclosure_lag_days": 5,
+   "filing_id": "20035710",
+   "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035710.pdf",
+   "first_seen": "2026-10-30"
+  },
+  {
    "id": "b51f150395939ead",
    "chamber": "House",
    "member": "Suzan K. DelBene",
@@ -695,6 +737,27 @@
    "filing_id": "20035689",
    "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035689.pdf",
    "first_seen": "2026-10-29"
+  },
+  {
+   "id": "f8950ab4fd81bb85",
+   "chamber": "House",
+   "member": "Kevin Hern",
+   "owner": "Joint",
+   "ticker": "TXN",
+   "asset": "Texas Instruments Incorporated - Common Stock",
+   "asset_type": "Stock",
+   "transaction": "sell_partial",
+   "transaction_date": "2026-10-14",
+   "notification_date": "2026-10-27",
+   "amount_text": "$15,001 - $50,000",
+   "amount_min": 15001,
+   "amount_max": 50000,
+   "description": null,
+   "filed_date": "2026-10-28",
+   "disclosure_lag_days": 14,
+   "filing_id": "20035710",
+   "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035710.pdf",
+   "first_seen": "2026-10-30"
   },
   {
    "id": "941589b83a2d9667",
@@ -6226,6 +6289,30 @@
    "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116378.pdf",
    "reason": "no readable text (probably a scanned paper filing)",
    "first_seen": "2026-10-17"
+  },
+  {
+   "chamber": "House",
+   "member": "Diana Harshbarger",
+   "filed_date": "2026-10-27",
+   "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116389.pdf",
+   "reason": "no readable text (probably a scanned paper filing)",
+   "first_seen": "2026-10-30"
+  },
+  {
+   "chamber": "House",
+   "member": "Diana Harshbarger",
+   "filed_date": "2026-10-27",
+   "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116390.pdf",
+   "reason": "no readable text (probably a scanned paper filing)",
+   "first_seen": "2026-10-30"
+  },
+  {
+   "chamber": "House",
+   "member": "Diana Harshbarger",
+   "filed_date": "2026-10-27",
+   "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116391.pdf",
+   "reason": "no readable text (probably a scanned paper filing)",
+   "first_seen": "2026-10-30"
   }
  ]
 }
