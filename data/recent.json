@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T13:31:18+00:00",
+ "generated_at": "2026-11-02T16:04:40+00:00",
  "window_days": 30,
  "note": "Trades whose filing became public in the window (filed_date). Member party, state and committee seats are in 'members', keyed by trade.member.",
  "members": {
@@ -585,17 +585,6 @@
    "leadership_roles": [
     "Ranking Member, House Committee on Ways and Means: Health"
    ]
-  },
-  "Nancy Pelosi": {
-   "bioguide_id": "P000197",
-   "chamber": "House",
-   "in_office": true,
-   "party": "D",
-   "state": "CA",
-   "district": 11,
-   "committees": [],
-   "subcommittees": [],
-   "leadership_roles": []
   }
  },
  "trades": [
@@ -5785,101 +5774,9 @@
    "filing_id": "20035580",
    "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035580.pdf",
    "first_seen": "2026-10-07"
-  },
-  {
-   "id": "ea94a9ab796163e9",
-   "chamber": "House",
-   "member": "Michael A. Rulli",
-   "owner": "Self",
-   "ticker": "MSFT",
-   "asset": "Microsoft Corporation - Common Stock",
-   "asset_type": "Stock",
-   "transaction": "sell_partial",
-   "transaction_date": "2026-09-28",
-   "notification_date": "2026-09-28",
-   "amount_text": "$1,001 - $15,000",
-   "amount_min": 1001,
-   "amount_max": 15000,
-   "description": null,
-   "filed_date": "2026-10-02",
-   "disclosure_lag_days": 4,
-   "filing_id": "20035558",
-   "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035558.pdf",
-   "first_seen": "2026-10-07"
-  },
-  {
-   "id": "7673ec40cb12d3ee",
-   "chamber": "House",
-   "member": "Nancy Pelosi",
-   "owner": "Spouse",
-   "ticker": null,
-   "asset": "REOF XXX, LLC",
-   "asset_type": "AB",
-   "transaction": "buy",
-   "transaction_date": "2026-09-08",
-   "notification_date": "2026-09-08",
-   "amount_text": "$500,001 - $1,000,000",
-   "amount_min": 500001,
-   "amount_max": 1000000,
-   "description": "Investment in LLC which is acquiring and managing a commercial office property at 225 Bush Street in San Francisco, CA.",
-   "filed_date": "2026-10-02",
-   "disclosure_lag_days": 24,
-   "filing_id": "20035553",
-   "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035553.pdf",
-   "first_seen": "2026-10-07"
-  },
-  {
-   "id": "421c029a37450760",
-   "chamber": "House",
-   "member": "Michael A. Rulli",
-   "owner": "Self",
-   "ticker": "GS",
-   "asset": "Goldman Sachs Group, Inc.",
-   "asset_type": "Stock",
-   "transaction": "buy",
-   "transaction_date": "2026-09-03",
-   "notification_date": "2026-09-04",
-   "amount_text": "$1,001 - $15,000",
-   "amount_min": 1001,
-   "amount_max": 15000,
-   "description": null,
-   "filed_date": "2026-10-02",
-   "disclosure_lag_days": 29,
-   "filing_id": "20035558",
-   "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035558.pdf",
-   "first_seen": "2026-10-07"
-  },
-  {
-   "id": "c588a1bde3e59b1a",
-   "chamber": "House",
-   "member": "Michael A. Rulli",
-   "owner": "Self",
-   "ticker": "WFC",
-   "asset": "Wells Fargo & Company Common Stock",
-   "asset_type": "Stock",
-   "transaction": "sell_partial",
-   "transaction_date": "2026-09-03",
-   "notification_date": "2026-09-04",
-   "amount_text": "$1,001 - $15,000",
-   "amount_min": 1001,
-   "amount_max": 15000,
-   "description": null,
-   "filed_date": "2026-10-02",
-   "disclosure_lag_days": 29,
-   "filing_id": "20035558",
-   "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035558.pdf",
-   "first_seen": "2026-10-07"
   }
  ],
  "needs_review": [
-  {
-   "chamber": "House",
-   "member": "Tony Wied",
-   "filed_date": "2026-10-02",
-   "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116361.pdf",
-   "reason": "no readable text (probably a scanned paper filing)",
-   "first_seen": "2026-10-08"
-  },
   {
    "chamber": "House",
    "member": "Ro Khanna",
