@@ -1,8 +1,30 @@
 {
- "generated_at": "2026-11-03T14:24:09+00:00",
+ "generated_at": "2026-11-04T14:39:06+00:00",
  "window_days": 30,
  "note": "Trades whose filing became public in the window (filed_date). Member party, state and committee seats are in 'members', keyed by trade.member.",
  "members": {
+  "Ann Wagner": {
+   "bioguide_id": "W000812",
+   "chamber": "House",
+   "in_office": true,
+   "party": "R",
+   "state": "MO",
+   "district": 2,
+   "committees": [
+    "House Permanent Select Committee on Intelligence",
+    "House Committee on Financial Services"
+   ],
+   "subcommittees": [
+    "House Committee on Financial Services: Oversight and Investigations",
+    "House Committee on Financial Services: Capital Markets",
+    "House Permanent Select Committee on Intelligence: National Intelligence Enterprise",
+    "House Permanent Select Committee on Intelligence: Open Source Intelligence"
+   ],
+   "leadership_roles": [
+    "Chairman, House Committee on Financial Services: Capital Markets",
+    "Chairwoman, House Permanent Select Committee on Intelligence: Open Source Intelligence"
+   ]
+  },
   "Donald S. Beyer, Jr.": {
    "bioguide_id": "B001292",
    "chamber": "House",
@@ -661,6 +683,27 @@
   }
  },
  "trades": [
+  {
+   "id": "4230312f2b045257",
+   "chamber": "House",
+   "member": "Ann Wagner",
+   "owner": "Joint",
+   "ticker": null,
+   "asset": "American Expr Natl Bank CD",
+   "asset_type": "Government security",
+   "transaction": "sell_partial",
+   "transaction_date": "2026-10-20",
+   "notification_date": "2026-10-21",
+   "amount_text": "$100,001 - $250,000",
+   "amount_min": 100001,
+   "amount_max": 250000,
+   "description": null,
+   "filed_date": "2026-11-02",
+   "disclosure_lag_days": 13,
+   "filing_id": "20035751",
+   "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035751.pdf",
+   "first_seen": "2026-11-04"
+  },
   {
    "id": "ec6231fd1571deca",
    "chamber": "House",
