@@ -1,5 +1,42 @@
 [
  {
+  "id": "082e86a45123e5a5",
+  "chamber": "House",
+  "member": "Robert E. Latta",
+  "bioguide_id": "L000566",
+  "in_office": true,
+  "party": "R",
+  "state": "OH",
+  "district": 5,
+  "committees": [
+   "House Committee on Energy and Commerce"
+  ],
+  "subcommittees": [
+   "House Committee on Energy and Commerce: Energy",
+   "House Committee on Energy and Commerce: Environment",
+   "House Committee on Energy and Commerce: Communications and Technology"
+  ],
+  "leadership_roles": [
+   "Chair, House Committee on Energy and Commerce: Energy"
+  ],
+  "owner": "Spouse",
+  "ticker": "FMAO",
+  "asset": "Farmers & Merchants Bancorp, Inc.",
+  "asset_type": "Stock",
+  "transaction": "buy",
+  "transaction_date": "2026-10-20",
+  "notification_date": "2026-10-20",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": "Dividend reinvestment",
+  "filed_date": "2026-11-03",
+  "disclosure_lag_days": 14,
+  "filing_id": "20035763",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035763.pdf",
+  "first_seen": "2026-11-05"
+ },
+ {
   "id": "4230312f2b045257",
   "chamber": "House",
   "member": "Ann Wagner",
@@ -3753,9 +3790,12 @@
    "House Committee on Agriculture: Nutrition and Foreign Agriculture",
    "House Committee on Agriculture: Commodity Markets, Digital Assets, and Rural Development",
    "House Committee on Foreign Affairs: Africa",
-   "House Committee on Foreign Affairs: Western Hemisphere"
+   "House Committee on Foreign Affairs: Western Hemisphere",
+   "House Committee on Foreign Affairs: Oversight and Intelligence"
   ],
-  "leadership_roles": [],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Foreign Affairs: Oversight and Intelligence"
+  ],
   "owner": "Joint",
   "ticker": "DDOG",
   "asset": "Datadog, Inc. - Class A Common Stock",
@@ -3790,9 +3830,12 @@
    "House Committee on Agriculture: Nutrition and Foreign Agriculture",
    "House Committee on Agriculture: Commodity Markets, Digital Assets, and Rural Development",
    "House Committee on Foreign Affairs: Africa",
-   "House Committee on Foreign Affairs: Western Hemisphere"
+   "House Committee on Foreign Affairs: Western Hemisphere",
+   "House Committee on Foreign Affairs: Oversight and Intelligence"
   ],
-  "leadership_roles": [],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Foreign Affairs: Oversight and Intelligence"
+  ],
   "owner": "Joint",
   "ticker": "EL",
   "asset": "Estee Lauder Companies, Inc.",
@@ -3827,9 +3870,12 @@
    "House Committee on Agriculture: Nutrition and Foreign Agriculture",
    "House Committee on Agriculture: Commodity Markets, Digital Assets, and Rural Development",
    "House Committee on Foreign Affairs: Africa",
-   "House Committee on Foreign Affairs: Western Hemisphere"
+   "House Committee on Foreign Affairs: Western Hemisphere",
+   "House Committee on Foreign Affairs: Oversight and Intelligence"
   ],
-  "leadership_roles": [],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Foreign Affairs: Oversight and Intelligence"
+  ],
   "owner": "Joint",
   "ticker": "GH",
   "asset": "Guardant Health, Inc. - Common Stock",
@@ -3864,9 +3910,12 @@
    "House Committee on Agriculture: Nutrition and Foreign Agriculture",
    "House Committee on Agriculture: Commodity Markets, Digital Assets, and Rural Development",
    "House Committee on Foreign Affairs: Africa",
-   "House Committee on Foreign Affairs: Western Hemisphere"
+   "House Committee on Foreign Affairs: Western Hemisphere",
+   "House Committee on Foreign Affairs: Oversight and Intelligence"
   ],
-  "leadership_roles": [],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Foreign Affairs: Oversight and Intelligence"
+  ],
   "owner": "Joint",
   "ticker": "VSAT",
   "asset": "ViaSat, Inc. - Common Stock",
@@ -3901,9 +3950,12 @@
    "House Committee on Agriculture: Nutrition and Foreign Agriculture",
    "House Committee on Agriculture: Commodity Markets, Digital Assets, and Rural Development",
    "House Committee on Foreign Affairs: Africa",
-   "House Committee on Foreign Affairs: Western Hemisphere"
+   "House Committee on Foreign Affairs: Western Hemisphere",
+   "House Committee on Foreign Affairs: Oversight and Intelligence"
   ],
-  "leadership_roles": [],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Foreign Affairs: Oversight and Intelligence"
+  ],
   "owner": "Joint",
   "ticker": "WMT",
   "asset": "Walmart Inc. - Common Stock",
@@ -3938,9 +3990,12 @@
    "House Committee on Agriculture: Nutrition and Foreign Agriculture",
    "House Committee on Agriculture: Commodity Markets, Digital Assets, and Rural Development",
    "House Committee on Foreign Affairs: Africa",
-   "House Committee on Foreign Affairs: Western Hemisphere"
+   "House Committee on Foreign Affairs: Western Hemisphere",
+   "House Committee on Foreign Affairs: Oversight and Intelligence"
   ],
-  "leadership_roles": [],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Foreign Affairs: Oversight and Intelligence"
+  ],
   "owner": "Spouse",
   "ticker": "TYG",
   "asset": "Tortoise Energy Infrastructure Corporation Common Stock",

@@ -1,8 +1,27 @@
 {
- "generated_at": "2026-11-04T14:39:06+00:00",
+ "generated_at": "2026-11-05T14:44:04+00:00",
  "window_days": 30,
  "note": "Trades whose filing became public in the window (filed_date). Member party, state and committee seats are in 'members', keyed by trade.member.",
  "members": {
+  "Robert E. Latta": {
+   "bioguide_id": "L000566",
+   "chamber": "House",
+   "in_office": true,
+   "party": "R",
+   "state": "OH",
+   "district": 5,
+   "committees": [
+    "House Committee on Energy and Commerce"
+   ],
+   "subcommittees": [
+    "House Committee on Energy and Commerce: Energy",
+    "House Committee on Energy and Commerce: Environment",
+    "House Committee on Energy and Commerce: Communications and Technology"
+   ],
+   "leadership_roles": [
+    "Chair, House Committee on Energy and Commerce: Energy"
+   ]
+  },
   "Ann Wagner": {
    "bioguide_id": "W000812",
    "chamber": "House",
@@ -383,9 +402,12 @@
     "House Committee on Agriculture: Nutrition and Foreign Agriculture",
     "House Committee on Agriculture: Commodity Markets, Digital Assets, and Rural Development",
     "House Committee on Foreign Affairs: Africa",
-    "House Committee on Foreign Affairs: Western Hemisphere"
+    "House Committee on Foreign Affairs: Western Hemisphere",
+    "House Committee on Foreign Affairs: Oversight and Intelligence"
    ],
-   "leadership_roles": []
+   "leadership_roles": [
+    "Ranking Member, House Committee on Foreign Affairs: Oversight and Intelligence"
+   ]
   },
   "Laurel M. Lee": {
    "bioguide_id": "L000597",
@@ -637,52 +659,30 @@
    "leadership_roles": [
     "Ranking Member, Senate Committee on Homeland Security and Governmental Affairs: Border Management, Federal Workforce, and Regulatory Affairs"
    ]
-  },
-  "Vince Fong": {
-   "bioguide_id": "F000480",
-   "chamber": "House",
-   "in_office": true,
-   "party": "R",
-   "state": "CA",
-   "district": 20,
-   "committees": [
-    "House Committee on Transportation and Infrastructure",
-    "House Committee on Science, Space, and Technology",
-    "House Committee on Homeland Security"
-   ],
-   "subcommittees": [
-    "House Committee on Transportation and Infrastructure: Railroads, Pipelines, and Hazardous Materials",
-    "House Committee on Transportation and Infrastructure: Water Resources and Environment",
-    "House Committee on Transportation and Infrastructure: Highways and Transit",
-    "House Committee on Homeland Security: Cybersecurity and Infrastructure Protection",
-    "House Committee on Science, Space, and Technology: Research and Technology",
-    "House Committee on Science, Space, and Technology: Space and Aeronautics"
-   ],
-   "leadership_roles": []
-  },
-  "Lloyd Doggett": {
-   "bioguide_id": "D000399",
-   "chamber": "House",
-   "in_office": true,
-   "party": "D",
-   "state": "TX",
-   "district": 37,
-   "committees": [
-    "Joint Committee on Taxation",
-    "House Committee on Ways and Means",
-    "House Committee on the Budget"
-   ],
-   "subcommittees": [
-    "House Committee on Ways and Means: Trade",
-    "House Committee on Ways and Means: Oversight",
-    "House Committee on Ways and Means: Health"
-   ],
-   "leadership_roles": [
-    "Ranking Member, House Committee on Ways and Means: Health"
-   ]
   }
  },
  "trades": [
+  {
+   "id": "082e86a45123e5a5",
+   "chamber": "House",
+   "member": "Robert E. Latta",
+   "owner": "Spouse",
+   "ticker": "FMAO",
+   "asset": "Farmers & Merchants Bancorp, Inc.",
+   "asset_type": "Stock",
+   "transaction": "buy",
+   "transaction_date": "2026-10-20",
+   "notification_date": "2026-10-20",
+   "amount_text": "$1,001 - $15,000",
+   "amount_min": 1001,
+   "amount_max": 15000,
+   "description": "Dividend reinvestment",
+   "filed_date": "2026-11-03",
+   "disclosure_lag_days": 14,
+   "filing_id": "20035763",
+   "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035763.pdf",
+   "first_seen": "2026-11-05"
+  },
   {
    "id": "4230312f2b045257",
    "chamber": "House",
@@ -6037,111 +6037,6 @@
    "filing_id": "20035562",
    "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035562.pdf",
    "first_seen": "2026-10-09"
-  },
-  {
-   "id": "ed5f01080efea424",
-   "chamber": "House",
-   "member": "Vince Fong",
-   "owner": "Self",
-   "ticker": null,
-   "asset": "U.S. Treasury Bill 0.0% Int Mat 12/10/2026",
-   "asset_type": "Government security",
-   "transaction": "buy",
-   "transaction_date": "2026-09-18",
-   "notification_date": "2026-09-18",
-   "amount_text": "$15,001 - $50,000",
-   "amount_min": 15001,
-   "amount_max": 50000,
-   "description": null,
-   "filed_date": "2026-10-05",
-   "disclosure_lag_days": 17,
-   "filing_id": "20035539",
-   "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035539.pdf",
-   "first_seen": "2026-10-07"
-  },
-  {
-   "id": "56dd2de30f0eed6b",
-   "chamber": "House",
-   "member": "Lloyd Doggett",
-   "owner": "Self",
-   "ticker": "HD",
-   "asset": "Home Depot, Inc.",
-   "asset_type": "Stock",
-   "transaction": "buy",
-   "transaction_date": "2026-09-17",
-   "notification_date": "2026-10-05",
-   "amount_text": "$1,001 - $15,000",
-   "amount_min": 1001,
-   "amount_max": 15000,
-   "description": "Automatic reinvestment of dividends earned.",
-   "filed_date": "2026-10-05",
-   "disclosure_lag_days": 18,
-   "filing_id": "20035580",
-   "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035580.pdf",
-   "first_seen": "2026-10-07"
-  },
-  {
-   "id": "757f6410144133e8",
-   "chamber": "House",
-   "member": "Lloyd Doggett",
-   "owner": "Self",
-   "ticker": "PPG",
-   "asset": "PPG Industries, Inc. Common Stock",
-   "asset_type": "Stock",
-   "transaction": "buy",
-   "transaction_date": "2026-09-11",
-   "notification_date": "2026-10-05",
-   "amount_text": "$1,001 - $15,000",
-   "amount_min": 1001,
-   "amount_max": 15000,
-   "description": "Automatic reinvestment of dividends earned.",
-   "filed_date": "2026-10-05",
-   "disclosure_lag_days": 24,
-   "filing_id": "20035580",
-   "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035580.pdf",
-   "first_seen": "2026-10-07"
-  },
-  {
-   "id": "da45ff20448e06e0",
-   "chamber": "House",
-   "member": "Lloyd Doggett",
-   "owner": "Self",
-   "ticker": "IBM",
-   "asset": "International Business Machines Corporation Common Stock",
-   "asset_type": "Stock",
-   "transaction": "buy",
-   "transaction_date": "2026-09-10",
-   "notification_date": "2026-10-05",
-   "amount_text": "$1,001 - $15,000",
-   "amount_min": 1001,
-   "amount_max": 15000,
-   "description": "Automatic reinvestment of dividends earned.",
-   "filed_date": "2026-10-05",
-   "disclosure_lag_days": 25,
-   "filing_id": "20035580",
-   "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035580.pdf",
-   "first_seen": "2026-10-07"
-  },
-  {
-   "id": "ffe7203efdf23c96",
-   "chamber": "House",
-   "member": "Lloyd Doggett",
-   "owner": "Self",
-   "ticker": "JNJ",
-   "asset": "Johnson & Johnson Common Stock",
-   "asset_type": "Stock",
-   "transaction": "buy",
-   "transaction_date": "2026-09-08",
-   "notification_date": "2026-10-05",
-   "amount_text": "$1,001 - $15,000",
-   "amount_min": 1001,
-   "amount_max": 15000,
-   "description": "Automatic reinvestment of dividends earned.",
-   "filed_date": "2026-10-05",
-   "disclosure_lag_days": 27,
-   "filing_id": "20035580",
-   "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035580.pdf",
-   "first_seen": "2026-10-07"
   }
  ],
  "needs_review": [

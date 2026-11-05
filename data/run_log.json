@@ -1,6 +1,6 @@
 {
  "last_run": {
-  "run_at": "2026-11-04T14:38:52+00:00",
+  "run_at": "2026-11-05T14:43:54+00:00",
   "errors": [
    "Senate failed: TransientError: POST https://efdsearch.senate.gov/search/home/ failed: HTTP 403"
   ],
@@ -19,6 +19,13 @@
   "status": "partial"
  },
  "history": [
+  {
+   "run_at": "2026-11-05T14:43:54+00:00",
+   "status": "partial",
+   "house_trades": 1,
+   "senate_trades": 0,
+   "errors": 1
+  },
   {
    "run_at": "2026-11-04T14:38:52+00:00",
    "status": "partial",
@@ -220,13 +227,6 @@
    "status": "ok",
    "house_trades": 6524,
    "senate_trades": 363,
-   "errors": 0
-  },
-  {
-   "run_at": "2026-10-07T08:19:20+00:00",
-   "status": "ok",
-   "house_trades": 3366,
-   "senate_trades": 2298,
    "errors": 0
   }
  ]
