@@ -1,8 +1,69 @@
 {
- "generated_at": "2026-11-05T14:44:04+00:00",
+ "generated_at": "2026-11-06T14:21:48+00:00",
  "window_days": 30,
  "note": "Trades whose filing became public in the window (filed_date). Member party, state and committee seats are in 'members', keyed by trade.member.",
  "members": {
+  "Maria Elvira Salazar": {
+   "bioguide_id": "S000168",
+   "chamber": "House",
+   "in_office": true,
+   "party": "R",
+   "state": "FL",
+   "district": 27,
+   "committees": [
+    "House Committee on Financial Services",
+    "House Committee on Foreign Affairs"
+   ],
+   "subcommittees": [
+    "House Committee on Foreign Affairs: Africa",
+    "House Committee on Foreign Affairs: Western Hemisphere",
+    "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+    "House Committee on Financial Services: Capital Markets",
+    "House Committee on Financial Services: Housing and Insurance"
+   ],
+   "leadership_roles": [
+    "Chair, House Committee on Foreign Affairs: Western Hemisphere"
+   ]
+  },
+  "Daniel Meuser": {
+   "bioguide_id": "M001204",
+   "chamber": "House",
+   "in_office": true,
+   "party": "R",
+   "state": "PA",
+   "district": 9,
+   "committees": [
+    "House Committee on Financial Services",
+    "House Committee on Small Business"
+   ],
+   "subcommittees": [
+    "House Committee on Small Business: Contracting and Infrastructure",
+    "House Committee on Small Business: Economic Growth, Tax, and Capital Access",
+    "House Committee on Financial Services: Oversight and Investigations",
+    "House Committee on Financial Services: Financial Institutions"
+   ],
+   "leadership_roles": [
+    "Chairman, House Committee on Financial Services: Oversight and Investigations"
+   ]
+  },
+  "Mike Kelly": {
+   "bioguide_id": "K000376",
+   "chamber": "House",
+   "in_office": true,
+   "party": "R",
+   "state": "PA",
+   "district": 16,
+   "committees": [
+    "House Committee on Ways and Means"
+   ],
+   "subcommittees": [
+    "House Committee on Ways and Means: Tax",
+    "House Committee on Ways and Means: Health"
+   ],
+   "leadership_roles": [
+    "Chair, House Committee on Ways and Means: Tax"
+   ]
+  },
   "Robert E. Latta": {
    "bioguide_id": "L000566",
    "chamber": "House",
@@ -474,24 +535,6 @@
     "Chairman, House Committee on Education and Workforce: Health, Employment, Labor, and Pensions"
    ]
   },
-  "Mike Kelly": {
-   "bioguide_id": "K000376",
-   "chamber": "House",
-   "in_office": true,
-   "party": "R",
-   "state": "PA",
-   "district": 16,
-   "committees": [
-    "House Committee on Ways and Means"
-   ],
-   "subcommittees": [
-    "House Committee on Ways and Means: Tax",
-    "House Committee on Ways and Means: Health"
-   ],
-   "leadership_roles": [
-    "Chair, House Committee on Ways and Means: Tax"
-   ]
-  },
   "Richard McCormick": {
    "bioguide_id": "M001218",
    "chamber": "House",
@@ -513,27 +556,6 @@
    ],
    "leadership_roles": [
     "Chair, House Committee on Science, Space, and Technology: Investigations and Oversight"
-   ]
-  },
-  "Daniel Meuser": {
-   "bioguide_id": "M001204",
-   "chamber": "House",
-   "in_office": true,
-   "party": "R",
-   "state": "PA",
-   "district": 9,
-   "committees": [
-    "House Committee on Financial Services",
-    "House Committee on Small Business"
-   ],
-   "subcommittees": [
-    "House Committee on Small Business: Contracting and Infrastructure",
-    "House Committee on Small Business: Economic Growth, Tax, and Capital Access",
-    "House Committee on Financial Services: Oversight and Investigations",
-    "House Committee on Financial Services: Financial Institutions"
-   ],
-   "leadership_roles": [
-    "Chairman, House Committee on Financial Services: Oversight and Investigations"
    ]
   },
   "Rick Larsen": {
@@ -613,28 +635,6 @@
     "Ranking Member, House Permanent Select Committee on Intelligence: National Security Agency and Cyber"
    ]
   },
-  "Maria Elvira Salazar": {
-   "bioguide_id": "S000168",
-   "chamber": "House",
-   "in_office": true,
-   "party": "R",
-   "state": "FL",
-   "district": 27,
-   "committees": [
-    "House Committee on Financial Services",
-    "House Committee on Foreign Affairs"
-   ],
-   "subcommittees": [
-    "House Committee on Foreign Affairs: Africa",
-    "House Committee on Foreign Affairs: Western Hemisphere",
-    "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
-    "House Committee on Financial Services: Capital Markets",
-    "House Committee on Financial Services: Housing and Insurance"
-   ],
-   "leadership_roles": [
-    "Chair, House Committee on Foreign Affairs: Western Hemisphere"
-   ]
-  },
   "John Fetterman": {
    "bioguide_id": "F000479",
    "chamber": "Senate",
@@ -662,6 +662,174 @@
   }
  },
  "trades": [
+  {
+   "id": "5c8cc7a412e001b3",
+   "chamber": "House",
+   "member": "Maria Elvira Salazar",
+   "owner": "Self",
+   "ticker": "CSCO",
+   "asset": "Cisco Systems, Inc. - Common Stock",
+   "asset_type": "Stock",
+   "transaction": "sell",
+   "transaction_date": "2026-10-23",
+   "notification_date": "2026-11-01",
+   "amount_text": "$1,001 - $15,000",
+   "amount_min": 1001,
+   "amount_max": 15000,
+   "description": null,
+   "filed_date": "2026-11-05",
+   "disclosure_lag_days": 13,
+   "filing_id": "20035778",
+   "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035778.pdf",
+   "first_seen": "2026-11-06"
+  },
+  {
+   "id": "6cd5c6ce328c6e23",
+   "chamber": "House",
+   "member": "Maria Elvira Salazar",
+   "owner": "Self",
+   "ticker": "NVDA",
+   "asset": "NVIDIA Corporation - Common Stock",
+   "asset_type": "Stock",
+   "transaction": "buy",
+   "transaction_date": "2026-10-23",
+   "notification_date": "2026-11-01",
+   "amount_text": "$1,001 - $15,000",
+   "amount_min": 1001,
+   "amount_max": 15000,
+   "description": null,
+   "filed_date": "2026-11-05",
+   "disclosure_lag_days": 13,
+   "filing_id": "20035778",
+   "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035778.pdf",
+   "first_seen": "2026-11-06"
+  },
+  {
+   "id": "d1e28262fcd88fc8",
+   "chamber": "House",
+   "member": "Maria Elvira Salazar",
+   "owner": "Self",
+   "ticker": "NVDA",
+   "asset": "NVIDIA Corporation - Common Stock",
+   "asset_type": "Stock",
+   "transaction": "buy",
+   "transaction_date": "2026-10-23",
+   "notification_date": "2026-11-01",
+   "amount_text": "$1,001 - $15,000",
+   "amount_min": 1001,
+   "amount_max": 15000,
+   "description": null,
+   "filed_date": "2026-11-05",
+   "disclosure_lag_days": 13,
+   "filing_id": "20035778",
+   "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035778.pdf",
+   "first_seen": "2026-11-06"
+  },
+  {
+   "id": "4b1a49f987e3808c",
+   "chamber": "House",
+   "member": "Maria Elvira Salazar",
+   "owner": "Self",
+   "ticker": "PG",
+   "asset": "Procter & Gamble Company",
+   "asset_type": "Stock",
+   "transaction": "buy",
+   "transaction_date": "2026-10-23",
+   "notification_date": "2026-11-01",
+   "amount_text": "$1,001 - $15,000",
+   "amount_min": 1001,
+   "amount_max": 15000,
+   "description": null,
+   "filed_date": "2026-11-05",
+   "disclosure_lag_days": 13,
+   "filing_id": "20035778",
+   "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035778.pdf",
+   "first_seen": "2026-11-06"
+  },
+  {
+   "id": "69c2b981d0d05101",
+   "chamber": "House",
+   "member": "Maria Elvira Salazar",
+   "owner": "Self",
+   "ticker": "PG",
+   "asset": "Procter & Gamble Company",
+   "asset_type": "Stock",
+   "transaction": "buy",
+   "transaction_date": "2026-10-23",
+   "notification_date": "2026-11-01",
+   "amount_text": "$1,001 - $15,000",
+   "amount_min": 1001,
+   "amount_max": 15000,
+   "description": null,
+   "filed_date": "2026-11-05",
+   "disclosure_lag_days": 13,
+   "filing_id": "20035778",
+   "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035778.pdf",
+   "first_seen": "2026-11-06"
+  },
+  {
+   "id": "9cde443db3d2b05b",
+   "chamber": "House",
+   "member": "Daniel Meuser",
+   "owner": "Spouse",
+   "ticker": "NVDA",
+   "asset": "NVIDIA Corporation - Common Stock",
+   "asset_type": "Stock",
+   "transaction": "sell_partial",
+   "transaction_date": "2026-09-25",
+   "notification_date": "2026-10-14",
+   "amount_text": "$1,001 - $15,000",
+   "amount_min": 1001,
+   "amount_max": 15000,
+   "description": null,
+   "filed_date": "2026-11-05",
+   "disclosure_lag_days": 41,
+   "filing_id": "20035662",
+   "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035662.pdf",
+   "first_seen": "2026-11-06"
+  },
+  {
+   "id": "0e08df2e21512cfb",
+   "chamber": "House",
+   "member": "Mike Kelly",
+   "owner": "Spouse",
+   "ticker": null,
+   "asset": "Fairfax Cnty VA Ser A Go",
+   "asset_type": "Government security",
+   "transaction": "sell",
+   "transaction_date": "2026-10-15",
+   "notification_date": "2026-11-04",
+   "amount_text": "$50,001 - $100,000",
+   "amount_min": 50001,
+   "amount_max": 100000,
+   "description": null,
+   "filed_date": "2026-11-04",
+   "disclosure_lag_days": 20,
+   "filing_id": "20035765",
+   "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035765.pdf",
+   "first_seen": "2026-11-06"
+  },
+  {
+   "id": "9a80af038d88fefc",
+   "chamber": "House",
+   "member": "Mike Kelly",
+   "owner": "Spouse",
+   "ticker": null,
+   "asset": "North Carolina Hsg Fin Agy Hom S",
+   "asset_type": "Government security",
+   "transaction": "buy",
+   "transaction_date": "2026-10-01",
+   "notification_date": "2026-11-04",
+   "amount_text": "$50,001 - $100,000",
+   "amount_min": 50001,
+   "amount_max": 100000,
+   "description": null,
+   "filed_date": "2026-11-04",
+   "disclosure_lag_days": 34,
+   "filing_id": "20035765",
+   "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035765.pdf",
+   "first_seen": "2026-11-06"
+  },
   {
    "id": "082e86a45123e5a5",
    "chamber": "House",

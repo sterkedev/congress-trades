@@ -593,14 +593,6 @@
  },
  {
   "chamber": "House",
-  "member": "Harold Rogers",
-  "filed_date": "2025-11-05",
-  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221223.pdf",
-  "reason": "no readable text (probably a scanned paper filing)",
-  "first_seen": "2026-10-07"
- },
- {
-  "chamber": "House",
   "member": "Tony Wied",
   "filed_date": "2026-10-02",
   "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116361.pdf",
