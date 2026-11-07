@@ -1,5 +1,45 @@
 [
  {
+  "id": "313df6e676620c21",
+  "chamber": "House",
+  "member": "Josh Gottheimer",
+  "bioguide_id": "G000583",
+  "in_office": true,
+  "party": "D",
+  "state": "NJ",
+  "district": 5,
+  "committees": [
+   "House Permanent Select Committee on Intelligence",
+   "House Committee on Financial Services"
+  ],
+  "subcommittees": [
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Digital Assets, Financial Technology, and Artificial Intelligence",
+   "House Committee on Financial Services: Capital Markets",
+   "House Permanent Select Committee on Intelligence: Defense Intelligence and Overhead Architecture",
+   "House Permanent Select Committee on Intelligence: National Security Agency and Cyber"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Permanent Select Committee on Intelligence: National Security Agency and Cyber"
+  ],
+  "owner": "Joint",
+  "ticker": "AMAT",
+  "asset": "Applied Materials, Inc. - Common Stock",
+  "asset_type": "Stock",
+  "transaction": "buy",
+  "transaction_date": "2026-10-26",
+  "notification_date": "2026-11-04",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-11-05",
+  "disclosure_lag_days": 10,
+  "filing_id": "20035770",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035770.pdf",
+  "first_seen": "2026-11-07"
+ },
+ {
   "id": "5c8cc7a412e001b3",
   "chamber": "House",
   "member": "Maria Elvira Salazar",
@@ -198,6 +238,86 @@
   "filing_id": "20035778",
   "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035778.pdf",
   "first_seen": "2026-11-06"
+ },
+ {
+  "id": "2cac5df588be1b9e",
+  "chamber": "House",
+  "member": "Josh Gottheimer",
+  "bioguide_id": "G000583",
+  "in_office": true,
+  "party": "D",
+  "state": "NJ",
+  "district": 5,
+  "committees": [
+   "House Permanent Select Committee on Intelligence",
+   "House Committee on Financial Services"
+  ],
+  "subcommittees": [
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Digital Assets, Financial Technology, and Artificial Intelligence",
+   "House Committee on Financial Services: Capital Markets",
+   "House Permanent Select Committee on Intelligence: Defense Intelligence and Overhead Architecture",
+   "House Permanent Select Committee on Intelligence: National Security Agency and Cyber"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Permanent Select Committee on Intelligence: National Security Agency and Cyber"
+  ],
+  "owner": "Joint",
+  "ticker": "TLK",
+  "asset": "PT Telekomunikasi Indonesia, Tbk",
+  "asset_type": "Stock",
+  "transaction": "sell",
+  "transaction_date": "2026-10-15",
+  "notification_date": "2026-11-04",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-11-05",
+  "disclosure_lag_days": 21,
+  "filing_id": "20035770",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035770.pdf",
+  "first_seen": "2026-11-07"
+ },
+ {
+  "id": "b518493fe4e908de",
+  "chamber": "House",
+  "member": "Josh Gottheimer",
+  "bioguide_id": "G000583",
+  "in_office": true,
+  "party": "D",
+  "state": "NJ",
+  "district": 5,
+  "committees": [
+   "House Permanent Select Committee on Intelligence",
+   "House Committee on Financial Services"
+  ],
+  "subcommittees": [
+   "House Committee on Financial Services: National Security, Illicit Finance, and International Financial Institutions",
+   "House Committee on Financial Services: Digital Assets, Financial Technology, and Artificial Intelligence",
+   "House Committee on Financial Services: Capital Markets",
+   "House Permanent Select Committee on Intelligence: Defense Intelligence and Overhead Architecture",
+   "House Permanent Select Committee on Intelligence: National Security Agency and Cyber"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Permanent Select Committee on Intelligence: National Security Agency and Cyber"
+  ],
+  "owner": "Joint",
+  "ticker": "BHE",
+  "asset": "Benchmark Electronics, Inc. Common Stock",
+  "asset_type": "Stock",
+  "transaction": "buy",
+  "transaction_date": "2026-10-12",
+  "notification_date": "2026-11-04",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-11-05",
+  "disclosure_lag_days": 24,
+  "filing_id": "20035770",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035770.pdf",
+  "first_seen": "2026-11-07"
  },
  {
   "id": "9cde443db3d2b05b",
