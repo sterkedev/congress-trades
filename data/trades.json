@@ -1,5 +1,2580 @@
 [
  {
+  "id": "d10484a884edf6f0",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": null,
+  "asset": "San Ramon Valley CA Fire Protection District Cert of Participation",
+  "asset_type": "Government security",
+  "transaction": "buy",
+  "transaction_date": "2026-11-04",
+  "notification_date": "2026-11-09",
+  "amount_text": "$250,001 - $500,000",
+  "amount_min": 250001,
+  "amount_max": 500000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 6,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "d46f842ff0070d6d",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "BBIO",
+  "asset": "BridgeBio Pharma, Inc. - Common Stock",
+  "asset_type": "Stock",
+  "transaction": "buy",
+  "transaction_date": "2026-11-02",
+  "notification_date": "2026-11-09",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 8,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "121065968891967e",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "TOELF",
+  "asset": "Shares",
+  "asset_type": "Stock",
+  "transaction": "sell",
+  "transaction_date": "2026-10-30",
+  "notification_date": "2026-11-09",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": "Ticker 8035 JP Uber Technologies, Inc. Common",
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 11,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "dc4c5340f775249e",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "ARGX",
+  "asset": "argenx SE - American Depositary Shares",
+  "asset_type": "Stock",
+  "transaction": "buy",
+  "transaction_date": "2026-10-27",
+  "notification_date": "2026-11-09",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 14,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "9ff4beccfe032f9b",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "BBIO",
+  "asset": "Stock",
+  "asset_type": "Stock",
+  "transaction": "buy",
+  "transaction_date": "2026-10-27",
+  "notification_date": "2026-11-09",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 14,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "ea746b3b24876791",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "ILMN",
+  "asset": "Illumina, Inc. - Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell_partial",
+  "transaction_date": "2026-10-27",
+  "notification_date": "2026-11-09",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 14,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "512cdc81f4d7762b",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "MTSI",
+  "asset": "MACOM Technology Solutions Holdings, Inc. - Common Stock",
+  "asset_type": "Stock",
+  "transaction": "buy",
+  "transaction_date": "2026-10-27",
+  "notification_date": "2026-11-09",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 14,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "16ef5be66420cacc",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "PTC",
+  "asset": "PTC Inc. - Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell_partial",
+  "transaction_date": "2026-10-27",
+  "notification_date": "2026-11-09",
+  "amount_text": "$15,001 - $50,000",
+  "amount_min": 15001,
+  "amount_max": 50000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 14,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "7a7b7aaaf96a3f39",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "RVTY",
+  "asset": "Revvity, Inc. Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell_partial",
+  "transaction_date": "2026-10-27",
+  "notification_date": "2026-11-09",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 14,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "95045606ea2de762",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": null,
+  "asset": "San Mateo Foster City, CA, Pub. Financing Auth. Rev. Bonds",
+  "asset_type": "Government security",
+  "transaction": "sell",
+  "transaction_date": "2026-10-27",
+  "notification_date": "2026-11-09",
+  "amount_text": "$100,001 - $250,000",
+  "amount_min": 100001,
+  "amount_max": 250000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 14,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "961f265c4fc2a1cf",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": null,
+  "asset": "California Health Facilities Financing Authority Rev Bonds",
+  "asset_type": "Government security",
+  "transaction": "buy",
+  "transaction_date": "2026-10-23",
+  "notification_date": "2026-11-09",
+  "amount_text": "$250,001 - $500,000",
+  "amount_min": 250001,
+  "amount_max": 500000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 18,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "14ed8dfe391bd50c",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "TOELF",
+  "asset": "Tokyo Electron Ltd Ordinary Shares",
+  "asset_type": "Stock",
+  "transaction": "sell_partial",
+  "transaction_date": "2026-10-23",
+  "notification_date": "2026-11-09",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": "Ticker 8035 JP Tokyo Electron Ltd Ordinary",
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 18,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "e89dc84d76976b19",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "CIEN",
+  "asset": "Ciena Corporation",
+  "asset_type": "Stock",
+  "transaction": "sell",
+  "transaction_date": "2026-10-21",
+  "notification_date": "2026-11-09",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 20,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "9c63ba7c5f76f07b",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "MICR",
+  "asset": "Micron Solutions, Inc.",
+  "asset_type": "Stock",
+  "transaction": "sell_partial",
+  "transaction_date": "2026-10-21",
+  "notification_date": "2026-11-09",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 20,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "3a6d7f9a9327f041",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "NOW",
+  "asset": "ServiceNow, Inc. Common Stock",
+  "asset_type": "Stock",
+  "transaction": "buy",
+  "transaction_date": "2026-10-21",
+  "notification_date": "2026-11-09",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 20,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "30c4acd19825b831",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "ARE",
+  "asset": "Alexandria Real Estate Equities, Inc. Common Stock",
+  "asset_type": "Stock",
+  "transaction": "buy",
+  "transaction_date": "2026-10-20",
+  "notification_date": "2026-11-09",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 21,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "dd46b264a884cbcc",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "LNT",
+  "asset": "Alliant Energy Corporation",
+  "asset_type": "Stock",
+  "transaction": "buy",
+  "transaction_date": "2026-10-20",
+  "notification_date": "2026-11-09",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 21,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "6b49ff2ccaea22ec",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "APP",
+  "asset": "Applovin Corporation - Class A Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell",
+  "transaction_date": "2026-10-20",
+  "notification_date": "2026-11-09",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 21,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "17c0fa558bd060c5",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "CF",
+  "asset": "CF Industries Holdings, Inc. Common Stock",
+  "asset_type": "Stock",
+  "transaction": "buy",
+  "transaction_date": "2026-10-20",
+  "notification_date": "2026-11-09",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 21,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "375f5fb40233a682",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "CMG",
+  "asset": "Chipotle Mexican Grill, Inc. Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell",
+  "transaction_date": "2026-10-20",
+  "notification_date": "2026-11-09",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 21,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "f6a95f3af72fe082",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "CINF",
+  "asset": "Cincinnati Financial Corporation - Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell",
+  "transaction_date": "2026-10-20",
+  "notification_date": "2026-11-09",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 21,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "1a04f7fe75d189d1",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "CSCO",
+  "asset": "Cisco Systems, Inc. - Common Stock",
+  "asset_type": "Stock",
+  "transaction": "buy",
+  "transaction_date": "2026-10-20",
+  "notification_date": "2026-11-09",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 21,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "40e7e631f1be2b83",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "CMS",
+  "asset": "CMS Energy Corporation Common Stock",
+  "asset_type": "Stock",
+  "transaction": "buy",
+  "transaction_date": "2026-10-20",
+  "notification_date": "2026-11-09",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 21,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "6a37580a14b47974",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "CMCSA",
+  "asset": "Comcast Corporation - Class A Common Stock",
+  "asset_type": "Stock",
+  "transaction": "buy",
+  "transaction_date": "2026-10-20",
+  "notification_date": "2026-11-09",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 21,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "f47508e00fae5675",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "EIX",
+  "asset": "Edison International Common Stock",
+  "asset_type": "Stock",
+  "transaction": "buy",
+  "transaction_date": "2026-10-20",
+  "notification_date": "2026-11-09",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 21,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "47d21eeb98469fc0",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "LLY",
+  "asset": "Eli Lilly and Company Common Stock",
+  "asset_type": "Stock",
+  "transaction": "buy",
+  "transaction_date": "2026-10-20",
+  "notification_date": "2026-11-09",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 21,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "0471e20ae86e7b95",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": null,
+  "asset": "",
+  "asset_type": "Stock",
+  "transaction": "buy",
+  "transaction_date": "2026-10-20",
+  "notification_date": "2026-11-09",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 21,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "da898dd7cc76e099",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "FOXA",
+  "asset": "Fox Corporation - Class A Common Stock",
+  "asset_type": "Stock",
+  "transaction": "buy",
+  "transaction_date": "2026-10-20",
+  "notification_date": "2026-11-09",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 21,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "96b8f5494e0db8ce",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "GIS",
+  "asset": "General Mills, Inc. Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell",
+  "transaction_date": "2026-10-20",
+  "notification_date": "2026-11-09",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 21,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "39d1abb78e26b42f",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "PODD",
+  "asset": "Insulet Corporation - Common Stock",
+  "asset_type": "Stock",
+  "transaction": "buy",
+  "transaction_date": "2026-10-20",
+  "notification_date": "2026-11-09",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 21,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "5a2090a451d62d4b",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "LITE",
+  "asset": "Lumentum Holdings Inc. - Common Stock",
+  "asset_type": "Stock",
+  "transaction": "buy",
+  "transaction_date": "2026-10-20",
+  "notification_date": "2026-11-09",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 21,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "707ab834dc7da017",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "MRNA",
+  "asset": "Moderna, Inc. - Common Stock",
+  "asset_type": "Stock",
+  "transaction": "buy",
+  "transaction_date": "2026-10-20",
+  "notification_date": "2026-11-09",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 21,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "bb15fc63bab56830",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "NCLH",
+  "asset": "Ltd. Ordinary Shares",
+  "asset_type": "Stock",
+  "transaction": "buy",
+  "transaction_date": "2026-10-20",
+  "notification_date": "2026-11-09",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 21,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "478a0617d7562606",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "NVDA",
+  "asset": "NVIDIA Corporation - Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell_partial",
+  "transaction_date": "2026-10-20",
+  "notification_date": "2026-11-09",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 21,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "db959d02c9b51de9",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "O",
+  "asset": "Realty Income Corporation Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell_partial",
+  "transaction_date": "2026-10-20",
+  "notification_date": "2026-11-09",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 21,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "88aa92491f851a12",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "CPB",
+  "asset": "The Campbell's Company - Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell",
+  "transaction_date": "2026-10-20",
+  "notification_date": "2026-11-09",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 21,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "1c070be74d888d44",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "TTD",
+  "asset": "The Trade Desk, Inc. - Class A Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell",
+  "transaction_date": "2026-10-20",
+  "notification_date": "2026-11-09",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 21,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "0ed74b1d80937eb4",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "UBER",
+  "asset": "Stock",
+  "asset_type": "Stock",
+  "transaction": "sell",
+  "transaction_date": "2026-10-20",
+  "notification_date": "2026-11-09",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 21,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "50c8922c9cbc7d6b",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "WFC",
+  "asset": "Wells Fargo & Company Common Stock",
+  "asset_type": "Stock",
+  "transaction": "buy",
+  "transaction_date": "2026-10-20",
+  "notification_date": "2026-11-09",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 21,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "76a827a25ce44934",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": null,
+  "asset": "California Community Choice Financing Authority Rev Bonds",
+  "asset_type": "Government security",
+  "transaction": "buy",
+  "transaction_date": "2026-10-19",
+  "notification_date": "2026-11-09",
+  "amount_text": "$250,001 - $500,000",
+  "amount_min": 250001,
+  "amount_max": 500000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 22,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "af15ca36d1dfddab",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "TXRH",
+  "asset": "Texas Roadhouse, Inc. - Common Stock",
+  "asset_type": "Stock",
+  "transaction": "buy",
+  "transaction_date": "2026-10-16",
+  "notification_date": "2026-11-09",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 25,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "7739835593d351f1",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "ARGX",
+  "asset": "argenx SE - American Depositary Shares",
+  "asset_type": "Stock",
+  "transaction": "buy",
+  "transaction_date": "2026-10-15",
+  "notification_date": "2026-11-09",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 26,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "6cb6030dfa0d684f",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "LNTH",
+  "asset": "Lantheus Holdings, Inc. - Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell",
+  "transaction_date": "2026-10-15",
+  "notification_date": "2026-11-09",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 26,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "a32251dad435a7e9",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "MBGL",
+  "asset": "Mobility Global Inc. Common Stock",
+  "asset_type": "Stock",
+  "transaction": "buy",
+  "transaction_date": "2026-10-15",
+  "notification_date": "2026-11-09",
+  "amount_text": "$50,001 - $100,000",
+  "amount_min": 50001,
+  "amount_max": 100000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 26,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "970a92175073e0be",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "STRC",
+  "asset": "Strategy Inc - Variable Rate Series A Perpetual Stretch Preferred Stock",
+  "asset_type": "Stock",
+  "transaction": "sell",
+  "transaction_date": "2026-10-15",
+  "notification_date": "2026-11-09",
+  "amount_text": "$50,001 - $100,000",
+  "amount_min": 50001,
+  "amount_max": 100000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 26,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "63d6260da0c5abfd",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "APP",
+  "asset": "Applovin Corporation - Class A Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell_partial",
+  "transaction_date": "2026-10-14",
+  "notification_date": "2026-11-09",
+  "amount_text": "$15,001 - $50,000",
+  "amount_min": 15001,
+  "amount_max": 50000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 27,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "ce20edbe2c32109a",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "ARGX",
+  "asset": "argenx SE - American Depositary Shares",
+  "asset_type": "Stock",
+  "transaction": "buy",
+  "transaction_date": "2026-10-14",
+  "notification_date": "2026-11-09",
+  "amount_text": "$15,001 - $50,000",
+  "amount_min": 15001,
+  "amount_max": 50000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 27,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "bf10f0fe32625855",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "CTVA",
+  "asset": "Corteva, Inc. Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell_partial",
+  "transaction_date": "2026-10-14",
+  "notification_date": "2026-11-09",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 27,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "e82348bdc51c7edf",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "LNTH",
+  "asset": "Lantheus Holdings, Inc. - Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell_partial",
+  "transaction_date": "2026-10-14",
+  "notification_date": "2026-11-09",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 27,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "35b67619cc1d5450",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "ON",
+  "asset": "ON Semiconductor Corporation - Common Stock",
+  "asset_type": "Stock",
+  "transaction": "buy",
+  "transaction_date": "2026-10-14",
+  "notification_date": "2026-11-09",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 27,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "e0cc03462688e0bf",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "SNEJF",
+  "asset": "SONY GROUP CORP",
+  "asset_type": "Stock",
+  "transaction": "buy",
+  "transaction_date": "2026-10-14",
+  "notification_date": "2026-11-09",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": "Ticker 6758 JP StandardAero, Inc. Common Stock",
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 27,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "a024b68bc5eccf3a",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "SARO",
+  "asset": "",
+  "asset_type": "Stock",
+  "transaction": "buy",
+  "transaction_date": "2026-10-14",
+  "notification_date": "2026-11-09",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 27,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "40324fcf6a713716",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "COO",
+  "asset": "The Cooper Companies, Inc.",
+  "asset_type": "Stock",
+  "transaction": "buy",
+  "transaction_date": "2026-10-14",
+  "notification_date": "2026-11-09",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 27,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "41ede739581afda0",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "BNPQF",
+  "asset": "BNP PARIBAS ORD",
+  "asset_type": "Stock",
+  "transaction": "sell",
+  "transaction_date": "2026-10-13",
+  "notification_date": "2026-11-09",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": "Ticker BNP FP BridgeBio Pharma, Inc. - Common",
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 28,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "66327b1ccbe29564",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "ENGQF",
+  "asset": "ENGIE SA ORD",
+  "asset_type": "Stock",
+  "transaction": "sell",
+  "transaction_date": "2026-10-13",
+  "notification_date": "2026-11-09",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": "Ticker ENGI FP Fidelity National Information Services, Inc. Common Stock (FIS)",
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 28,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "86e2a8dc72aad646",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": null,
+  "asset": "Milwaukee, Wisconsin GO Promissory Notes Series N2",
+  "asset_type": "Government security",
+  "transaction": "sell",
+  "transaction_date": "2026-10-13",
+  "notification_date": "2026-11-09",
+  "amount_text": "$100,001 - $250,000",
+  "amount_min": 100001,
+  "amount_max": 250000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 28,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "91997868bb66f9b8",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": null,
+  "asset": "Corporation Revenue Bonds",
+  "asset_type": "Government security",
+  "transaction": "sell_partial",
+  "transaction_date": "2026-10-13",
+  "notification_date": "2026-11-09",
+  "amount_text": "$50,001 - $100,000",
+  "amount_min": 50001,
+  "amount_max": 100000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 28,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "de8f9bac2213602b",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "BNS",
+  "asset": "Bank Nova Scotia Halifax Pfd 3 Ordinary Shares",
+  "asset_type": "Stock",
+  "transaction": "buy",
+  "transaction_date": "2026-10-09",
+  "notification_date": "2026-11-09",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": "Ticker BNS CN",
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 32,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "81d67ee5ea1a8c1f",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "META",
+  "asset": "Meta Platforms, Inc. - Class A Common Stock",
+  "asset_type": "Stock",
+  "transaction": "buy",
+  "transaction_date": "2026-10-09",
+  "notification_date": "2026-11-09",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 32,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "688df025b9c3ed36",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": null,
+  "asset": "Wisconsin State Health & Educational Facilities Authority Rev. Bonds",
+  "asset_type": "Government security",
+  "transaction": "sell",
+  "transaction_date": "2026-10-09",
+  "notification_date": "2026-11-09",
+  "amount_text": "$250,001 - $500,000",
+  "amount_min": 250001,
+  "amount_max": 500000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 32,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "64fb834dcf3de5ff",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "MRAAF",
+  "asset": "Murata Manufacturing Ordinary Shares",
+  "asset_type": "Stock",
+  "transaction": "buy",
+  "transaction_date": "2026-10-08",
+  "notification_date": "2026-11-09",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": "Ticker 6981 JP New York Liberty Development",
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 33,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "b69a628d96fce2c3",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "WBD",
+  "asset": "Warner Bros. Discovery, Inc. - Series A Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell",
+  "transaction_date": "2026-10-07",
+  "notification_date": "2026-11-09",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 34,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "b2ac89ed2403b3fc",
+  "chamber": "House",
+  "member": "Julie Johnson",
+  "bioguide_id": "J000310",
+  "in_office": true,
+  "party": "D",
+  "state": "TX",
+  "district": 32,
+  "committees": [
+   "Joint Committee of Congress on the Library",
+   "House Committee on Homeland Security",
+   "House Committee on Foreign Affairs",
+   "House Committee on House Administration"
+  ],
+  "subcommittees": [
+   "House Committee on Homeland Security: Emergency Management and Technology",
+   "House Committee on House Administration: Elections",
+   "House Committee on Homeland Security: Border Security and Enforcement",
+   "House Committee on Foreign Affairs: South and Central Asia",
+   "House Committee on Foreign Affairs: Europe"
+  ],
+  "leadership_roles": [],
+  "owner": "Joint",
+  "ticker": "WBD",
+  "asset": "Warner Bros. Discovery, Inc. - Series A Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell",
+  "transaction_date": "2026-10-07",
+  "notification_date": "2026-11-09",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 34,
+  "filing_id": "20035806",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035806.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "048e50fddc17298e",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "HD",
+  "asset": "Home Depot, Inc.",
+  "asset_type": "Stock",
+  "transaction": "sell_partial",
+  "transaction_date": "2026-10-06",
+  "notification_date": "2026-11-09",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 35,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "d3e1b930c1f80e0b",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "TKO",
+  "asset": "TKO Group Holdings, Inc. Class A Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell",
+  "transaction_date": "2026-10-06",
+  "notification_date": "2026-11-09",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 35,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "id": "bc7b031babc46e5a",
+  "chamber": "House",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "bioguide_id": "C001123",
+  "in_office": true,
+  "party": "D",
+  "state": "CA",
+  "district": 31,
+  "committees": [
+   "House Committee on Armed Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Oversight, Investigations, and Regulations",
+   "House Committee on Armed Services: Intelligence and Special Operations",
+   "House Committee on Armed Services: Military Personnel"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Small Business: Contracting and Infrastructure"
+  ],
+  "owner": "Self",
+  "ticker": "STRC",
+  "asset": "2000164032 Strategy Inc - Variable Rate Series A Perpetual Stretch Preferred Stock",
+  "asset_type": "Stock",
+  "transaction": "buy",
+  "transaction_date": "2026-06-05",
+  "notification_date": "2026-07-02",
+  "amount_text": "$15,001 - $50,000",
+  "amount_min": 15001,
+  "amount_max": 50000,
+  "description": null,
+  "filed_date": "2026-11-10",
+  "disclosure_lag_days": 158,
+  "filing_id": "20035788",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+  "first_seen": "2026-11-12"
+ },
+ {
   "id": "dd7c5cc79138d068",
   "chamber": "House",
   "member": "Thomas R. Suozzi",
