@@ -1,5 +1,164 @@
 [
  {
+  "id": "9b36d9e36f9e5941",
+  "chamber": "House",
+  "member": "Rick W. Allen",
+  "bioguide_id": "A000372",
+  "in_office": true,
+  "party": "R",
+  "state": "GA",
+  "district": 12,
+  "committees": [
+   "House Committee on Energy and Commerce",
+   "House Committee on Education and Workforce"
+  ],
+  "subcommittees": [
+   "House Committee on Energy and Commerce: Oversight and Investigations",
+   "House Committee on Energy and Commerce: Energy",
+   "House Committee on Energy and Commerce: Communications and Technology",
+   "House Committee on Education and Workforce: Health, Employment, Labor, and Pensions"
+  ],
+  "leadership_roles": [
+   "Vice Chair, House Committee on Energy and Commerce: Communications and Technology",
+   "Chairman, House Committee on Education and Workforce: Health, Employment, Labor, and Pensions"
+  ],
+  "owner": "Spouse",
+  "ticker": "SHW",
+  "asset": "Sherwin-Williams Company",
+  "asset_type": "Stock",
+  "transaction": "sell_partial",
+  "transaction_date": "2026-10-09",
+  "notification_date": "2026-11-10",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-11-11",
+  "disclosure_lag_days": 33,
+  "filing_id": "20035821",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035821.pdf",
+  "first_seen": "2026-11-13"
+ },
+ {
+  "id": "75a97c989dc606c3",
+  "chamber": "House",
+  "member": "Rick W. Allen",
+  "bioguide_id": "A000372",
+  "in_office": true,
+  "party": "R",
+  "state": "GA",
+  "district": 12,
+  "committees": [
+   "House Committee on Energy and Commerce",
+   "House Committee on Education and Workforce"
+  ],
+  "subcommittees": [
+   "House Committee on Energy and Commerce: Oversight and Investigations",
+   "House Committee on Energy and Commerce: Energy",
+   "House Committee on Energy and Commerce: Communications and Technology",
+   "House Committee on Education and Workforce: Health, Employment, Labor, and Pensions"
+  ],
+  "leadership_roles": [
+   "Vice Chair, House Committee on Energy and Commerce: Communications and Technology",
+   "Chairman, House Committee on Education and Workforce: Health, Employment, Labor, and Pensions"
+  ],
+  "owner": "Self",
+  "ticker": null,
+  "asset": "US Treasury Note 3.5% DUE 1/31/30 (91282CGJ4)",
+  "asset_type": "Government security",
+  "transaction": "buy",
+  "transaction_date": "2026-10-02",
+  "notification_date": "2026-11-10",
+  "amount_text": "$15,001 - $50,000",
+  "amount_min": 15001,
+  "amount_max": 50000,
+  "description": null,
+  "filed_date": "2026-11-11",
+  "disclosure_lag_days": 40,
+  "filing_id": "20035821",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035821.pdf",
+  "first_seen": "2026-11-13"
+ },
+ {
+  "id": "6ec310a2ccd38504",
+  "chamber": "House",
+  "member": "Rick W. Allen",
+  "bioguide_id": "A000372",
+  "in_office": true,
+  "party": "R",
+  "state": "GA",
+  "district": 12,
+  "committees": [
+   "House Committee on Energy and Commerce",
+   "House Committee on Education and Workforce"
+  ],
+  "subcommittees": [
+   "House Committee on Energy and Commerce: Oversight and Investigations",
+   "House Committee on Energy and Commerce: Energy",
+   "House Committee on Energy and Commerce: Communications and Technology",
+   "House Committee on Education and Workforce: Health, Employment, Labor, and Pensions"
+  ],
+  "leadership_roles": [
+   "Vice Chair, House Committee on Energy and Commerce: Communications and Technology",
+   "Chairman, House Committee on Education and Workforce: Health, Employment, Labor, and Pensions"
+  ],
+  "owner": "Self",
+  "ticker": null,
+  "asset": "US Treasury Note 4% DUE 7/31/29 (91282CLC3)",
+  "asset_type": "Government security",
+  "transaction": "buy",
+  "transaction_date": "2026-10-02",
+  "notification_date": "2026-11-10",
+  "amount_text": "$15,001 - $50,000",
+  "amount_min": 15001,
+  "amount_max": 50000,
+  "description": null,
+  "filed_date": "2026-11-11",
+  "disclosure_lag_days": 40,
+  "filing_id": "20035821",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035821.pdf",
+  "first_seen": "2026-11-13"
+ },
+ {
+  "id": "eeb98542df818791",
+  "chamber": "House",
+  "member": "Lloyd Doggett",
+  "bioguide_id": "D000399",
+  "in_office": true,
+  "party": "D",
+  "state": "TX",
+  "district": 37,
+  "committees": [
+   "Joint Committee on Taxation",
+   "House Committee on Ways and Means",
+   "House Committee on the Budget"
+  ],
+  "subcommittees": [
+   "House Committee on Ways and Means: Trade",
+   "House Committee on Ways and Means: Oversight",
+   "House Committee on Ways and Means: Health"
+  ],
+  "leadership_roles": [
+   "Ranking Member, House Committee on Ways and Means: Health"
+  ],
+  "owner": "Self",
+  "ticker": "KO",
+  "asset": "Coca-Cola Company",
+  "asset_type": "Stock",
+  "transaction": "buy",
+  "transaction_date": "2026-10-01",
+  "notification_date": "2026-11-05",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": "Automatic reinvestment of dividends earned.",
+  "filed_date": "2026-11-11",
+  "disclosure_lag_days": 41,
+  "filing_id": "20035826",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035826.pdf",
+  "first_seen": "2026-11-13"
+ },
+ {
   "id": "d10484a884edf6f0",
   "chamber": "House",
   "member": "Gilbert Ray Cisneros, Jr.",
