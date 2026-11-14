@@ -1,10 +1,12 @@
 {
  "last_run": {
-  "run_at": "2026-11-13T14:39:38+00:00",
-  "errors": [],
+  "run_at": "2026-11-14T13:37:27+00:00",
+  "errors": [
+   "Senate failed: TransientError: POST https://efdsearch.senate.gov/search/report/data/ failed: HTTP 403"
+  ],
   "house": {
-   "filings": 2,
-   "trades": 4,
+   "filings": 1,
+   "trades": 19,
    "download_failures": 0,
    "backlog": 0
   },
@@ -12,11 +14,18 @@
    "filings": 0,
    "trades": 0,
    "download_failures": 0,
-   "backlog": 0
+   "backlog": null
   },
-  "status": "ok"
+  "status": "partial"
  },
  "history": [
+  {
+   "run_at": "2026-11-14T13:37:27+00:00",
+   "status": "partial",
+   "house_trades": 19,
+   "senate_trades": 0,
+   "errors": 1
+  },
   {
    "run_at": "2026-11-13T14:39:38+00:00",
    "status": "ok",
@@ -217,13 +226,6 @@
    "run_at": "2026-10-16T11:30:30+00:00",
    "status": "ok",
    "house_trades": 9,
-   "senate_trades": 0,
-   "errors": 0
-  },
-  {
-   "run_at": "2026-10-15T11:36:14+00:00",
-   "status": "ok",
-   "house_trades": 25,
    "senate_trades": 0,
    "errors": 0
   }
