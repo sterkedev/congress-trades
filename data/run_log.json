@@ -1,10 +1,10 @@
 {
  "last_run": {
-  "run_at": "2026-11-16T15:54:56+00:00",
+  "run_at": "2026-11-17T16:07:02+00:00",
   "errors": [],
   "house": {
-   "filings": 0,
-   "trades": 0,
+   "filings": 4,
+   "trades": 20,
    "download_failures": 0,
    "backlog": 0
   },
@@ -17,6 +17,13 @@
   "status": "ok"
  },
  "history": [
+  {
+   "run_at": "2026-11-17T16:07:02+00:00",
+   "status": "ok",
+   "house_trades": 20,
+   "senate_trades": 0,
+   "errors": 0
+  },
   {
    "run_at": "2026-11-16T15:54:56+00:00",
    "status": "ok",
@@ -215,13 +222,6 @@
   },
   {
    "run_at": "2026-10-19T13:26:07+00:00",
-   "status": "ok",
-   "house_trades": 0,
-   "senate_trades": 0,
-   "errors": 0
-  },
-  {
-   "run_at": "2026-10-18T11:14:13+00:00",
    "status": "ok",
    "house_trades": 0,
    "senate_trades": 0,
