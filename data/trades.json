@@ -1,5 +1,73 @@
 [
  {
+  "id": "0ed9f3fb116da49e",
+  "chamber": "House",
+  "member": "Ed Case",
+  "bioguide_id": "C001055",
+  "in_office": true,
+  "party": "D",
+  "state": "HI",
+  "district": 1,
+  "committees": [
+   "House Committee on Appropriations"
+  ],
+  "subcommittees": [
+   "House Committee on Appropriations: Defense",
+   "House Committee on Appropriations: Homeland Security"
+  ],
+  "leadership_roles": [],
+  "owner": "Spouse",
+  "ticker": "AAPL",
+  "asset": "Apple Inc. - Common Stock",
+  "asset_type": "Stock",
+  "transaction": "buy",
+  "transaction_date": "2026-11-16",
+  "notification_date": "2026-11-21",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": "Automatic stock dividend reinvestment C",
+  "filed_date": "2026-11-21",
+  "disclosure_lag_days": 5,
+  "filing_id": "20036891",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036891.pdf",
+  "first_seen": "2026-11-23"
+ },
+ {
+  "id": "84409ffaa0c6d221",
+  "chamber": "House",
+  "member": "Jennifer L. McClellan",
+  "bioguide_id": "M001227",
+  "in_office": true,
+  "party": "D",
+  "state": "VA",
+  "district": 4,
+  "committees": [
+   "House Committee on Energy and Commerce"
+  ],
+  "subcommittees": [
+   "House Committee on Energy and Commerce: Energy",
+   "House Committee on Energy and Commerce: Communications and Technology"
+  ],
+  "leadership_roles": [],
+  "owner": "Self",
+  "ticker": "VZ",
+  "asset": "Verizon Communications Inc. Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell_partial",
+  "transaction_date": "2026-11-19",
+  "notification_date": "2026-11-19",
+  "amount_text": "$50,001 - $100,000",
+  "amount_min": 50001,
+  "amount_max": 100000,
+  "description": null,
+  "filed_date": "2026-11-20",
+  "disclosure_lag_days": 1,
+  "filing_id": "20036883",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036883.pdf",
+  "first_seen": "2026-11-23"
+ },
+ {
   "id": "91fd77329c941a31",
   "chamber": "Senate",
   "member": "Ted Cruz",
