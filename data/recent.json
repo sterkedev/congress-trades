@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T17:52:10+00:00",
+ "generated_at": "2026-11-25T17:18:38+00:00",
  "window_days": 30,
  "note": "Trades whose filing became public in the window (filed_date). Member party, state and committee seats are in 'members', keyed by trade.member.",
  "members": {
@@ -31,6 +31,27 @@
    "leadership_roles": [
     "Ranking Member, Senate Committee on Homeland Security and Governmental Affairs: Permanent Subcommittee on Investigations",
     "Ranking Member, Senate Committee on Veterans' Affairs"
+   ]
+  },
+  "Daniel Meuser": {
+   "bioguide_id": "M001204",
+   "chamber": "House",
+   "in_office": true,
+   "party": "R",
+   "state": "PA",
+   "district": 9,
+   "committees": [
+    "House Committee on Financial Services",
+    "House Committee on Small Business"
+   ],
+   "subcommittees": [
+    "House Committee on Small Business: Contracting and Infrastructure",
+    "House Committee on Small Business: Economic Growth, Tax, and Capital Access",
+    "House Committee on Financial Services: Oversight and Investigations",
+    "House Committee on Financial Services: Financial Institutions"
+   ],
+   "leadership_roles": [
+    "Chairman, House Committee on Financial Services: Oversight and Investigations"
    ]
   },
   "Harriet M. Hageman": {
@@ -577,27 +598,6 @@
     "Chair, House Committee on Foreign Affairs: Western Hemisphere"
    ]
   },
-  "Daniel Meuser": {
-   "bioguide_id": "M001204",
-   "chamber": "House",
-   "in_office": true,
-   "party": "R",
-   "state": "PA",
-   "district": 9,
-   "committees": [
-    "House Committee on Financial Services",
-    "House Committee on Small Business"
-   ],
-   "subcommittees": [
-    "House Committee on Small Business: Contracting and Infrastructure",
-    "House Committee on Small Business: Economic Growth, Tax, and Capital Access",
-    "House Committee on Financial Services: Oversight and Investigations",
-    "House Committee on Financial Services: Financial Institutions"
-   ],
-   "leadership_roles": [
-    "Chairman, House Committee on Financial Services: Oversight and Investigations"
-   ]
-  },
   "Shelley Moore Capito": {
    "bioguide_id": "C001047",
    "chamber": "Senate",
@@ -1083,6 +1083,27 @@
    "filing_id": "9d3510cc-b11b-4777-a8a8-f0a58e886290",
    "filing_url": "https://efdsearch.senate.gov/search/view/ptr/9d3510cc-b11b-4777-a8a8-f0a58e886290/",
    "first_seen": "2026-11-24"
+  },
+  {
+   "id": "902a0f4b64731cac",
+   "chamber": "House",
+   "member": "Daniel Meuser",
+   "owner": "Spouse",
+   "ticker": "NVDA",
+   "asset": "NVIDIA Corporation - Common Stock",
+   "asset_type": "Stock",
+   "transaction": "sell_partial",
+   "transaction_date": "2026-10-27",
+   "notification_date": "2026-11-13",
+   "amount_text": "$1,001 - $15,000",
+   "amount_min": 1001,
+   "amount_max": 15000,
+   "description": null,
+   "filed_date": "2026-11-24",
+   "disclosure_lag_days": 28,
+   "filing_id": "20036848",
+   "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036848.pdf",
+   "first_seen": "2026-11-25"
   },
   {
    "id": "085d7ebd219e5639",

@@ -432,6 +432,45 @@
   "first_seen": "2026-11-24"
  },
  {
+  "id": "902a0f4b64731cac",
+  "chamber": "House",
+  "member": "Daniel Meuser",
+  "bioguide_id": "M001204",
+  "in_office": true,
+  "party": "R",
+  "state": "PA",
+  "district": 9,
+  "committees": [
+   "House Committee on Financial Services",
+   "House Committee on Small Business"
+  ],
+  "subcommittees": [
+   "House Committee on Small Business: Contracting and Infrastructure",
+   "House Committee on Small Business: Economic Growth, Tax, and Capital Access",
+   "House Committee on Financial Services: Oversight and Investigations",
+   "House Committee on Financial Services: Financial Institutions"
+  ],
+  "leadership_roles": [
+   "Chairman, House Committee on Financial Services: Oversight and Investigations"
+  ],
+  "owner": "Spouse",
+  "ticker": "NVDA",
+  "asset": "NVIDIA Corporation - Common Stock",
+  "asset_type": "Stock",
+  "transaction": "sell_partial",
+  "transaction_date": "2026-10-27",
+  "notification_date": "2026-11-13",
+  "amount_text": "$1,001 - $15,000",
+  "amount_min": 1001,
+  "amount_max": 15000,
+  "description": null,
+  "filed_date": "2026-11-24",
+  "disclosure_lag_days": 28,
+  "filing_id": "20036848",
+  "filing_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036848.pdf",
+  "first_seen": "2026-11-25"
+ },
+ {
   "id": "085d7ebd219e5639",
   "chamber": "Senate",
   "member": "Richard Blumenthal",

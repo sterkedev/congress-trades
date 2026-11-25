@@ -1,22 +1,29 @@
 {
  "last_run": {
-  "run_at": "2026-11-24T17:51:54+00:00",
+  "run_at": "2026-11-25T17:18:22+00:00",
   "errors": [],
   "house": {
    "filings": 1,
-   "trades": 169,
-   "download_failures": 1,
+   "trades": 1,
+   "download_failures": 0,
    "backlog": 0
   },
   "senate": {
-   "filings": 1,
-   "trades": 33,
+   "filings": 0,
+   "trades": 0,
    "download_failures": 0,
    "backlog": 0
   },
   "status": "ok"
  },
  "history": [
+  {
+   "run_at": "2026-11-25T17:18:22+00:00",
+   "status": "ok",
+   "house_trades": 1,
+   "senate_trades": 0,
+   "errors": 0
+  },
   {
    "run_at": "2026-11-24T17:51:54+00:00",
    "status": "ok",
@@ -215,13 +222,6 @@
   },
   {
    "run_at": "2026-10-27T12:19:21+00:00",
-   "status": "partial",
-   "house_trades": 0,
-   "senate_trades": 0,
-   "errors": 1
-  },
-  {
-   "run_at": "2026-10-26T13:11:04+00:00",
    "status": "partial",
    "house_trades": 0,
    "senate_trades": 0,
